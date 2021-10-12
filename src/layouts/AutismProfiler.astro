@@ -1,0 +1,21 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import AutismProfiler from '../components/AutismProfiler.astro';
+
+const {title, description, permalink} = Astro.props;
+---
+<html lang={ 'en' }>
+  <head>
+    <BaseHead title={title} description={description} permalink={permalink} />
+    <link rel="stylesheet" href="/blog.css" />
+  </head>
+
+  <body>
+    <Header />
+    <AutismProfiler>
+      <slot />
+    </AutismProfiler>
+  </body>
+</html>
+

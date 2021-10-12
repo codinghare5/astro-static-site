@@ -1,0 +1,104 @@
+---
+import fetch from 'node-fetch'
+if (!globalThis.fetch) {
+	globalThis.fetch = fetch
+}
+
+---
+<script src="https://js.stripe.com/v3/"></script>
+<div class="layout">
+  <article class="content">
+  <div>
+	<header>
+	  <button type="submit" class="btn btn-primary" id="checkout-button">Submit and Pay</button>
+	  <span id="redirect-warning">This button will redirect you to the payment page.</span>
+	  
+	  <script>
+		  var stripe = Stripe("pk_test_51JbpHHHpeW5ReVH549OdzaS9nlscB68G1XGArNolH3tBTiuO49NpaaZZLLctZtZVf5qwGVOIYv0WeHMt4IMiEz8o00T8selSwh");
+		  
+		  var checkoutButton = document.querySelector("#checkout-button");
+		  checkoutButton.addEventListener("click", function () {
+			  stripe.redirectToCheckout({
+			  lineItems: [{
+				price: "price_1JbqVUHpeW5ReVH54HQpLlI3", // Replace with the ID of your price
+				quantity: 1,
+			  }],
+			  mode: "payment",
+			  successUrl: "http://localhost:3000/success",
+			  cancelUrl: "http://localhost:3000/cancel",
+			  }).then(function (result) {
+				const warning = document.getElementById('redirect-warning').innerText
+				warning = `result.error.message`
+			  });
+		  });
+	  </script>
+	</header>
+	<main>
+		<slot />
+	</main>
+  </div>
+  </article>
+</div>
+
+<style>
+.hero-image {
+  width: 100vw;
+  object-fit: cover;
+  object-position: center;
+  margin-top: 2rem;
+  margin-bottom: 4rem;
+  max-width: 1280px;
+}
+
+@media (max-width: 50em) {
+  .hero-image {
+	height: 260px;
+  margin-top: 0;
+  margin-bottom: 2rem;
+  }
+}
+
+.content {
+  margin-bottom: 8rem;
+}
+
+.content :global(main > * + *) {
+  margin-top: 1rem;
+}
+
+.content :global(h2) {
+  margin-top: 4rem;
+}
+
+header {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+
+  padding-bottom: 2rem;
+  margin-bottom: 2rem;
+  border-bottom: 4px solid var(--theme-divider);
+}
+
+.title,
+.author,
+.publish-date {
+  margin: 0;
+}
+
+.publish-date,
+.author {
+  color: var(--theme-text-lighter);
+}
+
+.title {
+  font-size: 2.25rem;
+  font-weight: 700;
+}
+
+#redirect-warning {
+  font-size: 0.8rem;
+}
+</style>

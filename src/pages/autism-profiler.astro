@@ -1,0 +1,92 @@
+---
+import AutismProfiler from '../layouts/AutismProfiler.astro'
+
+const title = 'Introducing Astro: Ship Less JavaScript'
+const description = "We're excited to announce Astro as a new way to build static websites and deliver lightning-fast performance without sacrificing a modern developer experience."
+const author = 'Elizabeth Guest'
+const heroImage = '/social.jpg'
+const alt = 'Full Autism Profile'
+const layout = '../../layouts/BlogPost.astro'
+let permalink = 'http://localhost:3000/'
+---
+<style>
+    body {
+        width: 100%;
+        display: grid;
+        grid-template-rows: 3.5rem 1fr;
+        --gutter: 0.5rem;
+        --doc-padding: 2rem;
+    }
+
+    header {
+        width: 100%;
+        height: 100%;
+        background-color: var(--theme-bg-offset);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .content {
+        padding-top: 10rem;
+        padding-bottom: 8rem;
+        z-index: 1;
+        height: calc(100vh - 5rem);
+        max-height: 100vh;
+    }
+
+    .content :global(main > * + *) {
+        margin-top: 1rem;
+    }
+
+    .content-break {
+        padding-top: 10rem;
+        padding-bottom: 8rem;
+        z-index: 1;
+        height: calc(100vh - 5rem);
+        max-height: 100vh;
+    }
+
+    .content-break :global(main > * + *) {
+        margin-top: 1rem;
+    }
+
+    .intro {
+        padding: 1rem;
+        margin-bottom: 2rem;
+        /* border-bottom: 4px solid var(--theme-divider); */
+        box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.2);
+        border-radius: 15px;
+        background: rgba(255, 255, 255, 0.1);
+        border-top: 1px solid rgba(255, 255, 255, 0.5);
+        border-left: 1px solid rgba(255, 255, 255, 0.5);
+        border-left: 1px solid rgba(255, 255, 255, 0.5);
+        backdrop-filter: blur(5px);
+    }
+
+    .intro > * {
+        margin: 0;
+    }
+
+    .intro > p {
+        margin-block: 0.75rem;
+        color: var(--color-gray-200);
+    }
+
+    .latest {
+        font-size: 2.5rem;
+        font-weight: 700;
+        color: white;
+    }
+
+    @media screen and (max-width: 375px) {
+    .content {
+        padding-top: 5rem;
+    }
+    .latest {
+        font-size: 1.5rem;
+        font-weight: 600;
+    }
+    }
+</style>
+<AutismProfiler title={title} description={description} permalink={permalink}/>
