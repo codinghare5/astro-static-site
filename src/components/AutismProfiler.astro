@@ -3,38 +3,70 @@ import fetch from 'node-fetch'
 if (!globalThis.fetch) {
 	globalThis.fetch = fetch
 }
-
+import StripeCheckoutBtn from '../components/StripeCheckoutBtn.astro'
 ---
 <script src="https://js.stripe.com/v3/"></script>
 <div class="layout">
   <article class="content">
-  <div>
+  <div class="intro">
 	<header>
-	  <button type="submit" class="btn btn-primary" id="checkout-button">Submit and Pay</button>
-	  <span id="redirect-warning">This button will redirect you to the payment page.</span>
-	  
-	  <script>
-		  var stripe = Stripe("pk_test_51JbpHHHpeW5ReVH549OdzaS9nlscB68G1XGArNolH3tBTiuO49NpaaZZLLctZtZVf5qwGVOIYv0WeHMt4IMiEz8o00T8selSwh");
-		  
-		  var checkoutButton = document.querySelector("#checkout-button");
-		  checkoutButton.addEventListener("click", function () {
-			  stripe.redirectToCheckout({
-			  lineItems: [{
-				price: "price_1JbqVUHpeW5ReVH54HQpLlI3", // Replace with the ID of your price
-				quantity: 1,
-			  }],
-			  mode: "payment",
-			  successUrl: "http://localhost:3000/success",
-			  cancelUrl: "http://localhost:3000/cancel",
-			  }).then(function (result) {
-				const warning = document.getElementById('redirect-warning').innerText
-				warning = `result.error.message`
-			  });
-		  });
-	  </script>
+		<h2>Autism Profiler</h2>
 	</header>
 	<main>
 		<slot />
+		<select id="currency">
+			<option value="gbp">GBP</option>
+			<option value ="usd">USD</option>
+		</select>
+		<StripeCheckoutBtn>Submit and Pay</StripeCheckoutBtn>
+		<span id="redirect-warning">This button will redirect you to the payment page.</span>
+		
+		<script>
+			var stripe = Stripe("pk_test_51JbpHHHpeW5ReVH549OdzaS9nlscB68G1XGArNolH3tBTiuO49NpaaZZLLctZtZVf5qwGVOIYv0WeHMt4IMiEz8o00T8selSwh");
+			var prices;
+
+			async function getPrices() {
+				const result = await fetch('http://localhost:3001/store')
+				const exam = await result.json();
+
+            	return exam;
+			}
+
+			const stripeRedirect = (priceId) => {
+				stripe.redirectToCheckout({
+					lineItems: [{
+						price: priceId, // Replace with the ID of your price
+					quantity: 1,
+					}],
+					mode: "payment",
+					successUrl: "http://localhost:3000/success",
+					cancelUrl: "http://localhost:3000/autism-profiler",
+				}).then(function (result) {
+					const warning = document.getElementById('redirect-warning')
+					warning.innerText = result.error.message
+				});
+			}
+
+			const currencyPicker = document.querySelector("#currency");
+			var checkoutButton = document.querySelector("#checkout-button");
+			getPrices().then(result => {
+				prices = result
+				var priceId = prices['items']['autism-profiler'].filter(currency => currency.iso === currencyPicker.value)[0].priceId
+				console.log(priceId)
+				checkoutButton.addEventListener("click", () => stripeRedirect(priceId))
+				
+				currencyPicker.addEventListener('change', () => {
+					if( prices&&prices!= null ){
+						var priceId = prices['items']['autism-profiler'].filter(currency => currency.iso === currencyPicker.value)[0].priceId
+						console.log(priceId)
+
+						checkoutButton.removeEventListener('click', () => stripeRedirect(priceId))
+						checkoutButton.addEventListener("click", () => stripeRedirect(priceId))
+					// "price_1JbqVUHpeW5ReVH54HQpLlI3"
+					}
+				})
+			})
+		</script>
 	</main>
   </div>
   </article>
@@ -59,6 +91,7 @@ if (!globalThis.fetch) {
 }
 
 .content {
+  margin-top: 3rem;
   margin-bottom: 8rem;
 }
 
@@ -79,7 +112,6 @@ header {
 
   padding-bottom: 2rem;
   margin-bottom: 2rem;
-  border-bottom: 4px solid var(--theme-divider);
 }
 
 .title,
@@ -99,6 +131,35 @@ header {
 }
 
 #redirect-warning {
+	margin-left: 1rem;
   font-size: 0.8rem;
+  color: var(--color-gray-300);
+}
+
+.intro {
+	padding: 1rem;
+	margin-bottom: 2rem;
+	/* border-bottom: 4px solid var(--theme-divider); */
+	box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.2);
+	border-radius: 3px;
+	background: rgba(255, 255, 255, 0.1);
+	border-top: 1px solid rgba(255, 255, 255, 0.5);
+	border-left: 1px solid rgba(255, 255, 255, 0.5);
+	border-left: 1px solid rgba(255, 255, 255, 0.5);
+	backdrop-filter: blur(5px);
+}
+
+.intro > * {
+	margin: 0;
+}
+
+.intro > p {
+	margin-block: 0.75rem;
+	color: var(--color-gray-200);
+}
+
+h2 {
+	font-weight: 700;
+	color: white;
 }
 </style>

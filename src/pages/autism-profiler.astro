@@ -56,7 +56,7 @@ let permalink = 'http://localhost:3000/'
         margin-bottom: 2rem;
         /* border-bottom: 4px solid var(--theme-divider); */
         box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.2);
-        border-radius: 15px;
+        border-radius: 3px;
         background: rgba(255, 255, 255, 0.1);
         border-top: 1px solid rgba(255, 255, 255, 0.5);
         border-left: 1px solid rgba(255, 255, 255, 0.5);
@@ -79,14 +79,54 @@ let permalink = 'http://localhost:3000/'
         color: white;
     }
 
+    .benefits {
+        color: var(--color-gray-50);
+    }
+    
+    .benefits section{
+        margin-block: 1rem;
+    }
+
+    .benefits section:nth-child(even){
+        color: var(--color-gray-100);
+        font-weight: bold;
+    }
+
     @media screen and (max-width: 375px) {
-    .content {
-        padding-top: 5rem;
-    }
-    .latest {
-        font-size: 1.5rem;
-        font-weight: 600;
-    }
+        .content {
+            padding-top: 5rem;
+        }
+        .latest {
+            font-size: 1.5rem;
+            font-weight: 600;
+        }
     }
 </style>
-<AutismProfiler title={title} description={description} permalink={permalink}/>
+<AutismProfiler title={title} description={description} permalink={permalink}>
+    <article class="benefits">
+        <section>
+            Bring talent and intelligence to your workplace that other people can’t. The means work being done meticulously and to an incredibly high standard all the time.
+        </section>
+        <section>
+            Embrace your senses. Certain sensory issues can provide advantages under certain circumstances - such as a car mechanic who can tell what is wrong with an engine simply by listening to it. Or a surveyor who can detect faulty wiring behind plaster board. Autistic people who are hypo-sensitive (under-sensitive) to noise will thrive in noisy places.
+        </section>
+        <section>
+            Maintain focus for long periods of time - pick up new skills quickly. This can make you skilled in multuple areas and more valuable than the average employee.
+        </section>
+        <section>
+            Some autistic people have one specific topic of interest that they enjoy, and this means that they are experts about their particular topic. Managed properly, such expertise could prove to be invaluable for your company.
+        </section>
+        <section>
+            Some autistic people are extremely talented and skilled problem solvers. Some will home in on an efficient solution very quickly; others are able to use their creative thinking to find novel solutions to very difficult problems. This is a clear benefit to companies with autism employment agendas.
+        </section>
+        <section>
+            It is often quoted that people with aspergers are highly intelligent. Some certainly are. However, autism intelligence is often misunderstood. Autistic Intelligence is very wide ranging. For example, some adults with autism in the workplace are brilliant at spotting patterns that indicate fraud; others produce high quality design work. There are a lot of different kinds of intelligence to tap into in the whole of the autistic population, but only if you know how.
+        </section>
+        <section>
+            There is a myth that people with autism should be steered towards boring, repetitive jobs. While some do excel at such jobs and can make very valuable employees, others hate these kinds of jobs. Jobs for autistic adults could be in any line of work you can think of.
+        </section>
+        <section>
+            There is myth that autistic people should not be put in customer facing jobs. But have you heard about the autistic salesman, on his way to becoming a millionaire? Some autistic people love customer facing roles and are very good at them.
+        </section>
+    </article>
+</AutismProfiler>
