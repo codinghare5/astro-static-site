@@ -46,10 +46,34 @@ const data = await response.json();
             data.questions.map((question, index) => {
                     return <div class="form-group">
                         <label for={`QA${index}`}>{question}</label>
-                        <textarea name={`QA${index}`} class="intro" rows="5"></textarea>
+                        <textarea name={`QA${index}`} class="intro" rows="5" required></textarea>
                     </div>
             })
         }
     </fieldset>
+    <FormController client:only />
+    <button id="autism-profiler-submit" type="submit">Submit and your info</button>
+    <script>
+        const submitButton = document.querySelector('#autism-profiler-submit')
+        submitButton.addEventListener('click', (e) => {
+            e.preventDefault()
+            e.target.setAttribute('disabled', true)
+            const thisForm = document.querySelector('form');
+            var formData = new FormData(thisForm)
+            thisForm.style.display = 'none'
+
+            fetch('http://localhost:3001/text-email',
+                {
+                    headers: {
+                        'Accept': 'application/json',
+                        'Content-Type': 'application/json'
+                    },
+                    method: "POST",
+                    body: JSON.stringify({to: 'marcinmukosiej@gmail.com', data: [...formData]})
+                })
+            .then( res => {
+                `<h4>${JSON.stringify(res)}</h4>`
+            })
+        })
+    </script>
 </form>
-<FormController client:only />
