@@ -1,0 +1,55 @@
+---
+import FormController from '../components/FormController.js'
+const response = await fetch('http://localhost:3001/profiler-form');
+const data = await response.json();
+---
+<style>
+    textarea.intro {
+        width: 100%;
+        padding: 1rem;
+        margin-bottom: 2rem;
+        /* border-bottom: 4px solid var(--theme-divider); */
+        box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
+        border-radius: 3px;
+        background: rgba(255, 255, 255, 0.1);
+        border-top: 1px solid rgba(255, 255, 255, 0.5);
+        border-left: 1px solid rgba(255, 255, 255, 0.5);
+        backdrop-filter: blur(5px);
+    }
+    
+    .intro > * {
+        margin: 0;
+    }
+    
+    .intro > p {
+        margin-block: 0.75rem;
+        color: var(--color-gray-200);
+    }
+
+    .form-group {
+        display: flex;
+        flex-direction: column;
+        gap: 0.5rem;
+        color: var(--color-gray-100)
+    }
+
+    .form-group > .label {
+        margin-block: 0.25rem;
+    }
+
+</style>
+
+<form>
+    <fieldset>
+        <!-- loop -->
+        {
+            data.questions.map((question, index) => {
+                    return <div class="form-group">
+                        <label for={`QA${index}`}>{question}</label>
+                        <textarea name={`QA${index}`} class="intro" rows="5"></textarea>
+                    </div>
+            })
+        }
+    </fieldset>
+</form>
+<FormController client:only />

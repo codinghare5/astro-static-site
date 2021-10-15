@@ -1,0 +1,14 @@
+---
+import Default from '../../layouts/Default.astro'
+import GlassCard from '../../components/GlassCard.astro'
+import ProfilerForm from '../../components/ProfilerForm.astro'
+
+const title = 'Introducing Astro: Ship Less JavaScript'
+const description = "Autism profiler form.You can find the form for an adult person to fill in. It helps us determine underlying issues."
+let permalink = 'http://localhost:3000/autism-profiler/form'
+---
+<Default title={title} description={description} permalink={permalink}>
+    <GlassCard>
+        <ProfilerForm />
+    </GlassCard>
+</Default>

@@ -1,7 +1,6 @@
 ---
 import BaseHead from '../components/BaseHead.astro';
 import Header from '../components/Header.astro';
-import AutismProfiler from '../components/AutismProfiler.astro';
 
 const {title, description, permalink} = Astro.props;
 ---
@@ -13,12 +12,7 @@ const {title, description, permalink} = Astro.props;
 
   <body>
     <Header />
-    <div>
-        <a href="/autism-profiler/form">/form</a>
-    </div>
-    <AutismProfiler>
-      <slot />
-    </AutismProfiler>
+    <slot />
   </body>
 </html>
 

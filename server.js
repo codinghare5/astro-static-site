@@ -20,6 +20,17 @@ app.get('/store', function(req, res) {
         }
     })
 })
+
+app.get('/profiler-form', function(req, res) {
+    fs.readFile('autism-profiler-questions-adult.json', function(error, data) {
+        if (error) {
+            res.status(500).end()
+        } else {
+            res.send({questions: JSON.parse(data)})
+        }
+    })
+})
+
 app.post('/purchase', function(req, res) {
     fs.readFile('items.json', function(error, data) {
         if (error) {
