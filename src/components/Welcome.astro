@@ -1,0 +1,49 @@
+<style>
+.tilted {
+    position: relative;
+    width: 100%;
+    height: 400px;
+    z-index: 0;
+    background: rgba(250, 238, 233, 1);
+}
+
+.tilted:after {
+    content: '';
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background: rgba(250, 238, 233, 1);
+    z-index: -1;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    transform-origin: top left;
+    transform: skewY(-4deg);
+}
+
+.tilted:before {
+    content: '';
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background: rgba(250, 238, 233, 1);
+    z-index: -1;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    transform-origin: bottom right;
+    transform: skewY(4deg);
+}
+</style>
+<article class="tilted flex justify-center">
+    <section class="up flex flex-col mt-24 items-center">
+        <h3 class="text-xl font-medium my-3">Welcome to Aspiedent</h3>
+        <p class="max-w-screen-sm mx-3">
+            Intro text content (list of benefits and bullet points can go here) - 
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+            Delectus amet asperiores exercitationem tenetur nostrum totam unde enim, accusantium voluptas aperiam.
+        </p>
+    </section>
+</article>

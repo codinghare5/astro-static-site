@@ -24,32 +24,38 @@ import StripeCheckoutBtn from '../components/StripeCheckoutBtn.astro'
 			async function getPrices() {
 				const result = await fetch('http://localhost:3001/store')
 				const prices = await result.json()
-
+                console.log(prices)
             	return prices;
 			}
+            async function getPaymentUrl() {
+                const response = await fetch('http://localhost:3001/create-checkout-session')
 
-			const stripeRedirect = (priceId) => {
-				stripe.redirectToCheckout({
-					lineItems: [{
-						price: priceId, // Replace with the ID of your price
-					quantity: 1,
-					}],
-					mode: "payment",
-					successUrl: "http://localhost:3000/success",
-					cancelUrl: "http://localhost:3000/autism-profiler",
-				}).then(function (result) {
-					const warning = document.getElementById('redirect-warning')
-					warning.innerText = result.error.message
-				});
+            }
+
+			const stripeRedirect = async (priceId) => {
+                const response = await fetch('http://localhost:3001/create-checkout-session', {
+                    method: 'POST', // *GET, POST, PUT, DELETE, etc.
+                    mode: 'cors', // no-cors, *cors, same-origin
+                    cache: 'no-cache', // *default, no-cache, reload, force-cache, only-if-cached
+                    credentials: 'same-origin', // include, *same-origin, omit
+                    headers: {
+                        'Content-Type': 'application/json'
+                    // 'Content-Type': 'application/x-www-form-urlencoded',
+                    },
+                    referrerPolicy: 'no-referrer', // no-referrer, *no-referrer-when-downgrade, origin, origin-when-cross-origin, same-origin, strict-origin, strict-origin-when-cross-origin, unsafe-url
+                    body: JSON.stringify({priceId}) // body data type must match "Content-Type" header
+                })
+                .then(response => response.json())
+                .then(
+                    response => {
+                        console.log(response)
+                        window.location.replace(response.url)
+                    }
+                )
 			}
 
-			const currencyPicker = document.querySelector("#currency");
-			var checkoutButton = document.querySelector("#checkout-button");
-			getPrices().then(result => {
-				prices = result
-				var priceId = prices['items']['autism-profiler'].filter(currency => currency.iso === currencyPicker.value)[0].priceId
-				console.log(priceId)
-				checkoutButton.addEventListener("click", () => stripeRedirect(priceId))
+            const resetCheckoutButton = (priceId) => {
+                checkoutButton.addEventListener("click", () => stripeRedirect(priceId))
 				
 				currencyPicker.addEventListener('change', () => {
 					if( prices&&prices!= null ){
@@ -61,6 +67,16 @@ import StripeCheckoutBtn from '../components/StripeCheckoutBtn.astro'
 					// "price_1JbqVUHpeW5ReVH54HQpLlI3"
 					}
 				})
+            }
+
+			const currencyPicker = document.querySelector("#currency");
+			var checkoutButton = document.querySelector("#checkout-button");
+
+			getPrices().then(result => {
+				prices = result
+				var priceId = prices['items']['autism-profiler'].filter(currency => currency.iso === currencyPicker.value)[0].priceId
+				console.log(priceId)
+				resetCheckoutButton(priceId)
 			})
 		</script>
 	</main>
