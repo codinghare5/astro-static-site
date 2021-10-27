@@ -8,7 +8,7 @@
 }
 .tilted:after {
     content: '';
-    width: 100%;
+    width: 50%;
     height: 100%;
     position: absolute;
     background: inherit;
@@ -17,12 +17,12 @@
     right: 0;
     bottom: 0;
     left: 0;
-    transform-origin: top left;
+    transform-origin: bottom left;
     transform: skewY(-4deg);
 }
 .tilted:before {
     content: '';
-    width: 100%;
+    width: 50%;
     height: 100%;
     position: absolute;
     background: inherit;
@@ -30,9 +30,10 @@
     top: 0;
     right: 0;
     bottom: 0;
-    left: 0;
-    transform-origin: bottom right;
-    transform: skewY(-4deg);
+    left: 50%;
+    transform-origin: top right;
+    transform: skewY(4deg);
+    /* transform: rotateY(180deg); */
 }
 button.action {
     color: #c99b40;
@@ -69,12 +70,12 @@ button.action2:focus, button.action2:hover {
 }
 </style>
 
-<article class="tilted grid place-items-center md:grid-cols-2 mabile:grid-cols-1 lg:p-16 md:p-12 sm:p-8 mobile:p-3 my-20">
+<article class="tilted grid place-items-center md:grid-cols-2 mabile:grid-cols-1 lg:p-16 md:p-12 sm:p-8 mobile:p-3 my-8">
     <section class="sm:col-span-2 mobile:col-span-1">
         <h3 class="text-xl my-8 sm:text-4xl mobile:text-xl font-medium">Get in touch and stay tuned</h3>
     </section>
     <setion class="flex flex-col justify-items-center items-center">
-        <h4>Thrrough the online form</h4>
+        <h4>Through the online form</h4>
         <button class="action2 my-2">Contact Us</button>
     </setion>
     <section class="social-media flex flex-col mx-auto justify-items-center items-center">

@@ -1,14 +1,22 @@
 ---
 const heroImage = '/social.jpg'
+
+export interface Props {
+  herotitle: string;
+}
+const { herotitle } = Astro.props;
 ---
 <style>
 .hero {
+    color: rgba(255, 255, 255, 0.7);
     background-image: linear-gradient(to right, #334697, #5D2D8D, #B01D74, #0FACD2);
 }
 </style>
 <article class="hero flex flex-col justify-center items-center h-96">
-    <section class="flex mx-3 flex-col justify-center items-center text-white">
-        <h1 class="text-4xl font-bold">Autism & Neurodiversity Profiling</h1>
-        <p class="py-3">The only profiling tool on the market, that helps you reach your goals.</p>
+    <section class="flex mx-3 flex-col justify-center items-center">
+        <h1 class="text-4xl font-bold">{ herotitle }</h1>
+        <p class="py-3">
+            <slot/>
+        </p>
     </section>
 </article>

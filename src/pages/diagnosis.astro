@@ -1,0 +1,29 @@
+---
+import Default from '../layouts/Default.astro'
+import Hero from '../components/Hero.astro'
+import Benefits from '../components/Benefits.astro'
+import SampleProfile from '../components/SampleProfile.astro'
+import FullProfileRedir from '../components/FullProfileRedir.astro'
+import Footer from '../components/Footer.astro'
+
+let title = "Autism, Asperger's, and Neurodiversity Training and Consulting";
+let description = 'Diagnosed with autism, changing career, parent looking for help or employer seeking solutions? We have got required toolset.';
+let permalink = 'https://aspiedent.com/';
+
+const { herotitle = 'Diagnosis', heading = 'Benefits of Autism Profile' } = Astro.props;
+const benefits = [`Intro text content (list of benefits and bullet points can go here) - 
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+            Delectus amet asperiores exercitationem tenetur nostrum totam unde enim, accusantium voluptas aperiam.`]
+const heroSubtitle = 'Diagnosed with Autism? Waiting for result? We have got you covered!'
+---
+<Default title={title} description={description} permalink={permalink}>
+	<Hero herotitle={herotitle}>
+		{ heroSubtitle }
+	</Hero>
+	<Benefits heading={heading}>
+		{ benefits }
+	</Benefits>
+	<SampleProfile/>
+    <FullProfileRedir/>
+    <Footer/>
+</Default>

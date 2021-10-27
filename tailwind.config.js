@@ -5,7 +5,7 @@ module.exports = {
 	theme: {
 		screens: {
 			'mobile': '375px',
-            'xs': '420px',
+			'xs': '420px',
 			'sm': '640px',
 			// => @media (min-width: 640px) { ... }
 
@@ -18,5 +18,8 @@ module.exports = {
 			'xl': '1280px',
 			// => @media (min-width: 1280px) { ... }
 		}
-	}
+	},
+	plugins: [
+		require('@tailwindcss/forms'),
+	],
 };
