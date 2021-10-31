@@ -1,13 +1,54 @@
-<article>
-    <section>
-        <h3>Sample title</h3>
-        <h4>Sample subtitle</h4>
+---
+export interface Props {
+  sampleProfileHeading: string;
+}
+const { sampleProfileHeading } = Astro.props;
+---
+<style>
+button.action {
+    font-weight: 500;
+    background-color: #d1d2f9;
+    border: 1px solid #49326b;
+    padding-block: 0.5rem;
+    padding-inline: 1rem;
+}
+button.action:focus, button.action:hover {
+    color: #d6b471;
+    background-color: white;
+    border: 1px solid #d6b471;
+    transform: scale(1.01618);
+}
+input {
+    outline: none !important;
+    resize: none !important;
+}
+input[type=email] {
+    color: inherit;
+    resize: none !important;
+    outline: none !important;
+    border: 1px solid #49326b;
+}
+input:focus {
+    color: inherit;
+    resize: none !important;
+    outline: none !important;
+    border: 1px solid #c99b40;
+}
+label, label:focus {
+    border: none;
+    outline: none;
+}
+</style>
+<article class="flex flex-col justify-center items-center">
+    <section class="flex flex-col justify-center items-center py-20">
+        <h3 class="text-lg font-medium my-4">{ sampleProfileHeading }</h3>
+        <h4>Enter your email address here and we will send you the questions.</h4>
         <form>
-            <fieldset>
-                <label class="block">
-                    <span>Email address</span>
-                    <input type="email"/>
+            <fieldset class="flex">
+                <label class="block outline-none focus:outline-none">
+                    <input type="email" class="outline-none focus:outline-none" placeholder="Your best email"/>
                 </label>
+                <button class="action" type="button">Submit</button>
             </fieldset>
         </form>
     </section>
