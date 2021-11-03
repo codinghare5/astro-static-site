@@ -1,9 +1,46 @@
 :root {
-  --font-sans: 'Alice', 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-  --font-mono: 'Ubuntu Mono', 'IBM Plex Mono', Consolas, 'Andale Mono WT', 'Andale Mono', 'Lucida Console', 'Lucida Sans Typewriter', 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono',
-    'Liberation Mono', 'Nimbus Mono L', Monaco, 'Courier New', Courier, monospace;
-  --bg-supportive-blue: #334697;
-  --bg-noble-purple: #5D2D8D;
-  --bg-understanding-redviolet: #B01D74;
-  --bg-secure-cerulean: #0FACD2;
+	--font-sans: 'Alice', 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+	--font-mono: 'Ubuntu Mono', 'IBM Plex Mono', Consolas, 'Andale Mono WT', 'Andale Mono', 'Lucida Console', 'Lucida Sans Typewriter', 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono',
+		'Liberation Mono', 'Nimbus Mono L', Monaco, 'Courier New', Courier, monospace;
+	--bg-supportive-blue: #334697;
+	--bg-noble-purple: #5D2D8D;
+	--bg-understanding-redviolet: #B01D74;
+	--bg-secure-cerulean: #0FACD2;
+
+	--segment-green-100: #EBEBEB;
+	--segment-green-200: #C1E29C;
+	/* compassion */
+	--segment-green-300: #679A2D;
+	--segment-green-400: #335C05;
+	--segment-green-500: #336000;
+	--segment-blue-100: #E9E4F9;
+	--segment-blue-200: #9583D0;
+	--segment-blue-300: #5C45A7;
+	/* experienced */
+	--segment-blue-400: #371F85;
+	--segment-blue-500: #150648;
+	--segment-purple-100: #F4E2FA;
+	--segment-purple-200: #B77ACD;
+	/* zen-like */
+	--segment-purple-300: #863BA1;
+	--segment-purple-400: #641580;
+	--segment-purple-500: #340246;
+	--segment-red-100: #FCE4ED;
+	/* passive */
+	--segment-red-200: #EB88AE;
+	--segment-red-300: #D2467C;
+	/* maturity */
+	--segment-red-400: #A7164E;
+	--segment-red-500: #580022;
+	--accent-yellow-100: #FDFFE7;
+	--accent-yellow-200: #F6FD93;
+	--accent-yellow-300: #E6F052;
+	--accent-yellow-400: #B4BE19;
+	--accent-yellow-500: #606700;
+	--accent-gold-100: #FFFBE7;
+	--accent-gold-200: #FFED94;
+	--accent-gold-300: #F3D753;
+	--accent-gold-400: #C1A51A;
+	--accent-gold-500: #695700;
+	
 }

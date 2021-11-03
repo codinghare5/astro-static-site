@@ -4,16 +4,16 @@ import Benefits from '../components/Benefits.astro'
 import SampleProfile from '../components/SampleProfile.astro'
 import FullProfileRedir from '../components/FullProfileRedir.astro'
 
-const { herotitle = 'Careers', heading = 'Benefits of Autism Profile' } = Astro.props;
+const { herotitle = 'Diagnosis', heading = 'Benefits of Autism Profile' } = Astro.props;
 const benefits = [`Intro text content (list of benefits and bullet points can go here) - 
             Lorem ipsum dolor sit amet consectetur adipisicing elit. 
             Delectus amet asperiores exercitationem tenetur nostrum totam unde enim, accusantium voluptas aperiam.`]
 const heroSubtitle = 'Diagnosed with Autism? Waiting for result? We have got you covered!'
 const sampleProfileHeading = 'Want to try a sample neurodiversity profile?'
-const herobackgroundCSS = 'background-color: #B01D74'
+const herobackgroundCSS = 'background-color: var(--segment-blue-400)'
 ---
 <Segment herotitle={herotitle} bgcolor={herobackgroundCSS}>
-	{ heroSubtitle }
+    { heroSubtitle }
 </Segment>
 <Benefits heading={heading}>
     { benefits }

@@ -39,5 +39,8 @@ const { title, description, permalink } = Astro.props;
 
 <meta charset="UTF-8" />
 
+<!-- Global Stylesheet -->
+<link rel="stylesheet" type="text/css" href={Astro.resolve("/global.css")}>
+
 <!-- Tailwind -->
 <link rel="stylesheet" type="text/css" href={Astro.resolve("../styles/global.css")}>

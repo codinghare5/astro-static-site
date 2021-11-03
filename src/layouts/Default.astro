@@ -1,6 +1,7 @@
 ---
 import BaseHead from '../components/BaseHead.astro';
 import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
 
 const {title, description, permalink} = Astro.props;
 ---
@@ -11,14 +12,15 @@ const {title, description, permalink} = Astro.props;
   </head>
   <style>
     body {
-        color: #49326b;
+        color: var(--segment-purple-500);
         font-size: 16px;
     }
   </style>
 
   <body class="max-w-screen-lg mx-auto">
     <Header />
-    <slot />
+        <slot />
+    <Footer/>
   </body>
 </html>
 
