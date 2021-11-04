@@ -4,7 +4,12 @@ article > section {
     display: flex;
     flex-direction: column;
     align-items: center;
+    justify-content: center;
     color: var(--accent-gold-100);
+    border-radius: 999px;
+    width: 300px;
+    height: 300px;
+    box-shadow: 7px 7px 10px rgba(0, 0, 0, 0.2);
 }
 article > section > div {
     display: flex;
@@ -36,9 +41,17 @@ article section button {
     border-radius: 3px;
     font-weight: 500;
 }
-
+article section p {
+    width: 250px;
+}
 </style>
-<article class="grid sm:grid-cols-2 lg:gap-16 md:gap-12 sm:gap-8 mobile:gap-3 mabile:grid-cols-1 lg:p-16 md:p-12 sm:p-8 mobile:p-3">
+<article class="grid sm:grid-cols-2 mabile:grid-cols-1
+                    xl:gap-16 lg:gap-16 md:gap-12 sm:gap-8 mobile:gap-3
+                    xl:px-40 xl:py-12
+                    lg:px-40 lg:py-12
+                    md:px-12 ms:py-12
+                    sm:px-0 sm:py-4
+                    mobile:mx-auto mobile:px-8 mobile:py-4">
     <section class="diagnosis">
         <div>
             <h2>Diagnosis</h2>
