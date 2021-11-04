@@ -1,0 +1,24 @@
+---
+import Segment from '../components/Segment.astro'
+import Benefits from '../components/Benefits.astro'
+import SampleProfile from '../components/SampleProfile.astro'
+import FullProfileRedir from '../components/FullProfileRedir.astro'
+
+export interface Props {
+    heroTitle: string;
+    heroSubtitle: string;
+    benefitsHeading: string;
+    sampleProfileHeading: string;
+    segmentColor: string;
+}
+const { heroTitle, heroSubtitle, benefitsHeading, sampleProfileHeading, segmentColor } = Astro.props;
+const herobackgroundCSS = `background-color: var(--segment-${segmentColor}-400)`
+---
+<Segment herotitle={heroTitle} bgcolor={herobackgroundCSS}>
+	{ heroSubtitle }
+</Segment>
+<Benefits heading={benefitsHeading}>
+    <slot />
+</Benefits>
+<SampleProfile sampleProfileHeading={sampleProfileHeading}/>
+<FullProfileRedir/>

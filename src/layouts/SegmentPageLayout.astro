@@ -1,0 +1,21 @@
+---
+import Default from '../layouts/Default.astro'
+import SegmentLayout from '../layouts/SegmentLayout.astro'
+
+const { content } = Astro.props; // this is the content between --- --- from md file
+
+const { title = content.title, 
+            description = content.description, 
+            permalink = content.permalink } = Astro.props;
+---
+<Default title={title} description={description} permalink={permalink}>
+    <SegmentLayout 
+        heroTitle={content.heroTitle} 
+        heroSubtitle={content.heroSubtitle} 
+        benefitsHeading={content.benefitsHeading} 
+        sampleProfileHeading={content.sampleProfileHeading}
+        segmentColor={content.segmentColor}
+    >
+        <slot />
+    </SegmentLayout>
+</Default>
