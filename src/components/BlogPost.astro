@@ -2,87 +2,55 @@
 import Author from './Author.astro';
 
 export interface Props {
-  title: string;
-  author: string;
-  publishDate: string;
-  heroImage: string;
-  alt: string;
+	title: string;
+	author: string;
+	authorImage: string;
+	date: string;
+	image: string;
+	alt: string;
 }
 
-const { title, author, publishDate, heroImage, alt } = Astro.props;
+const { title, author, authorImage, date, image, alt } = Astro.props;
 ---
-
-<div class="layout">
-  <article class="content">
-  <div>
-    <header>
-      {heroImage && <img width="720" height="420" class="hero-image" loading="lazy" src={heroImage} alt={alt} />}
-      <p class="publish-date">{publishDate}</p>
-      <h1 class="title">{title}</h1>
-      <Author name="@FredKSchott" href="https://twitter.com/FredKSchott" />
-    </header>
-    <main>
-      <slot />
-    </main>
-  </div>
-  </article>
-</div>
-
 <style>
-.hero-image {
-  width: 100vw;
-  object-fit: cover;
-  object-position: center;
-  margin-top: 2rem;
-  margin-bottom: 4rem;
-  max-width: 1280px;
-}
-
-@media (max-width: 50em) {
-  .hero-image {
-    height: 260px;
-  margin-top: 0;
-  margin-bottom: 2rem;
-  }
-}
-
-.content {
-  margin-bottom: 8rem;
-}
-
-.content :global(main > * + *) {
-  margin-top: 1rem;
-}
-
-.content :global(h2) {
-  margin-top: 4rem;
-}
-
 header {
-  display: flex;
-  flex-direction: column;
-  text-align: center;
-  align-items: center;
-  justify-content: center;
-
-  padding-bottom: 2rem;
-  margin-bottom: 2rem;
-  border-bottom: 4px solid var(--theme-divider);
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	margin-bottom: 2rem;
 }
-
-.title,
-.author,
+article div header img.hero-image {
+	width: 100%;
+	height: auto;
+}
+.author-image {
+	position: relative;
+	top: -3rem;
+}
+main {
+    background-color: var(--segment-purple-100);
+}
 .publish-date {
-  margin: 0;
-}
-
-.publish-date,
-.author {
-  color: var(--theme-text-lighter);
-}
-
-.title {
-  font-size: 2.25rem;
-  font-weight: 700;
+    font-family: 'Ubuntu mono';
+    font-size: small;
 }
 </style>
+
+<div>
+	<article>
+		<div>
+			<header>
+				{image && <img class="hero-image" loading="lazy" src={image} alt={alt} />}
+				<div class="author-image">
+					<Author name={author} href="https://twitter.com/" authorImage={authorImage}/>
+					<h1 class="title text-4xl font-semibold mb-4">{title}</h1>
+					<p class="publish-date">{date}</p>
+				</div>
+			</header>
+			<main class="flex justify-center">
+				<slot />
+			</main>
+		</div>
+	</article>
+</div>

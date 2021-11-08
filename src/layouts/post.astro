@@ -1,0 +1,21 @@
+---
+import Default from './Default.astro'
+const { content } = Astro.props;
+const { title = content.title, 
+            description = content.description, 
+            permalink = content.permalink,
+            authorImage = content.authorImage } = Astro.props;
+---
+<Default title={title} description={description} permalink={permalink}>
+    <article>
+        <section class="max-w-screen-sm mx-3 my-3">
+            <div>Image in circle</div>
+            <div>{content.author}</div>
+        </section>
+    </article>
+    <article>
+        <section class="max-w-screen-sm mx-3">
+            <slot />
+        </section>
+    </article>
+</Default>

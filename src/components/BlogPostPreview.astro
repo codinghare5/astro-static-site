@@ -7,7 +7,7 @@ const { post } = Astro.props;
 ---
 <article class="post-preview">
   <header>
-    <h3 class="publish-date">{post.publishDate}</h3>
+    <h3 class="publish-date">{post.date}</h3>
     <a href={post.url}><h1 class="title">{post.title}</h1></a>
   </header>
   <main>
@@ -24,7 +24,7 @@ const { post } = Astro.props;
 .post-preview {
   padding-bottom: 2rem;
   margin-bottom: 2rem;
-  border-bottom: 4px solid var(--theme-divider);
+  border-bottom: 1px solid var(--accent-gold-300);
 }
 
 header {
@@ -33,7 +33,6 @@ header {
   text-align: left;
   align-items: flex-start;
   justify-content: center;
-
   padding-bottom: 2rem;
 }
 
@@ -45,13 +44,40 @@ header {
 
 .publish-date,
 .author {
-  font-size: 1.25rem;
-  color: var(--theme-text-lighter);
+  font-size: 1rem;
+}
+
+.author {
+    color: var(--segment-purple-400);
+}
+
+.publish-date {
+    font-family: 'Ubuntu mono', monospace;
 }
 
 .title {
-  font-size: 2.25rem;
+  font-size: 1.5rem;
   font-weight: 700;
-  color: var(--theme-text);
+  color: var(--segment-purple-400);
+}
+
+main a {
+    display:block;
+    border-radius: 3px;
+    max-width: fit-content;
+    color: var(--accent-gold-400);
+    padding: 0.5rem;
+    margin-block: 0.5rem;
+    border: 1px solid var(--accent-gold-400);
+    background-color: var(--segment-purple-500);
+}
+main a:focus, main a:hover {
+    display:block;
+    border-radius: 3px;
+    color: var(--accent-gold-300);
+    padding: 0.5rem;
+    margin-block: 0.5rem;
+    border: 1px solid var(--accent-gold-400);
+    background-color: var(--segment-purple-400);
 }
 </style>

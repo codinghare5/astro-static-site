@@ -1,16 +1,40 @@
 ---
 export interface Props {
-  name: string;
-  href: string;
+	name: string;
+	href: string;
+    authorImage: string;
 }
 
-const { name, href } = Astro.props;
+const { name, href, authorImage } = Astro.props;
 ---
 <style>
-  .author {
-    margin-bottom: 0.75rem;
-  }
+	.author {
+		margin-bottom: 0.75rem;
+        display: flex;
+        justify-content: center;
+        font-family: 'Alice', sans-serif;
+	}
+    .author img {
+        object-fit: cover;
+        border: 4px solid var(--segment-red-100);
+        border-radius: 999px;
+        width: 96px;
+        height: 96px;
+        z-index: 0;
+    }
+    .frame {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
 </style>
 <div class="author">
-  <p><a href={href}>{name}</a></p>
+	<a href={href}>
+        <div class="frame">
+            {authorImage && <img src={authorImage} alt={name} />}
+            <span>
+                {name}
+            </span>
+        </div>
+    </a>
 </div>
