@@ -31,7 +31,7 @@ const { name, href, authorImage } = Astro.props;
 <div class="author">
 	<a href={href}>
         <div class="frame">
-            {authorImage && <img src={authorImage} alt={name} />}
+            {authorImage && <img src={`/${authorImage}.jpg`} alt={name} />}
             <span>
                 {name}
             </span>

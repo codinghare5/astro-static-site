@@ -3,14 +3,15 @@ import Author from './Author.astro';
 
 export interface Props {
 	title: string;
-	author: string;
-	authorImage: string;
+	author: string[];
+	authorImage: string[];
 	date: string;
 	image: string;
 	alt: string;
 }
 
 const { title, author, authorImage, date, image, alt } = Astro.props;
+console.log(author[0])
 ---
 <style>
 header {
@@ -24,9 +25,13 @@ article div header img.hero-image {
 	width: 100%;
 	height: auto;
 }
-.author-image {
+.authors-container {
 	position: relative;
 	top: -3rem;
+}
+.authors {
+    display: flex;
+    justify-content: center;
 }
 main {
     background-color: var(--segment-purple-100);
@@ -42,8 +47,11 @@ main {
 		<div>
 			<header>
 				{image && <img class="hero-image" loading="lazy" src={image} alt={alt} />}
-				<div class="author-image">
-					<Author name={author} href="https://twitter.com/" authorImage={authorImage}/>
+				<div class="authors-container">
+                    <div class="authors">
+                        <!-- {author.map((a, index) => <Author name={a} href="https://twitter.com/" authorImage={authorImage[index]}/>)} -->
+                        <Author name={author} href="https://twitter.com/" authorImage={authorImage}/>
+                    </div>
 					<h1 class="title text-4xl font-semibold mb-4">{title}</h1>
 					<p class="publish-date">{date}</p>
 				</div>

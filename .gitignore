@@ -16,3 +16,8 @@ yarn-error.log*
 
 # macOS-specific files
 .DS_Store
+
+# helper files
+src/pages/posts/script.py
+src/pages/posts/posts.md
+src/pages/posts/test.md
