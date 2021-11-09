@@ -45,7 +45,7 @@ autism friendly, without interfering with the needs of most of the
 population for relationship building via the emotional reciprocation of
 social interaction?~~
 
-~~Good question. ~~
+~~Good question.~~
 
 I think the short answer is... a true understanding of the people you
 work with or employ, and love.
@@ -135,10 +135,10 @@ Love**
 ~~Often people with autism are bullied at work. Sometimes this is
 because they don't understand the social stuff, politics of the
 organisation and the significance of emotional reciprocation of social
-interaction. ~~
+interaction.~~
 
 ~~One way to discourage bullies being promoted could be servant
-leadership. ~~
+leadership.~~
 
 ~~Colleen Barret who is the president emerita of [South West
 Airlines](https://www.southwest.com/), a successful airline which
@@ -150,7 +150,7 @@ important priorities were her employees.~~
 who is quite a remarkable man. Herb did not see rank and rungs on a
 ladder, he never embarrassed his team when they did something silly, and
 he treated the team as complete equals to him ([Knowledge Wharton,
-2008](https://www.youtube.com/watch?v=6TgR95vnM0c)). ~~
+2008](https://www.youtube.com/watch?v=6TgR95vnM0c)).~~
 
 ~~Imagine if, rather than managers being given teams of staff to manage
 progression in an organisation meant being given a group of staff whom
@@ -162,16 +162,16 @@ to like them?~~
 Professional Development (CIPD),](https://www.cipd.co.uk/) who are the
 professional body for human resource management professionals, are
 incredibly interested both the wellbeing and the learning and
-development of people. ~~
+development of people.~~
 
 ~~The person who is 'nurturing' the junior staff should have somebody
 above them who they can seek guidance and assurance and supervision from
 -- essentially who is nurturing them. This could go all the way up until
-there is a solid, core team at the top supporting each other. ~~
+there is a solid, core team at the top supporting each other.~~
 
 ~~Of course, it won't be utopia, and there will still be methods of
 discipline, dismissal and people issues. With real nurture, comes
-consequences of actions of one's actions and boundaries. ~~
+consequences of actions of one's actions and boundaries.~~
 
 ~~If you told a person likely to purposefully make trouble and/or
 trample on other people to get what they want, that the only thing they
@@ -181,16 +181,16 @@ they might not: they might relish the power over others.~~
 
 ~~Especially if they knew that if they did not perform well at this --
 of course with help and support from their supervisors, they would not
-progress. ~~
+progress.~~
 
 ~~Honest (but constructive) feedback should also be expected not just
 from the nurturer and their team, but from the team back to the
 nurturer. This would be off putting to a somebody who was not a genuine
-team player. ~~
+team player.~~
 
 ~~If someone is not performing as they should, this is addressed quickly
 and the whole point of this is to find a way to help the person do
-better. ~~
+better.~~
 
 ~~Freedom of thought and opinion would also be key, but as long as there
 was no hateful intent behind this. There is a BIG difference between
@@ -215,34 +215,33 @@ thinking about new ways of working.~~
 
 ~~Elizabeth's autism severely reduces her ability to deal with people.
 She is only able to deal with people in a limited capacity. Therefore
-when 'managing' people at work, she kind of adopts servant leadership.
-~~
+when 'managing' people at work, she kind of adopts servant leadership.~~
 
 ~~In order for her to cope with people and get the best out of them, she
 almost treats them like MA or PhD students. She is there for them when
 they need help, but she leaves them to their own devices (to an extent)
 and expects them to get on with their work in between to the best of
-their ability. She expects people to take ownership of their work. ~~
+their ability. She expects people to take ownership of their work.~~
 
 ~~This approach also allows us to adopt management techniques which work
 for each to each individual. The employee that prefers to get on with
 what they are doing and have regular catch ups... she's there for them
 for regular scheduled supervision meetings. If an employee needs regular
 input (i.e. daily) she tries to be there for them when they need it
-until they get to a point when they can be more independent. ~~
+until they get to a point when they can be more independent.~~
 
 ~~It's almost like treating employees like consultancy clients... they
 approach us when they need input, we guide them, and then send them back
-on their merry way. ~~
+on their merry way.~~
 
 ~~At the end of the day, we have love for each other, and the people we
 work with. We put the less fortunate and needy in front of ourselves.
 Love & understanding equals compassion, and is a key part of what we are
-all about. ~~
+all about.~~
 
 ~~I believe that if you build an organisation on the foundations of
 love, compassion and understanding, you will create an environment that
-is all diversity friendly. ~~
+is all diversity friendly.~~
 
 In the bible there are two kinds of love. Romantic love and brotherly
 love. Today the idea of 'love' has got completely twisted. The above

@@ -10,3 +10,19 @@
 		@apply lg:container sm:container mobile:container mx-auto;
 	}
 }
+
+@layer components {
+    .post > ul {
+        list-style: disc;
+        padding-inline: 2rem;
+        padding-block: 1rem;
+    }
+    .post > ol {
+        list-style: decimal;
+        padding-inline: 2rem;
+        padding-block-end: 1rem;
+    }
+    blockquote {
+        font-style: italic;
+    }
+}

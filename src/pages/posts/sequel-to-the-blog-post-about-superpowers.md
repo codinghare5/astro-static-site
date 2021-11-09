@@ -53,8 +53,7 @@ So let's dream....
 There are shortages of manpower in some areas, specifically
 construction, IT, and logistics.
 
-**So, what can be done to encourage these employers to take on and
-accommodate autistic employees?**
+**So, what can be done to encourage these employers to take on and accommodate autistic employees?**
 
 There has been a big push for 'diversity' in the workplace, and training
 around this. However, this has concentrated on mainly outward things,
@@ -131,7 +130,7 @@ to be wrong. But nobody seems to want to have a discussion.
 That is the reality at the moment, and all we can do is move on from the
 situation of today and dream about tomorrow.
 
-**How can we make the workplace more autism friendly? **
+**How can we make the workplace more autism friendly?**
 
 How can we make workplaces more autism friendly without interfering with
 the needs of most of the population for relationship building via the
@@ -148,8 +147,7 @@ We know that understanding goes a long way.
 
 ...then you become receptive to employing a wider range of people!
 
-**But this does means changing recruitment methods. Here are some
-examples:**
+**But this does means changing recruitment methods. Here are some examples:**
 
 -   Recruit on demonstration of skills rather than interviews
 

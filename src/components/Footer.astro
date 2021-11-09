@@ -5,12 +5,16 @@
 .footer a:hover {
     font-weight: 500;
 }
+.footer > ul, .footer > ol {
+    list-style: none;
+    list-style-type: none !important;
+}
 </style>
 
 <article class="footer grid sm:grid-cols-2 gap-1 mt-16 px-3 py-4">
     <div class="mb-8">
         <section>
-            <ul>
+            <ul class="list-none">
                 <li>Bradford Chamber Business Park</li>
                 <li>New Lane</li>
                 <li>Laisterdyke</li>
@@ -23,7 +27,7 @@
     </div>
     <div class="grid grid-cols-2 mb-8">
         <section>
-            <ul>
+            <ul class="list-none">
                 <li><a href="/about">About Us</a></li>
                 <li><a href="/diagnosis">Diagnosis</a></li>
                 <li><a href="/careers">Careers</a></li>
@@ -32,7 +36,7 @@
             </ul>
         </section>
         <section>
-            <ul>
+            <ul class="list-none">
                 <li><a href="/contact">Contact</a></li>
                 <li><a href="/faq">FAQ</a></li>
                 <li><a href="/blog">Blog</a></li>

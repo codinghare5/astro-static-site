@@ -17,7 +17,14 @@ module.exports = {
 
 			'xl': '1280px',
 			// => @media (min-width: 1280px) { ... }
-		}
+		},
+        listStyleType: {
+            none: 'none',
+            disc: 'disc',
+            decimal: 'decimal',
+            square: 'square',
+            roman: 'upper-roman',
+        }
 	},
 	plugins: [
 		require('@tailwindcss/forms'),
