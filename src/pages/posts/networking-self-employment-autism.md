@@ -1,12 +1,12 @@
 ---
 layout: ../../layouts/BlogPost.astro
-title: Chapter I
+title: Business networking and autism
 tag: movie
-date: 2021-05-17
+date: Jun 25, 2021, 1:13 PM
 image: /social.jpg
 author: Jen Blacow
 authorImage: /jen.jpg
-description: Which Treats of the Character and Pursuits of the Famous Gentleman Don Quixote of La Mancha
+description: In this blog post, we focus on business networking and autism. It took a while for us to figure out the real point of networking and why it is important. Here we try and clearly explain the point and give tips on how to do it right.
 ---
 **Thumbnail image: **
 

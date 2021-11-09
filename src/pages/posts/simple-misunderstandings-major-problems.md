@@ -1,12 +1,12 @@
 ---
 layout: ../../layouts/BlogPost.astro
-title: Chapter I
+title: How Simple Misunderstandings can cause Major Problems
 tag: movie
-date: 2021-05-17
+date: Nov 27, 2020, 12:41 PM
 image: /social.jpg
 author: Jen Blacow
 authorImage: /jen.jpg
-description: Which Treats of the Character and Pursuits of the Famous Gentleman Don Quixote of La Mancha
+description: Simple misunderstandings can cause major problems between autistic people and their employers. But it is often easily fixable. This blog post covers some of the sometimes peculiar ways in which this can happen.
 ---
 **Thumbnail image:** MisunderstandingsProblems
 

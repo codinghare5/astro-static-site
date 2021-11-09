@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: Autism is an Umbrella Term
 tag: movie
-date: 2020-09-02
+date: Sep 2, 2020, 1:08 PM
 image: /social.jpg
 author: Jen Blacow
 authorImage: /jen.jpg

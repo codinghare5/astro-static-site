@@ -1,12 +1,12 @@
 ---
 layout: ../../layouts/BlogPost.astro
-title: Chapter I
+title: Does the Construction Sector Deserve Neurodiverse People?
 tag: movie
-date: 2021-05-17
+date: May 10, 2021, 12:39 PM
 image: /social.jpg
 author: Jen Blacow
 authorImage: /jen.jpg
-description: Which Treats of the Character and Pursuits of the Famous Gentleman Don Quixote of La Mancha
+description: We found some open-mindedness about employing people with autism or neurodiversity to fill skills gaps or recruit for jobs available in the construction industry. Here we discuss our experiences.
 ---
 **Thumbnail image:** NeurodiversityInConstruction
 

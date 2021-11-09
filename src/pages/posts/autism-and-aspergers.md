@@ -1,8 +1,8 @@
 ---
 layout: ../../layouts/BlogPost.astro
-title: Autism and Asperger Syndrome
+title: What is the difference between Autism and Aspergers?
 tag: autism
-date: Friday, 2020-09-11
+date: Sep 11, 2020, 12:52 PM
 image: /social.jpg
 author: Jen Blacow
 authorImage: /jen.jpg

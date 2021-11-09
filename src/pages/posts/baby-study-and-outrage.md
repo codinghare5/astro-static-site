@@ -2,11 +2,11 @@
 layout: ../../layouts/BlogPost.astro
 title: The controversy surrounding a 'cure' for autism
 tag: movie
-date: 2021-05-17
+date: Sep 24, 2021, 5:09 PM
 image: /social.jpg
 author: Jen Blacow
 authorImage: /jen.jpg
-description: Which Treats of the Character and Pursuits of the Famous Gentleman Don Quixote of La Mancha
+description: A recently published autism research paper suggests that early intervention for children who are showing some early sign of autism can reduce their risk of being given an autism diagnosis. This autism research demonstrates that this specific intervention which improves the way parents interact with their child can help children who are having difficulty with social interaction and possibly with sensory processing disorder. It may help clinicians tell the difference between children who really have autism and those who are at risk of being misdiagnosed with autism. Autism diagnosis as a way to get support is not helpful because it tends to lead to the wrong kind of support.
 ---
 **Thumbnail image:** BabyStudy&Outrage
 

@@ -1,12 +1,12 @@
 ---
 layout: ../../layouts/BlogPost.astro
-title: Chapter I
+title: Autism friendly management style – servant leadership?
 tag: movie
-date: 2021-05-17
+date: Oct 22, 2021, 6:06 PM
 image: /social.jpg
 author: Jen Blacow
 authorImage: /jen.jpg
-description: Which Treats of the Character and Pursuits of the Famous Gentleman Don Quixote of La Mancha
+description: The blog post attempts to answer the question: how can we make workplaces more autism and neurodiversity friendly, without interfering with the needs of most of the population…? Servant leadership as a management style could be an option to enable an autism friendly working environment.
 ---
 I think you need to reorganise this and change some of the wording.
 Switch the last and first sections around.

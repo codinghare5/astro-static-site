@@ -2,11 +2,11 @@
 layout: ../../layouts/BlogPost.astro
 title: Does my employee even care?
 tag: movie
-date: 2021-05-17
+date: Dec 3, 2020, 1:01 PM
 image: /social.jpg
 author: Jen Blacow
 authorImage: /jen.jpg
-description: Which Treats of the Character and Pursuits of the Famous Gentleman Don Quixote of La Mancha
+description: This blog post highlights how easily it can be to misunderstand an autistic colleagues’ actions, behaviours, and motives. It can be far more useful and less unpleasant to investigate the underlying reasons for employee behaviour, before jumping to certain conclusions about their intentions!
 ---
 **Thumbnail image:** DoesHeCare
 

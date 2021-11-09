@@ -2,11 +2,11 @@
 layout: ../../layouts/BlogPost.astro
 title: Autistic Employees - Why don't they get it?
 tag: movie
-date: 2021-05-17
+date: Apr 13, 2021, 2:17 PM
 image: /social.jpg
 author: Jen Blacow
 authorImage: /jen.jpg
-description: Which Treats of the Character and Pursuits of the Famous Gentleman Don Quixote of La Mancha
+description: Autistic people can be extremely valuable employees. However, due to lack of understanding on both sides, autism at work can cause disruption. This blog post provides examples of disruption due to autism in the workplace and some simple solutions.
 ---
 **Thumbnail image:** DoesNotGetIt
 

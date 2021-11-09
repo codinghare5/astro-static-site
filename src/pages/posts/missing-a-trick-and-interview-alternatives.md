@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: Are you missing a trick in your struggle to obtain valuable employees?
 tag: movie
-date: 2020-07-09
+date: Jul 9, 2020, 12:59 PM
 image: /social.jpg
 author: Jen Blacow
 authorImage: /jen.jpg

@@ -1,12 +1,12 @@
 ---
 layout: ../../layouts/BlogPost.astro
-title: Chapter I
+title: Are Autistic people good at IT?
 tag: movie
-date: 2021-05-17
+date: Sep 30, 2020, 7:06 PM
 image: /social.jpg
 author: Jen Blacow
 authorImage: /jen.jpg
-description: Which Treats of the Character and Pursuits of the Famous Gentleman Don Quixote of La Mancha
+description: Are autistic people naturally good at IT? Here is a non-stereotypical discussion of the subject.
 ---
 Autistic people are good at IT? Really?
 

@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: Is Autism a Disorder or a Difference?
 tag: movie
-date: 2020-07-02
+date: Jul 2, 2020, 2:40 PM
 image: /social.jpg
 author: Jen Blacow
 authorImage: /jen.jpg

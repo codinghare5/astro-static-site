@@ -1,12 +1,12 @@
 ---
 layout: ../../layouts/BlogPost.astro
-title: Chapter I
+title: At last! Introducing Aspiedent’s New Logo
 tag: movie
-date: 2021-05-17
+date: May 13, 2021, 8:58 PM
 image: /social.jpg
 author: Jen Blacow
 authorImage: /jen.jpg
-description: Which Treats of the Character and Pursuits of the Famous Gentleman Don Quixote of La Mancha
+description: This post is about Aspiedent CIC’s brand values, our new logo and how the two connect. Aspiedent’s values include excellence, freedom of expression of thought and opinion, and a focus on moving forward and growing.
 ---
 **Thumbnail image:**
 

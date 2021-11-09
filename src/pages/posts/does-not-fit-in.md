@@ -2,11 +2,11 @@
 layout: ../../layouts/BlogPost.astro
 title: Employee not fitting in? Think Neurodiversity.
 tag: movie
-date: 2021-05-17
+date: Apr 28, 2021, 10:52 AM
 image: /social.jpg
 author: Jen Blacow
 authorImage: /jen.jpg
-description: Which Treats of the Character and Pursuits of the Famous Gentleman Don Quixote of La Mancha
+description: We are often asked by networking contacts how they can best help Aspiedent help others. It can be as simple as listening out for complaints that an employee is not a good fit within a team, and suggesting the employer have an informal and confidential chat with us.
 ---
 **Thumbnail image:** DoesntFitIn
 

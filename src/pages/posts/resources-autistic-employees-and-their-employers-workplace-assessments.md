@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: Resources for Autistic Employees and their Employers - Workplace Assessments
 tag: movie
-date: 2020-08-07
+date: Aug 7, 2020, 1:23 PM
 image: /social.jpg
 author: Jen Blacow
 authorImage: /jen.jpg

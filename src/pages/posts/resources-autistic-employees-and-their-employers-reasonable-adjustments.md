@@ -1,8 +1,8 @@
 ---
 layout: ../../layouts/BlogPost.astro
-title: Resources for Autistic Employees and their employers - reasonable adjustments.
+title: Resources for Autistic Employees and their employers - Reasonable Adjustments.
 tag: movie
-date: 2020-08-14
+date: Aug 14, 2020, 2:57 PM
 image: /social.jpg
 author: Jen Blacow
 authorImage: /jen.jpg

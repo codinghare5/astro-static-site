@@ -1,12 +1,12 @@
 ---
 layout: ../../layouts/BlogPost.astro
-title: Chapter I
+title: What are mild and severe autism?
 tag: movie
-date: 2021-05-17
+date: Oct 1, 2021, 5:38 PM
 image: /social.jpg
 author: Jen Blacow
 authorImage: /jen.jpg
-description: Which Treats of the Character and Pursuits of the Famous Gentleman Don Quixote of La Mancha
+description: Autism spectrum condition (ASD) is commonly referred to as being mild autism or severe autism. Actually, autism is not linear and the amount of support needed is not necessarily an indication of the severity of the autism. Autism is an umbrella term that includes many different kinds of difficulties.
 ---
 **Thumbnail image:** WhatIsSevereAutism
 

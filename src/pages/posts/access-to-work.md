@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: Resources for Autistic Employees and their Employers - Access to Work
 tag: movie
-date: 2020-07-24
+date: Jul 24, 2020, 1:03 PM
 image: /social.jpg
 author: Jen Blacow
 authorImage: /jen.jpg

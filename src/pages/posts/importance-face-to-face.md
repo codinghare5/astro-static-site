@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: The Importance of Meeting Face to Face
 tag: movie
-date: 2020-06-26
+date: Jun 10, 2020, 3:49 PM
 image: /social.jpg
 author: Jen Blacow
 authorImage: /jen.jpg

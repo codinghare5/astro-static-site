@@ -2,11 +2,11 @@
 layout: ../../layouts/BlogPost.astro
 title: Autism does not have a monopoly on Sensory Issues
 tag: movie
-date: 2021-05-17
+date: Oct 29, 2021, 6:01 PM
 image: /social.jpg
 author: Jen Blacow
 authorImage: /jen.jpg
-description: Which Treats of the Character and Pursuits of the Famous Gentleman Don Quixote of La Mancha
+description: Sensory issues could be affecting you, even if you’re not autistic. Autism sensory issues are quite well-known as an autism issue. However, sensory issues are not just found in autism. If sensory issues are considered when designing accessible workplace environments for or your team, you may get more work done.
 ---
 **Thumbnail image: **MonopolySensoryIssues
 

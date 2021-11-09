@@ -1,12 +1,12 @@
 ---
 layout: ../../layouts/BlogPost.astro
-title: Chapter I
+title: Two half Truths about Autism and Society
 tag: movie
-date: 2021-05-17
+date: May 26, 2021, 4:11 PM
 image: /social.jpg
 author: Jen Blacow
 authorImage: /jen.jpg
-description: Which Treats of the Character and Pursuits of the Famous Gentleman Don Quixote of La Mancha
+description: There are two autism myths. One is that autism adjustments should be made so much that autistic people should never be expected to change or adapt to fit in with ‘society’. The other is that autistic people should have their autistic traits trained out of them. What connects these myths is the fact that society cannot accommodate completely to the needs of any individual. Read on for more…
 ---
 ##Leave Autistic People as they are and accommodate for them.
 ============================================================

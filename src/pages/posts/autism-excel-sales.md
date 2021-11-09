@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: Autistic employees can make good salespeople!
 tag: movie
-date: 2021-05-17
+date: Sep 25, 2020, 12:54 PM
 image: /social.jpg
 author: Jen Blacow
 authorImage: /jen.jpg

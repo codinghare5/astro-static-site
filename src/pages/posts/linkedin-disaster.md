@@ -2,14 +2,13 @@
 layout: ../../layouts/BlogPost.astro
 title: LinkedIn Disaster
 tag: movie
-date: 2020-06-03
+date: Jun 3, 2020, 2:37 PM
 image: /social.jpg
 author: Jen Blacow
 authorImage: /jen.jpg
 description: I tried to teach my autistic boss how to use LinkedIn - it was disaster. A blog highlighting how some autistic people struggle with emotional connection via electronic media. 
 ---
-**I tried to teach my autistic boss how to use LinkedIn: it was
-disaster.**
+**I tried to teach my autistic boss how to use LinkedIn: it was disaster.**
 
 Jen Blacow Operations Manager, Aspiedent CIC
 

@@ -2,11 +2,11 @@
 layout: ../../layouts/BlogPost.astro
 title: Is autism a super power? Not really.
 tag: movie
-date: 2021-05-17
+date: Oct 8, 2021, 6:24 PM
 image: /social.jpg
 author: Jen Blacow
 authorImage: /jen.jpg
-description: Which Treats of the Character and Pursuits of the Famous Gentleman Don Quixote of La Mancha
+description: Among other things, Greta Thunberg is known for proclaiming that her autism is a superpower and without that she would not be able to do what she does. She is not alone with kinds of claims. Many people claim that it is their autism that helps them to excel at what they do. Aspiedent can assure you that the people we support do not have superpowers.
 ---
 **Thumbnail image:** IsAutismASuperPower
 

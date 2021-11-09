@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: Online Autism Profiles and Workplace Assessments?
 tag: movie
-date: Friday, 2020-11-06
+date: Nov 6, 2020, 5:17 PM
 image: /social.jpg
 author: [Jen Blacow]
 authorImage: [jen]

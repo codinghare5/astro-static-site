@@ -2,11 +2,11 @@
 layout: ../../layouts/BlogPost.astro
 title: Autism Profiles for Children
 tag: movie
-date: 2021-05-17
+date: Jul 30, 2021, 4:12 PM
 image: /social.jpg
 author: Jen Blacow
 authorImage: /jen.jpg
-description: Which Treats of the Character and Pursuits of the Famous Gentleman Don Quixote of La Mancha
+description: Post diagnostic support for children with autism is well-known to be difficult to obtain. Not only that, but it is not always at all helpful. Aspiedent have a solution - Autism profiling. There are many underlying reasons why a child may struggle with any one autism symptom. This blog post discusses helping autistic children by figuring out and targeting their underlying autism issues. These underlying issues cause their autism symptoms, so doing it this way means that the child can become best equipped to reach their potential.
 ---
 **Thumbnail image: **
 

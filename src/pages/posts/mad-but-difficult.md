@@ -1,12 +1,12 @@
 ---
 layout: ../../layouts/BlogPost.astro
-title: Chapter I
+title: Bad, Mad, Difficult?
 tag: movie
-date: 2021-05-17
+date: Nov 19, 2020, 4:20 PM
 image: /social.jpg
 author: Jen Blacow
 authorImage: /jen.jpg
-description: Which Treats of the Character and Pursuits of the Famous Gentleman Don Quixote of La Mancha
+description: This blog post sheds light on the reality of autism in the workplace. If you want benefit of diversity of thinking, innovation, and creativity at work, then you may well have to deal with some HR challenges in return.
 ---
 **Mad, Bad, Difficult?**
 

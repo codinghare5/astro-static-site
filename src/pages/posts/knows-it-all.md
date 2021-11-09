@@ -1,12 +1,12 @@
 ---
 layout: ../../layouts/BlogPost.astro
-title: Knows it all
+title: Autistic Employees - Not accepting authority?
 tag: movie
-date: 2021-05-17
+date: Apr 21, 2021, 3:29 PM
 image: /social.jpg
 author: Jen Blacow
 authorImage: /jen.jpg
-description: Which Treats of the Character and Pursuits of the Famous Gentleman Don Quixote of La Mancha
+description: Some employers feel they have an autistic employee who struggles to accept authority. This got us thinking about why an employer might get this impression of an autistic employee. This blog post explores what might be going on, and how to deal with it.
 ---
 **Thumbnail image:** KnowsItAll
 

@@ -2,11 +2,11 @@
 layout: ../../layouts/BlogPost.astro
 title: The impact of an autism profile
 tag: movie
-date: 2021-05-17
+date: Nov 11, 2020, 4:30 PM
 image: /social.jpg
 author: Jen Blacow
 authorImage: /jen.jpg
-description: Which Treats of the Character and Pursuits of the Famous Gentleman Don Quixote of La Mancha
+description: This blog post highlights the positive impact that an Aspiedent Autism Profile can have on individuals and workplaces alike, by getting underneath the autism symptoms.
 ---
 **The impact of an autism profile**
 

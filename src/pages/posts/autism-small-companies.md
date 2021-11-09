@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: Autism in small companies
 tag: movie
-date: 2020-09-18
+date: Sep 18, 2020, 1:38 PM
 image: /social.jpg
 author: Jen Blacow
 authorImage: /jen.jpg

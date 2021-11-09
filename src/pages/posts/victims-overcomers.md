@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: Victims and Overcomers
 tag: movie
-date: 2020-06-19
+date: Jun 19, 2020, 4:06 PM
 image: /social.jpg
 author: Jen Blacow
 authorImage: /jen.jpg

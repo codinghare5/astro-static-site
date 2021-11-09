@@ -1,12 +1,12 @@
 ---
 layout: ../../layouts/BlogPost.astro
-title: Chapter I
+title: Company Neurodiversity Inclusion - Where to start?
 tag: movie
-date: 2021-05-17
+date: Jul 2, 2021, 11:45 AM
 image: /social.jpg
 author: Jen Blacow
 authorImage: /jen.jpg
-description: Which Treats of the Character and Pursuits of the Famous Gentleman Don Quixote of La Mancha
+description: This blog post is for good leaders who are passionate about neurodiversity inclusion in the workplace and need a bit of guidance as to where to start. It includes encouragement and some (hopefully) helpful & wise words regarding some of the issues you may face pulling off neurodiversity workplace inclusion.
 ---
 **Thumbnail image:** WhereDoIStartNeurodiversityInitiatives
 

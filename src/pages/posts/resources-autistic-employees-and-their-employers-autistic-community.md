@@ -1,8 +1,8 @@
 ---
 layout: ../../layouts/BlogPost.astro
-title: Resources  for Autistic Employees and their Employers - The Autistic Community
+title: Resources for Autistic Employees and their Employers - The Autistic Community
 tag: movie
-date: 2020-07-29
+date: Jul 29, 2020, 1:14 PM
 image: /social.jpg
 author: Jen Blacow
 authorImage: /jen.jpg
