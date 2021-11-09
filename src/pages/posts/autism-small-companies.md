@@ -4,8 +4,8 @@ title: Autism in small companies
 tag: movie
 date: Sep 18, 2020, 1:38 PM
 image: /social.jpg
-author: Jen Blacow
-authorImage: /jen.jpg
+author: [Jen Blacow]
+authorImage: [jen]
 description: Is it a good idea to employ people with autism when you run a small business? This blog provides a truthful exploration of this topic. This includes a discussion of the benefits of hiring autistic people and the resources you may need to have to employ autistic people successfully. 
 ---
 ### **The Success-Factor. Would autistic employees make a small company more successful?**

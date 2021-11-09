@@ -4,8 +4,8 @@ title: Autism, COVID Restrictions and Employment
 tag: movie
 date: Oct 16, 2020, 3:59 PM
 image: /social.jpg
-author: Jen Blacow
-authorImage: /jen.jpg
+author: [Jen Blacow]
+authorImage: [jen]
 description: Autism and lockdown - A brief description about how the situation is affecting the employment situation for autistic adults. Perhaps employers could take this as an opportunity to consider how they could recruit from a wider range of talent.
 ---
 We have been under restrictions because of COVID19, for nearly 7 months

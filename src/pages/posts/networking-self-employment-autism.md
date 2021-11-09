@@ -4,8 +4,8 @@ title: Business networking and autism
 tag: movie
 date: Jun 25, 2021, 1:13 PM
 image: /social.jpg
-author: Jen Blacow
-authorImage: /jen.jpg
+author: [Jen Blacow]
+authorImage: [jen]
 description: In this blog post, we focus on business networking and autism. It took a while for us to figure out the real point of networking and why it is important. Here we try and clearly explain the point and give tips on how to do it right.
 ---
 **Thumbnail image: **

@@ -4,8 +4,8 @@ title: Are you missing a trick in your struggle to obtain valuable employees?
 tag: movie
 date: Jul 9, 2020, 12:59 PM
 image: /social.jpg
-author: Jen Blacow
-authorImage: /jen.jpg
+author: [Jen Blacow]
+authorImage: [jen]
 description: Are you missing a trick in your search for valuable employees? With the right understanding in place, employing people with autism could be a brilliant move for your small business.
 ---
 **Autism and Small Businesses -- notes**

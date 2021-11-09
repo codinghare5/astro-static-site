@@ -4,8 +4,8 @@ title: Autism, Change and Covid-19
 tag: movie
 date: Jun 26, 2020, 2:19 PM
 image: /social.jpg
-author: Jen Blacow
-authorImage: /jen.jpg
+author: [Jen Blacow]
+authorImage: [jen]
 description: This post explores ways in which social distancing due to the Covid-19 pandemic might help autistic people, but hinder non-autistic people.
 ---
 **Changes in the workplace due to COVID and autism. Title could be better.**

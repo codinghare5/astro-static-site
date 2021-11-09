@@ -4,8 +4,8 @@ title: Autism is an Umbrella Term
 tag: movie
 date: Sep 2, 2020, 1:08 PM
 image: /social.jpg
-author: Jen Blacow
-authorImage: /jen.jpg
+author: [Jen Blacow]
+authorImage: [jen]
 description: What is Autism? This is a question that is asked a lot and it is a perfectly good question. But actually, Autism is just not something that can be defined easily. Autism is an umbrella term for a whole range of different underlying difficulties, unified by a set of common symptoms.
 ---
 Autism is an umbrella term for a myriad of different underlying

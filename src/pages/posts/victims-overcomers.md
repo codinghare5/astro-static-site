@@ -4,8 +4,8 @@ title: Victims and Overcomers
 tag: movie
 date: Jun 19, 2020, 4:06 PM
 image: /social.jpg
-author: Jen Blacow
-authorImage: /jen.jpg
+author: [Jen Blacow]
+authorImage: [jen]
 description: This blog talks candidly about how surrounding yourself with a network of ‘overcomers’, rather than ‘victims’, is better for individuals and businesses alike.
 ---
 Recently, I read a post by a friend, [Pamela

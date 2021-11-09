@@ -4,8 +4,8 @@ title: Autistic employees can make good salespeople!
 tag: movie
 date: Sep 25, 2020, 12:54 PM
 image: /social.jpg
-author: Jen Blacow
-authorImage: /jen.jpg
+author: [Jen Blacow]
+authorImage: [jen]
 description: Contrary to popular belief, some autistic people can be excellent at selling. This blog explores the how and why around this. 
 ---
 ## **Autistic Salespeople - Why some autistic people can make businesses lots of money?**

@@ -4,8 +4,8 @@ title: Neurodiversity in the workplace
 tag: movie
 date: Jul 23, 2021, 3:11 PM
 image: /social.jpg
-author: Jen Blacow
-authorImage: /jen.jpg
+author: [Jen Blacow]
+authorImage: [jen]
 description: Keeping the conversation and neurodiversity in the workplace as realistic as possible is important. Not everyone with autism and neurodiversity will suddenly bring innovation, superpowers, or an unstoppable work ethic into a company. Whilst there are certainly benefits to have a neurodiverse workforce, in order for it to be successful we need to take of our rose-tinted glasses or we risk setting false expectations of people and excluding the very people we are trying to include.
 ---
 **Thumbnail image:** NeurodiversityWorkplace

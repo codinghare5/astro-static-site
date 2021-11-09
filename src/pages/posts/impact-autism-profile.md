@@ -4,8 +4,8 @@ title: The impact of an autism profile
 tag: movie
 date: Nov 11, 2020, 4:30 PM
 image: /social.jpg
-author: Jen Blacow
-authorImage: /jen.jpg
+author: [Jen Blacow]
+authorImage: [jen]
 description: This blog post highlights the positive impact that an Aspiedent Autism Profile can have on individuals and workplaces alike, by getting underneath the autism symptoms.
 ---
 **The impact of an autism profile**

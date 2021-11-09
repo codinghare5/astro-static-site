@@ -4,8 +4,8 @@ title: Identity, Discrimination and Autism
 tag: movie
 date: Jul 17, 2021, 7:51 AM
 image: /social.jpg
-author: Jen Blacow
-authorImage: /jen.jpg
+author: [Jen Blacow]
+authorImage: [jen]
 description: Although there is always space for Activism, Aspiedent try to stay away from political ideologies in relation to autism. Identity politics in particular is sometimes referred to regarding autism and the experience of being autistic. This blog post highlights some of the reasons why we do not believe autism & identity politics mix well and vents some frustrations about the topics of identity and discrimination.
 ---
 **Thumbnail image:** Identity&Autism

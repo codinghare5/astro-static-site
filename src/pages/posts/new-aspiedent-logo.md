@@ -4,8 +4,8 @@ title: At last! Introducing Aspiedent’s New Logo
 tag: movie
 date: May 13, 2021, 8:58 PM
 image: /social.jpg
-author: Jen Blacow
-authorImage: /jen.jpg
+author: [Jen Blacow]
+authorImage: [jen]
 description: This post is about Aspiedent CIC’s brand values, our new logo and how the two connect. Aspiedent’s values include excellence, freedom of expression of thought and opinion, and a focus on moving forward and growing.
 ---
 **Thumbnail image:**

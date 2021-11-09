@@ -4,8 +4,8 @@ title: What are mild and severe autism?
 tag: movie
 date: Oct 1, 2021, 5:38 PM
 image: /social.jpg
-author: Jen Blacow
-authorImage: /jen.jpg
+author: [Jen Blacow]
+authorImage: [jen]
 description: Autism spectrum condition (ASD) is commonly referred to as being mild autism or severe autism. Actually, autism is not linear and the amount of support needed is not necessarily an indication of the severity of the autism. Autism is an umbrella term that includes many different kinds of difficulties.
 ---
 **Thumbnail image:** WhatIsSevereAutism

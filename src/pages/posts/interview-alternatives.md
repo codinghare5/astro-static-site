@@ -4,8 +4,8 @@ title: Is an interview really the best way to recruit a candidate for a job?
 tag: movie
 date: Jul 16, 2020, 10:31 AM
 image: /social.jpg
-author: Jen Blacow
-authorImage: /jen.jpg
+author: [Jen Blacow]
+authorImage: [jen]
 description: We discuss how interviews disadvantage some otherwise brilliant workers including autistic ones. It highlights there are more logical and effective ways to ensure the right person is recruited for a role.
 ---
 **Is an interview really the best way to recruit a candidate for a job?**

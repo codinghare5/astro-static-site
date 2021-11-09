@@ -4,8 +4,8 @@ title: Company Neurodiversity Inclusion - Where to start?
 tag: movie
 date: Jul 2, 2021, 11:45 AM
 image: /social.jpg
-author: Jen Blacow
-authorImage: /jen.jpg
+author: [Jen Blacow]
+authorImage: [jen]
 description: This blog post is for good leaders who are passionate about neurodiversity inclusion in the workplace and need a bit of guidance as to where to start. It includes encouragement and some (hopefully) helpful & wise words regarding some of the issues you may face pulling off neurodiversity workplace inclusion.
 ---
 **Thumbnail image:** WhereDoIStartNeurodiversityInitiatives

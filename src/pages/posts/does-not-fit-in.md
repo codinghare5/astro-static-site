@@ -4,8 +4,8 @@ title: Employee not fitting in? Think Neurodiversity.
 tag: movie
 date: Apr 28, 2021, 10:52 AM
 image: /social.jpg
-author: Jen Blacow
-authorImage: /jen.jpg
+author: [Jen Blacow]
+authorImage: [jen]
 description: We are often asked by networking contacts how they can best help Aspiedent help others. It can be as simple as listening out for complaints that an employee is not a good fit within a team, and suggesting the employer have an informal and confidential chat with us.
 ---
 **Thumbnail image:** DoesntFitIn

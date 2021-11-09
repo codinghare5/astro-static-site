@@ -4,8 +4,8 @@ title: Resources for Autistic Employees and their Employers - Workplace Assessme
 tag: movie
 date: Aug 7, 2020, 1:23 PM
 image: /social.jpg
-author: Jen Blacow
-authorImage: /jen.jpg
+author: [Jen Blacow]
+authorImage: [jen]
 description: What are the important differences between Occupational Health Assessments and Autism Workplace Assessments? How do you know which company to choose to undertake an Autism Workplace Assessment? Here is some guidance.
 ---
 Recently, a high-performing autistic employee contacted me in desperate

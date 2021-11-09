@@ -4,10 +4,9 @@ title: How to do better in business by understanding (autistic) traits
 tag: movie
 date: New, 2021-11-08
 image: /social.jpg
-author: Jen Blacow
-authorImage: /jen.jpg
-description: Learning how to deal with people successfully, requires an understanding
-of human beings, human variation and how people tick.
+author: [Jen Blacow]
+authorImage: [jen]
+description: Learning how to deal with people successfully, requires an understanding of human beings, human variation and how people tick.
 ---
 **How to do better in business by understanding (autistic) traits**
 
