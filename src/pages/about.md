@@ -36,11 +36,14 @@ H2 Header (Underline)
 ----
 
 ~~Strikethrough~~ <s>Strikethrough (when enable html tag decode.)</s>
+
 *Italic*      _Italic_
+
 **Emphasis**  __Emphasis__
+
 ***Emphasis Italic*** ___Emphasis Italic___
 
-Superscript: X<sub>2</sub>，Subscript: O<sup>2</sup>
+Superscript: X<sup>2</sup>，Subscript: O<sub>2</sub>
 
 **Abbreviation(link HTML abbr tag)**
 
@@ -67,8 +70,6 @@ Paragraphs and Line Breaks
 [id/name]: http://link-url/
 
 GFM a-tail link @pandao
-
-### Code Blocks (multi-language) & highlighting
 
 #### Inline code
 

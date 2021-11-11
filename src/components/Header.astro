@@ -1,19 +1,25 @@
 <style lang="scss">
 .company {
 	font-family: 'Alice', sans-serif;
-	font-size: 64px;
     line-height: inherit;
 }
+.company-header {
+    flex-direction: column;
+}
 .title-container {
-    border-left: 1px solid #c99b40;
-    padding-top: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-block: 0.75rem;
+    // border-top: 1px solid var(--accent-gold-400);
 }
 .title {
-	max-width: calc(100vw*0.29);
+    display: flex;
 	font-size: 0.75rem;
 	line-height: 1rem;
 	letter-spacing: 0.05em;
 	word-spacing: 0.2em;
+    justify-content: center;
 }
 .links li a {
 	line-height: 1rem;
@@ -21,14 +27,13 @@
 }
 
 .nav {
-    background-color: var(--segment-purple-100);
 
 	&__toggle {
 		position: absolute;
 		cursor: pointer;
 		margin-inline: 0.5rem;
-		right: 0;
-        top: 1.5rem;
+		right: 0.5rem;
+        top: 0.5rem;
 
 		svg {
 			width: 1.5rem;
@@ -59,11 +64,11 @@
 		}
 
         li:first-of-type {
-            padding-top: 1rem;
+            padding-top: 0.75rem;
         }
 
         li:last-of-type {
-            padding-bottom: 1rem;
+            padding-bottom: 0.75rem;
         }
 
 		a {
@@ -111,10 +116,10 @@
             }
 
             &:first-child > a {
-				padding-left: 1.25rem;
-			}
+                }
 
 			&:not(:first-child) > a {
+				padding-inline: 1.25rem;
 				border-left: 1px solid var(--accent-gold-400);
 			}
 
@@ -131,57 +136,51 @@
     .nav {
         &__menu {
             li {
-                &:first-child > a {
-                    padding-left: 1.75rem;
+                &:not(:first-child) > a {
+                    padding-inline: 1.75rem;
                 }
             }
         }
     }
 }
 
-@media only screen and (max-width: 640px) {
-    .company-header {
+@media only screen and (max-width: 800px) {
+    .logo-company {
         flex-direction: column;
-    }
-    .title-container {
-        border-left: none;
-        border-top: 1px solid var(--accent-gold-400);
     }
     .title {
         max-width: 100%;
     }
 }
-@media only screen and (max-width: 420px) {
-    .company {
-        font-size: calc(100vw*0.14);
+
+@media only screen and (max-width: 660px) {
+    .title {
+        flex-direction: column;
     }
 }
-header.original-purple {
+
+:global(.original-purple) {
     color: var(--accent-gold-200);
-    background-color: var(--segment-purple-400);
+    background-color: var(--segment-purple-500);
 }
 </style>
-<header class="py-4">
+<header class="original-purple py-4">
 	<article>
 		<a href="/">
 			<section class="company-header flex items-center">
-				<div class="flex items-center mx-3">
-					<img class="mr-3" src="/assets/logo/Aspiedent.png" width="96px" height="96px"/>
-					<h1>
-						<span class="company">Aspiedent</span>
-					</h1>
+				<div class="logo-company flex items-center mx-3">
+					<img class="mr-3" src="/assets/logo/Aspiedent.svg" width="161.8px" height="161.8px"/>
+					<span class="company md:text-8xl text-6xl">Aspiedent</span>
 				</div>
-				<div class="title-container">
-					<h1 class="title uppercase ml-3">
-						<span>Autism, Aspergers and Neurodiversity Training and Consulting</span>
-					</h1>
+				<div class="title-container title uppercase">
+                    <span>Autism, Aspergers and Neurodiversity</span>&nbsp;<span>Training and Consulting</span>
 				</div>
 			</section>
 		</a>
 	</article>
 </header>
 
-<header>
+<header class="original-purple pb-3">
 	<article class="nav links flex text-base leading-7">
 		<input type="checkbox" id="nav__checkbox" class="nav__checkbox">
 		<label for="nav__checkbox" class="nav__toggle">
