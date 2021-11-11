@@ -5,14 +5,14 @@ export interface Props {
 const { heading } = Astro.props;
 ---
 <style>
-.tilted {
+.down {
     position: relative;
     width: 100%;
     height: 400px;
     z-index: 0;
 }
 
-.tilted:after {
+.down:after {
     content: '';
     width: 50%;
     height: 100%;
@@ -28,7 +28,7 @@ const { heading } = Astro.props;
     box-shadow: inset 0 12px 9px -10px rgba(0, 0, 0, 0.4);
 }
 
-.tilted:before {
+.down:before {
     content: '';
     width: 50%;
     height: 100%;
@@ -44,7 +44,7 @@ const { heading } = Astro.props;
     box-shadow: inset 0 12px 10px -10px rgba(0, 0, 0, 0.4);
 }
 </style>
-<article class="tilted flex justify-center">
+<article class="down flex justify-center">
     <section class="up flex flex-col justify-center items-center">
         <h3 class="text-xl font-medium my-3">{ heading }</h3>
         <div class="max-w-screen-sm mx-3">

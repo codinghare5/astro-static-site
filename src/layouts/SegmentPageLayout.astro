@@ -8,7 +8,61 @@ const { title = content.title,
             description = content.description, 
             permalink = content.permalink } = Astro.props;
 ---
-<Default title={title} description={description} permalink={permalink}>
+<style global>
+.diagnosis button {
+    background-color: var(--segment-blue-500);
+}
+.diagnosis button:focus, .diagnosis button:hover {
+    background-color: var(--segment-blue-400);
+}
+.diagnosis .tilted::after, .diagnosis .tilted::before{
+    background-color: var(--segment-blue-100);
+}
+
+.careers button {
+    background-color: var(--segment-green-500);
+}
+.careers button:focus, .careers button:hover {
+    background-color: var(--segment-green-400);
+}
+.careers .tilted::after, .careers .tilted::before{
+    background-color: var(--segment-green-100);
+}
+
+.education button {
+    background-color: var(--segment-red-500);
+}
+.education button:focus, .education button:hover {
+    background-color: var(--segment-red-400);
+}
+.education .tilted::after, .education .tilted::before{
+    background-color: var(--segment-red-100);
+}
+
+.employers button {
+    background-color: var(--segment-purple-500);
+}
+.employers button:focus, .employers button:hover {
+    background-color: var(--segment-purple-400);
+}
+.employers .tilted::after, .employers .tilted::before{
+    background-color: var(--segment-purple-100);
+}
+
+button.action {
+    color: var(--accent-gold-200);
+    font-weight: 500;
+    border: 1px solid var(--accent-gold-200);
+    padding-block: 0.5rem;
+    padding-inline: 1rem;
+}
+button.action:focus, button.action:hover {
+    color: var(--accent-gold-200);
+    border: 1px solid var(--accent-gold-200);
+    transform: scale(1.01618);
+}
+</style>
+<Default title={title} description={description} permalink={permalink} segment={content.segment}>
     <SegmentLayout 
         heroTitle={content.heroTitle} 
         heroSubtitle={content.heroSubtitle} 

@@ -9,6 +9,7 @@ heroSubtitle: Problems at school? Want to get back on track? Let's get started!
 benefitsHeading: Benefits of Autism Profile
 sampleProfileHeading: Want to try a sample neurodiversity profile?
 segmentColor: red
+segment: education
 ---
 
 Intro text content (list of benefits and bullet points can go here) - 

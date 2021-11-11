@@ -15,7 +15,6 @@ const fullprofiletitle = 'Redy to start your full neurodiversity profile?'
     width: 100%;
     height: 80%;
     position: absolute;
-    background: var(--segment-red-100);
     z-index: -1;
     top: 20%;
     right: 0;
@@ -30,7 +29,6 @@ const fullprofiletitle = 'Redy to start your full neurodiversity profile?'
     width: 100%;
     height: 80%;
     position: absolute;
-    background: var(--segment-red-100);
     z-index: -1;
     top: 20%;
     right: 0;
@@ -39,23 +37,10 @@ const fullprofiletitle = 'Redy to start your full neurodiversity profile?'
     transform-origin: bottom right;
     transform: skewY(4deg);
 }
-button.action2 {
-    color: var(--accent-gold-200);
-    font-weight: 500;
-    background-color: var(--segment-purple-500);
-    border: 1px solid var(--accent-gold-200);
-    padding: 0.5rem;
-}
-button.action2:focus, button.action2:hover {
-    color: var(--accent-gold-200);
-    background-color: var(--segment-purple-400);
-    border: 1px solid var(--accent-gold-200);
-    transform: scale(1.01618);
-}
 </style>
 <article class="tilted flex flex-col justify-center items-center">
     <section class="flex flex-col justify-center items-center py-20">
         <h3 class="text-lg font-medium my-4">{fullprofiletitle}</h3>
-        <button class="action2">Click here to book one</button>
+        <button class="action">Click here to book one</button>
     </section>
 </article>

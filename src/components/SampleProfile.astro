@@ -1,23 +1,12 @@
 ---
 export interface Props {
   sampleProfileHeading: string;
+  segmentColor: string;
 }
-const { sampleProfileHeading } = Astro.props;
+const { sampleProfileHeading, segmentColor } = Astro.props;
+const segmentClass = `segment-${segmentColor} flex flex-col justify-center items-center`
 ---
 <style>
-button.action {
-    font-weight: 500;
-    background-color: #d1d2f9;
-    border: 1px solid #49326b;
-    padding-block: 0.5rem;
-    padding-inline: 1rem;
-}
-button.action:focus, button.action:hover {
-    color: #d6b471;
-    background-color: white;
-    border: 1px solid #d6b471;
-    transform: scale(1.01618);
-}
 input {
     outline: none !important;
     resize: none !important;
@@ -39,7 +28,7 @@ label, label:focus {
     outline: none;
 }
 </style>
-<article class="flex flex-col justify-center items-center">
+<article class={segmentClass}>
     <section class="flex flex-col justify-center items-center py-20">
         <h3 class="text-lg font-medium my-4">{ sampleProfileHeading }</h3>
         <h4>Enter your email address here and we will send you the questions.</h4>

@@ -3,7 +3,8 @@ import BaseHead from '../components/BaseHead.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 
-const {title, description, permalink} = Astro.props;
+const {title, description, permalink, segment} = Astro.props;
+const bodyClass = `${segment !== undefined ? segment : ''} max-w-screen-lg mx-auto`
 ---
 <html lang={ 'en' }>
 	<head>
@@ -17,7 +18,7 @@ const {title, description, permalink} = Astro.props;
 		}
 	</style>
 
-	<body class="max-w-screen-lg mx-auto">
+	<body class={bodyClass}>
 		<Header />
 			<slot />
 		<Footer/>
