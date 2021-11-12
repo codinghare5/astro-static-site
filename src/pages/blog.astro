@@ -2,6 +2,7 @@
 // Component Imports
 import Default from '../layouts/Default.astro';
 import BlogPostPreview from '../components/BlogPostPreview.astro';
+import Hero from '../components/Hero.astro';
 
 interface MarkdownFrontmatter {
   date: number;
@@ -28,11 +29,10 @@ allPosts = allPosts.sort((a, b) => new Date(b.date).valueOf() - new Date(a.date)
 }
 </style>
 <Default title={title} description={description} permalink={permalink}>
-	<article>
-		<section class="blog-header flex flex-col items-center my-8">
-			<h1 class="alice-font text-3xl my-8">{title}</h1>
-			<p class="mono">{description}</p>
-		</section>
+    <Hero herotitle={title}>
+        {description}
+    </Hero>
+    <article>
 		<section>
 			{allPosts.map(p => <BlogPostPreview post={p} />)}
 		</section>

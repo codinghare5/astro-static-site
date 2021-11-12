@@ -161,7 +161,15 @@
 
 :global(.original-purple) {
     color: var(--accent-gold-200);
-    background-color: var(--segment-purple-500);
+    // background-color: var(--segment-purple-500);
+    background-image: url('/header-bg.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+:global(.purple-400) {
+    color: var(--accent-gold-200);
+    background-color: var(--segment-purple-400);
 }
 </style>
 <header class="original-purple py-4">
@@ -180,7 +188,7 @@
 	</article>
 </header>
 
-<header class="original-purple pb-3">
+<header class="purple-400 py-2">
 	<article class="nav links flex text-base leading-7">
 		<input type="checkbox" id="nav__checkbox" class="nav__checkbox">
 		<label for="nav__checkbox" class="nav__toggle">
