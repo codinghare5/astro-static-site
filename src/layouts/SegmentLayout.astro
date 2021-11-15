@@ -14,7 +14,7 @@ export interface Props {
 const { heroTitle, heroSubtitle, benefitsHeading, sampleProfileHeading, segmentColor } = Astro.props;
 const herobackgroundCSS = `background-color: var(--segment-${segmentColor}-400)`
 ---
-<Segment herotitle={heroTitle} bgcolor={herobackgroundCSS}>
+<Segment herotitle={heroTitle} bgcolor={segmentColor}>
 	{ heroSubtitle }
 </Segment>
 <Benefits heading={benefitsHeading}>
