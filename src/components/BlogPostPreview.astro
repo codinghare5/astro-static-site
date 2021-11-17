@@ -57,7 +57,6 @@ header {
 	text-align: left;
 	align-items: flex-start;
 	justify-content: center;
-	padding-bottom: 2rem;
 }
 
 .title,
@@ -85,12 +84,6 @@ header {
   color: var(--segment-purple-400);
 }
 
-article a:focus, article a:hover {
-	display:block;
-	height: 100%;
-	width: 100%;
-}
-
 .diagnosis.post-preview::after, .diagnosis.post-preview::before{
     background-color: var(--segment-blue-100);
 }
@@ -107,29 +100,35 @@ article a:focus, article a:hover {
     background-color: var(--segment-purple-100);
 }
 
-button.action {
-    color: var(--accent-gold-200);
-    font-weight: 500;
-    border: 1px solid var(--accent-gold-200);
-    padding-block: 0.5rem;
-    padding-inline: 1rem;
+article a div img {
+    border-radius: 3px;
+    border: 3px solid white;
+    margin: 0.5rem;
 }
-button.action:focus, button.action:hover {
-    color: var(--accent-gold-200);
-    border: 1px solid var(--accent-gold-200);
-    transform: scale(1.01618);
+@media screen and (max-width: 640px) {
+    div.thumbnail {
+        transform: scale(1.5);
+        padding-block: 1rem;
+    }
 }
 </style>
 <article class={postClass}>
 	<a href={post.url}>
-		<div>
-			<header>
-				<h3 class="publish-date">{post.date}</h3>
-				<h1 class="title">{post.title}</h1>
-			</header>
-			<main>
-				<p>{post.description}</p>
-			</main>
-		</div>
+        <div class="grid sm:grid-cols-5 mobile:grid-cols-1 lg:place-items-start place-items-center">
+            <div class="thumbnail sm:col-start-1 sm:col-end-2 sm:row-start-1 sm:row-end-2 mobile:col-span-1 mobile:row-start-1 mobile:row-end-2">
+                <img src={post.thumbnail} />
+            </div>
+            <div class="sm:col-start-2 sm:col-end-6 sm:row-start-1 sm:row-end-2 mobile:col-span-1 mobile:row-start-2 mobile:row-end-3 m-3">
+                <header>
+                    <h1 class="title">{post.title}</h1>
+                    <h3 class="publish-date">{post.date}</h3>
+                </header>
+            </div>
+            <div class="sm:col-start-1 sm:col-end-6 mobile:col-span-1 mobile:row-start-3 mobile:row-end-4 mx-3">
+                <main>
+                    <p>{post.description}</p>
+                </main>
+            </div>
+        </div>
 	</a>
 </article>
