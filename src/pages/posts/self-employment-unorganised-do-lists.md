@@ -3,7 +3,10 @@ layout: ../../layouts/BlogPost.astro
 title: Self-employment (for the unorganised) - To-Do 'Lists'
 tag: movie
 date: Jun 11, 2021, 4:20 PM
-image: /social.jpg
+image: /blog/social.jpg
+thumbnail: /blog/thumbnails/Adjustments.jpg
+metaTitle: SEO Meta Title Goes Here
+metaDescription: SEO meta description goes here.
 author: [Jen Blacow]
 authorImage: [jen]
 description: Routine, planning & organisation is important to successfully run a business or being self-employed. We developed some very unique ways of keeping and managing To-do ‘lists’. Here is a blog to share our systems. I hope they help you manage business and stay organised!

@@ -3,7 +3,10 @@ layout: ../../layouts/BlogPost.astro
 title: Resources for Autistic Employees and their Employers - Access to Work
 tag: movie
 date: Jul 24, 2020, 1:03 PM
-image: /social.jpg
+image: /blog/social.jpg
+thumbnail: /blog/thumbnails/Adjustments.jpg
+metaTitle: SEO Meta Title Goes Here
+metaDescription: SEO meta description goes here.
 author: [Jen Blacow]
 authorImage: [jen]
 description: Access to Work is  DWP’s best kept secret. You can get a grant for equipment and support at work if you have autism or aspergers. Read on for more.

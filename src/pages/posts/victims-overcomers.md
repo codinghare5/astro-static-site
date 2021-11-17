@@ -3,7 +3,10 @@ layout: ../../layouts/BlogPost.astro
 title: Victims and Overcomers
 tag: movie
 date: Jun 19, 2020, 4:06 PM
-image: /social.jpg
+image: /blog/social.jpg
+thumbnail: /blog/thumbnails/Adjustments.jpg
+metaTitle: SEO Meta Title Goes Here
+metaDescription: SEO meta description goes here.
 author: [Jen Blacow]
 authorImage: [jen]
 description: This blog talks candidly about how surrounding yourself with a network of ‘overcomers’, rather than ‘victims’, is better for individuals and businesses alike.

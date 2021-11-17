@@ -3,7 +3,10 @@ layout: ../../layouts/BlogPost.astro
 title: What is the difference between Autism and Aspergers?
 tag: autism
 date: Sep 11, 2020, 12:52 PM
-image: /social.jpg
+image: /blog/social.jpg
+thumbnail: /blog/thumbnails/Adjustments.jpg
+metaTitle: SEO Meta Title Goes Here
+metaDescription: SEO meta description goes here.
 author: [Jen Blacow]
 authorImage: [jen]
 description: What is the difference between autism and aspergers, is a common question. It can cause all sorts of confusion. This article aims to make the difference easy to understand, while also highlighting the complexities of the answer.

@@ -3,7 +3,10 @@ layout: ../../layouts/BlogPost.astro
 title: How to do better in business by understanding (autistic) traits
 tag: movie
 date: New, 2021-11-08
-image: /social.jpg
+image: /blog/social.jpg
+thumbnail: /blog/thumbnails/Adjustments.jpg
+metaTitle: SEO Meta Title Goes Here
+metaDescription: SEO meta description goes here.
 author: [Jen Blacow]
 authorImage: [jen]
 description: Learning how to deal with people successfully, requires an understanding of human beings, human variation and how people tick.

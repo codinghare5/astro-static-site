@@ -3,7 +3,10 @@ layout: ../../layouts/BlogPost.astro
 title: Are you missing a trick in your struggle to obtain valuable employees?
 tag: movie
 date: Jul 9, 2020, 12:59 PM
-image: /social.jpg
+image: /blog/social.jpg
+thumbnail: /blog/thumbnails/Adjustments.jpg
+metaTitle: SEO Meta Title Goes Here
+metaDescription: SEO meta description goes here.
 author: [Jen Blacow]
 authorImage: [jen]
 description: Are you missing a trick in your search for valuable employees? With the right understanding in place, employing people with autism could be a brilliant move for your small business.

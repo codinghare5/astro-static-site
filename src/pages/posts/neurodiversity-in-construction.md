@@ -3,7 +3,10 @@ layout: ../../layouts/BlogPost.astro
 title: Does the Construction Sector Deserve Neurodiverse People?
 tag: movie
 date: May 10, 2021, 12:39 PM
-image: /social.jpg
+image: /blog/social.jpg
+thumbnail: /blog/thumbnails/Adjustments.jpg
+metaTitle: SEO Meta Title Goes Here
+metaDescription: SEO meta description goes here.
 author: [Jen Blacow]
 authorImage: [jen]
 description: We found some open-mindedness about employing people with autism or neurodiversity to fill skills gaps or recruit for jobs available in the construction industry. Here we discuss our experiences.

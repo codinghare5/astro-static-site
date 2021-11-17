@@ -3,7 +3,10 @@ layout: ../../layouts/BlogPost.astro
 title: Resources for Autistic Employees and their Employers - The Autistic Community
 tag: movie
 date: Jul 29, 2020, 1:14 PM
-image: /social.jpg
+image: /blog/social.jpg
+thumbnail: /blog/thumbnails/Adjustments.jpg
+metaTitle: SEO Meta Title Goes Here
+metaDescription: SEO meta description goes here.
 author: [Jen Blacow]
 authorImage: [jen]
 description: The Autistic Community can be a useful resource for employers and employees with autism, but it can be confused with expert autism training.

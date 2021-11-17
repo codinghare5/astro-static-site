@@ -3,7 +3,10 @@ layout: ../../layouts/BlogPost.astro
 title: How Simple Misunderstandings can cause Major Problems
 tag: movie
 date: Nov 27, 2020, 12:41 PM
-image: /social.jpg
+image: /blog/social.jpg
+thumbnail: /blog/thumbnails/Adjustments.jpg
+metaTitle: SEO Meta Title Goes Here
+metaDescription: SEO meta description goes here.
 author: [Jen Blacow]
 authorImage: [jen]
 description: Simple misunderstandings can cause major problems between autistic people and their employers. But it is often easily fixable. This blog post covers some of the sometimes peculiar ways in which this can happen.

@@ -3,7 +3,10 @@ layout: ../../layouts/BlogPost.astro
 title: Autism friendly management style – servant leadership?
 tag: movie
 date: Oct 22, 2021, 6:06 PM
-image: /social.jpg
+image: /blog/social.jpg
+thumbnail: /blog/thumbnails/Adjustments.jpg
+metaTitle: SEO Meta Title Goes Here
+metaDescription: SEO meta description goes here.
 author: [Jen Blacow]
 authorImage: [jen]
 description: The blog post attempts to answer the question - how can we make workplaces more autism and neurodiversity friendly, without interfering with the needs of most of the population…? Servant leadership as a management style could be an option to enable an autism friendly working environment.

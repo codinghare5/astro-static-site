@@ -3,7 +3,10 @@ layout: ../../layouts/BlogPost.astro
 title: LinkedIn Disaster
 tag: movie
 date: Jun 3, 2020, 2:37 PM
-image: /social.jpg
+image: /blog/social.jpg
+thumbnail: /blog/thumbnails/Adjustments.jpg
+metaTitle: SEO Meta Title Goes Here
+metaDescription: SEO meta description goes here.
 author: [Jen Blacow]
 authorImage: [jen]
 description: I tried to teach my autistic boss how to use LinkedIn - it was disaster. A blog highlighting how some autistic people struggle with emotional connection via electronic media. 

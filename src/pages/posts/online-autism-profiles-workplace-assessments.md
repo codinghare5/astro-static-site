@@ -3,7 +3,10 @@ layout: ../../layouts/BlogPost.astro
 title: Online Autism Profiles and Workplace Assessments?
 tag: movie
 date: Nov 6, 2020, 5:17 PM
-image: /social.jpg
+image: /blog/social.jpg
+thumbnail: /blog/thumbnails/Adjustments.jpg
+metaTitle: SEO Meta Title Goes Here
+metaDescription: SEO meta description goes here.
 author: [Jen Blacow]
 authorImage: [jen]
 description: This blog post explores the pros and cons of online Autism Profiles and Workplace Assessments. There are benefits and disadvantages to doing an online Autism Profile or Workplace Assessment. 

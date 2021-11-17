@@ -3,7 +3,10 @@ layout: ../../layouts/BlogPost.astro
 title: Autistic Employees - Not accepting authority?
 tag: movie
 date: Apr 21, 2021, 3:29 PM
-image: /social.jpg
+image: /blog/social.jpg
+thumbnail: /blog/thumbnails/Adjustments.jpg
+metaTitle: SEO Meta Title Goes Here
+metaDescription: SEO meta description goes here.
 author: [Jen Blacow]
 authorImage: [jen]
 description: Some employers feel they have an autistic employee who struggles to accept authority. This got us thinking about why an employer might get this impression of an autistic employee. This blog post explores what might be going on, and how to deal with it.

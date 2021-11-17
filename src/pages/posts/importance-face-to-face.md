@@ -3,7 +3,10 @@ layout: ../../layouts/BlogPost.astro
 title: The Importance of Meeting Face to Face
 tag: movie
 date: Jun 10, 2020, 3:49 PM
-image: /social.jpg
+image: /blog/social.jpg
+thumbnail: /blog/thumbnails/Adjustments.jpg
+metaTitle: SEO Meta Title Goes Here
+metaDescription: SEO meta description goes here.
 author: [Jen Blacow]
 authorImage: [jen]
 description: It is important to meet face to face in order to build relationship. Meeting face to face involves exchanging information in a way that is impossible via online media.
