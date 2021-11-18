@@ -1,6 +1,7 @@
 ---
 import Segment from '../components/Segment.astro'
 import Benefits from '../components/Benefits.astro'
+import Faq from '../components/Faq.astro'
 import SampleProfile from '../components/SampleProfile.astro'
 import FullProfileRedir from '../components/FullProfileRedir.astro'
 
@@ -21,4 +22,5 @@ const herobackgroundCSS = `background-color: var(--segment-${segmentColor}-400)`
     <slot />
 </Benefits>
 <SampleProfile sampleProfileHeading={sampleProfileHeading} segmentColor={segmentColor}/>
+<Faq/>
 <FullProfileRedir/>

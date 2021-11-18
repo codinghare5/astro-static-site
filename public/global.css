@@ -43,4 +43,5 @@
 	--accent-gold-400: #C1A51A;
 	--accent-gold-500: #695700;
 	
+    --picture-faces: url('/faces.png');
 }
