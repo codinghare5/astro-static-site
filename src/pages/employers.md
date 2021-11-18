@@ -10,6 +10,7 @@ benefitsHeading: Benefits of Autism Profile
 sampleProfileHeading: Want to try a sample neurodiversity profile?
 segmentColor: purple
 segment: employers
+picture: profiles.png
 ---
 
 Intro text content (list of benefits and bullet points can go here) - 
