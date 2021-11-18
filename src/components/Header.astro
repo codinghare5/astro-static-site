@@ -3,23 +3,11 @@
 	font-family: 'Alice', sans-serif;
     line-height: inherit;
 }
-.company-header {
-    flex-direction: column;
-}
-.title-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-block: 0.75rem;
-    // border-top: 1px solid var(--accent-gold-400);
-}
 .title {
-    display: flex;
 	font-size: 0.75rem;
 	line-height: 1rem;
 	letter-spacing: 0.05em;
 	word-spacing: 0.2em;
-    justify-content: center;
 }
 .links li a {
 	line-height: 1rem;
@@ -144,21 +132,6 @@
     }
 }
 
-@media only screen and (max-width: 800px) {
-    .logo-company {
-        flex-direction: column;
-    }
-    .title {
-        max-width: 100%;
-    }
-}
-
-@media only screen and (max-width: 660px) {
-    .title {
-        flex-direction: column;
-    }
-}
-
 :global(.original-purple) {
     color: var(--accent-gold-200);
     // background-color: var(--segment-purple-500);
@@ -175,15 +148,22 @@
 <header class="original-purple py-4 rounded-md">
 	<article>
 		<a href="/">
-			<section class="company-header flex items-center">
-				<div class="logo-company flex items-center mx-3">
-					<img class="mr-3" src="/assets/logo/Aspiedent.png" width="161.8px" height="161.8px"/>
-					<span class="company md:text-8xl text-6xl">Aspiedent</span>
+        <div class="flex justify-center">
+			<section class="company-header grid md:grid-cols-4 mobile:grid-cols-1 mobile:place-items-center">
+				<div class="col-span-1 col-start-1 col-end-2 md:row-start-1 md:row-end-3 mobile:row-start-1 mobile:row-end-2">
+					<img class="" src="/assets/logo/Aspiedent.png" width="161.8px" height="161.8px"/>
 				</div>
-				<div class="title-container title uppercase">
-                    <span>Autism, Aspergers and Neurodiversity</span>&nbsp;<span>Training and Consulting</span>
+                <div class="md:col-start-2 md:col-end-5 mobile:col-start-1 mobile:col-end-2 md:row-start-1 md:row-end-2 mobile:row-start-2 mobile:row-end-3">
+					<span class="company md:text-8xl text-6xl">Aspiedent</span>
+                </div>
+				<div class="flex md:justify-start md:content-start 
+                                mobile:justify-center mobile:items-center mobile:flex-col 
+                                title uppercase md:col-start-2 md:col-end-5
+                                sm:flex-row">
+                    <span>Autism, Aspergers and Neurodiversity</span><span class="sm:ml-2">Training and Consulting</span>
 				</div>
 			</section>
+        </div>
 		</a>
 	</article>
 </header>
