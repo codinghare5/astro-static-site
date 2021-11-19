@@ -8,9 +8,11 @@ export interface Props {
 	date: string;
 	image: string;
 	alt: string;
+    segmentColor: string;
 }
-
-const { title, author, authorImage, date, image, alt } = Astro.props;
+const { content } = Astro.props;
+const { title, author, authorImage, date, image, alt, segmentColor } = Astro.props;
+const segmentBgStyle = `background-color: var(--segment-${segmentColor}-100);`
 ---
 <style>
 header {
@@ -23,6 +25,7 @@ header {
 article div header img.hero-image {
 	width: 100%;
 	height: auto;
+    border-radius: 0.375rem;
 }
 .authors-container {
 	position: relative;
@@ -32,9 +35,9 @@ article div header img.hero-image {
     display: flex;
     justify-content: center;
 }
-main {
+/* main {
     background-color: var(--segment-purple-100);
-}
+} */
 .publish-date {
     font-family: 'Ubuntu mono';
     font-size: small;
@@ -54,7 +57,7 @@ main {
 					<p class="publish-date">{date}</p>
 				</div>
 			</header>
-			<main class="flex justify-center">
+			<main class="tilted flex justify-center" style={segmentBgStyle}>
 				<slot />
 			</main>
 		</div>

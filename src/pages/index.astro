@@ -11,9 +11,9 @@ let description = 'Diagnosed with autism, changing career, parent looking for he
 let permalink = 'https://aspiedent.com/';
 
 const { heading = 'Welcome to Aspiedent', herotitle = 'Autism & Neurodiversity Profiling' } = Astro.props;
-const benefits = [`Intro text content (list of benefits and bullet points can go here) - 
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            Delectus amet asperiores exercitationem tenetur nostrum totam unde enim, accusantium voluptas aperiam.`]
+const welcomeMessage = `Our support, training and Neurodiversity Profiling service has 
+                        helped people to understand themselves better, cope with transitions, 
+                        find opportunities, develop themselves and derive maximum benefit through understanding.`
 const heroSubtitle = 'Enhancing lives through Neurodiversity Profiling, Training & Consultancy'
 ---
 <Default title={title} description={description} permalink={permalink}>
@@ -21,7 +21,7 @@ const heroSubtitle = 'Enhancing lives through Neurodiversity Profiling, Training
         {heroSubtitle}
     </Hero>
     <Benefits heading={heading} picture={'faces.png'}>
-        {benefits}
+        {welcomeMessage}
     </Benefits>
     <Streams/>
     <Contact/>

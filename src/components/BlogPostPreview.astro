@@ -4,7 +4,7 @@ export interface Props {
 }
 
 const { post } = Astro.props;
-const postClass = `${post.segment} post-preview`
+const postClass = `${post.segments} post-preview`
 ---
 <style>
 .content :global(main > * + *) {

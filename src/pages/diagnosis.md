@@ -12,7 +12,8 @@ segmentColor: blue
 segment: diagnosis
 picture: profiles.png
 ---
-
-Intro text content (list of benefits and bullet points can go here) - 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-Delectus amet asperiores exercitationem tenetur nostrum totam unde enim, accusantium voluptas aperiam.
+Our neurodiversity profiling and support has helped neurodiverse individuals pre/post diagnosis to:
+- discover what underpins symptoms and reduce negative impact
+- develop useful strategies to move forward
+- be happier less anxious
+- understand other people
