@@ -10,7 +10,7 @@ metaDescription: SEO meta description goes here.
 author: [Jen Blacow]
 authorImage: [jen]
 description: What are the important differences between Occupational Health Assessments and Autism Workplace Assessments? How do you know which company to choose to undertake an Autism Workplace Assessment? Here is some guidance.
-segments: [diagnosis, careers, education, employers]
+segments: [education, employers, diagnosis, careers]
 ---
 Recently, a high-performing autistic employee contacted me in desperate
 need of workplace support that catered specifically for her autism.

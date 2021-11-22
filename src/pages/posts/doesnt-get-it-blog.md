@@ -10,7 +10,7 @@ metaDescription: SEO meta description goes here.
 author: [Jen Blacow]
 authorImage: [jen]
 description: Autistic people can be extremely valuable employees. However, due to lack of understanding on both sides, autism at work can cause disruption. This blog post provides examples of disruption due to autism in the workplace and some simple solutions.
-segments: [diagnosis, careers, education, employers]
+segments: [education, employers, diagnosis, careers]
 ---
 **Thumbnail image:** DoesNotGetIt
 

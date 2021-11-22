@@ -10,7 +10,7 @@ metaDescription: SEO meta description goes here.
 author: [Jen Blacow]
 authorImage: [jen]
 description: The Autistic Community can be a useful resource for employers and employees with autism, but it can be confused with expert autism training.
-segments: [diagnosis, careers, education, employers]
+segments: [education, employers, diagnosis, careers]
 ---
 **RESOURCES FOR EMPLOYERS AND EMPLOYEES: The Autistic Community**
 

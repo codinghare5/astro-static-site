@@ -10,7 +10,7 @@ metaDescription: SEO meta description goes here.
 author: [Jen Blacow]
 authorImage: [jen]
 description: It is important to meet face to face in order to build relationship. Meeting face to face involves exchanging information in a way that is impossible via online media.
-segments: [diagnosis, careers, education, employers]
+segments: [education, employers, diagnosis, careers]
 ---
 **The Importance of Meeting Face to Face**
 

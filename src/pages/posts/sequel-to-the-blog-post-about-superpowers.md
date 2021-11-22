@@ -10,7 +10,7 @@ metaDescription: SEO meta description goes here.
 author: [Jen Blacow]
 authorImage: [jen]
 description: This blog post ponders the future and potential ways how to have a successful business while cultivating nurturing, honest, and open-minded practice. This would quality training about hidden diversity, such as neurodiversity. A good step towards opening up the labour market to autistic people, is more acceptance of different ways of thinking, and different ways at looking at things (even if it is not politically correct) and the benefits this may bring.
-segments: [diagnosis, careers, education, employers]
+segments: [education, employers, diagnosis, careers]
 ---
 **Thumbnail image:** Hidden Diversity
 

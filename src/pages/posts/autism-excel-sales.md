@@ -10,7 +10,7 @@ metaDescription: SEO meta description goes here.
 author: [Jen Blacow]
 authorImage: [jen]
 description: Contrary to popular belief, some autistic people can be excellent at selling. This blog explores the how and why around this. 
-segments: [diagnosis, careers, education, employers]
+segments: [education, employers, diagnosis, careers]
 ---
 ## **Autistic Salespeople - Why some autistic people can make businesses lots of money?**
 

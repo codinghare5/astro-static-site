@@ -10,7 +10,7 @@ metaDescription: SEO meta description goes here.
 author: [Jen Blacow]
 authorImage: [jen]
 description: This blog post is for good leaders who are passionate about neurodiversity inclusion in the workplace and need a bit of guidance as to where to start. It includes encouragement and some (hopefully) helpful & wise words regarding some of the issues you may face pulling off neurodiversity workplace inclusion.
-segments: [diagnosis, careers, education, employers]
+segments: [education, employers, diagnosis, careers]
 ---
 **Thumbnail image:** WhereDoIStartNeurodiversityInitiatives
 

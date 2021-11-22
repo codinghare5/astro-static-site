@@ -10,7 +10,7 @@ metaDescription: SEO meta description goes here.
 author: [Jen Blacow]
 authorImage: [jen]
 description: What is the difference between autism and aspergers, is a common question. It can cause all sorts of confusion. This article aims to make the difference easy to understand, while also highlighting the complexities of the answer.
-segments: [diagnosis, careers, education, employers]
+segments: [education, employers, diagnosis, careers]
 ---
 We often get asked what is the difference between autism and asperger
 syndrome. Unfortunately this is not an easy question to answer,

@@ -10,7 +10,7 @@ metaDescription: SEO meta description goes here.
 author: [Jen Blacow]
 authorImage: [jen]
 description: This blog talks candidly about how surrounding yourself with a network of ‘overcomers’, rather than ‘victims’, is better for individuals and businesses alike.
-segments: [diagnosis, careers, education, employers]
+segments: [education, employers, diagnosis, careers]
 ---
 Recently, I read a post by a friend, [Pamela
 Hopkinson](linkedin.com/in/pamelahopkinson), in which she stated her

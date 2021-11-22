@@ -10,7 +10,7 @@ metaDescription: SEO meta description goes here.
 author: [Jen Blacow]
 authorImage: [jen]
 description: Some employers feel they have an autistic employee who struggles to accept authority. This got us thinking about why an employer might get this impression of an autistic employee. This blog post explores what might be going on, and how to deal with it.
-segments: [diagnosis, careers, education, employers]
+segments: [education, employers, diagnosis, careers]
 ---
 **Thumbnail image:** KnowsItAll
 

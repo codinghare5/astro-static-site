@@ -10,7 +10,7 @@ metaDescription: SEO meta description goes here.
 author: [Jen Blacow]
 authorImage: [jen]
 description: I tried to teach my autistic boss how to use LinkedIn - it was disaster. A blog highlighting how some autistic people struggle with emotional connection via electronic media. 
-segments: [diagnosis, careers, education, employers]
+segments: [education, employers, diagnosis, careers]
 ---
 **I tried to teach my autistic boss how to use LinkedIn: it was disaster.**
 

@@ -10,7 +10,7 @@ metaDescription: SEO meta description goes here.
 author: [Jen Blacow]
 authorImage: [jen]
 description: Autism and lockdown - A brief description about how the situation is affecting the employment situation for autistic adults. Perhaps employers could take this as an opportunity to consider how they could recruit from a wider range of talent.
-segments: [diagnosis, careers, education, employers]
+segments: [education, employers, diagnosis, careers]
 ---
 We have been under restrictions because of COVID19, for nearly 7 months
 now and there is no sign that these restrictions will end, despite COVID

@@ -10,7 +10,7 @@ metaDescription: SEO meta description goes here.
 author: [Jen Blacow]
 authorImage: [jen]
 description: Autism spectrum condition (ASD) is commonly referred to as being mild autism or severe autism. Actually, autism is not linear and the amount of support needed is not necessarily an indication of the severity of the autism. Autism is an umbrella term that includes many different kinds of difficulties.
-segments: [diagnosis, careers, education, employers]
+segments: [education, employers, diagnosis, careers]
 ---
 **Thumbnail image:** WhatIsSevereAutism
 

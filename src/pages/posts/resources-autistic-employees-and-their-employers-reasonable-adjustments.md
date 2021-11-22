@@ -10,7 +10,7 @@ metaDescription: SEO meta description goes here.
 author: [Jen Blacow]
 authorImage: [jen]
 description: There are written resources for employers who manage somebody with autism. Here we explore reasonable adjustments at work and explain some common misunderstandings.
-segments: [diagnosis, careers, education, employers]
+segments: [education, employers, diagnosis, careers]
 ---
 Sitting down to write this, I was going to start with the sentence.
 

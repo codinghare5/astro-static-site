@@ -10,7 +10,7 @@ metaDescription: SEO meta description goes here.
 author: [Jen Blacow]
 authorImage: [jen]
 description: What is Autism? This is a question that is asked a lot and it is a perfectly good question. But actually, Autism is just not something that can be defined easily. Autism is an umbrella term for a whole range of different underlying difficulties, unified by a set of common symptoms.
-segments: [diagnosis, careers, education, employers]
+segments: [education, employers, diagnosis, careers]
 ---
 Autism is an umbrella term for a myriad of different underlying
 difficulties unified by a set of common symptoms. The symptoms primarily

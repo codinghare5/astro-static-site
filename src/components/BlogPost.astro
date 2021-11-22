@@ -12,7 +12,10 @@ export interface Props {
 }
 const { content } = Astro.props;
 const { title, author, authorImage, date, image, alt, segmentColor } = Astro.props;
-const segmentBgStyle = `background-color: var(--segment-${segmentColor}-100);`
+const segmentToColor = {'diagnosis' : 'blue', 'careers' : 'green', 'education': 'red', 'employers' : 'purple'}
+const segmentBgStyle = segmentColor.length && segmentColor.length > 1
+                        ? `background-image: linear-gradient(to bottom, ${segmentColor.map((segment, index) => `var(--segment-${segmentToColor[segment]}-100)`)});` 
+                        : `background-color: var(--segment-${segmentToColor[segmentColor]}-100)`;
 ---
 <style>
 header {

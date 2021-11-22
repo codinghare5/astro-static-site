@@ -10,7 +10,7 @@ metaDescription: SEO meta description goes here.
 author: [Jen Blacow]
 authorImage: [jen]
 description: We discuss how interviews disadvantage some otherwise brilliant workers including autistic ones. It highlights there are more logical and effective ways to ensure the right person is recruited for a role.
-segments: [diagnosis, careers, education, employers]
+segments: [education, employers, diagnosis, careers]
 ---
 **Is an interview really the best way to recruit a candidate for a job?**
 

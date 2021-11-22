@@ -10,7 +10,7 @@ metaDescription: SEO meta description goes here.
 author: [Jen Blacow]
 authorImage: [jen]
 description: This blog post highlights how easily it can be to misunderstand an autistic colleagues’ actions, behaviours, and motives. It can be far more useful and less unpleasant to investigate the underlying reasons for employee behaviour, before jumping to certain conclusions about their intentions!
-segments: [diagnosis, careers, education, employers]
+segments: [education, employers, diagnosis, careers]
 ---
 **Thumbnail image:** DoesHeCare
 

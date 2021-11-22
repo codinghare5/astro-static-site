@@ -10,7 +10,7 @@ metaDescription: SEO meta description goes here.
 author: [Jen Blacow]
 authorImage: [jen]
 description: Is humility (including open-mindedness) an undervalued quality or skill that might be key to the success of company diversity and inclusion initiatives? Can you teach and learn Diversity?
-segments: [diagnosis, careers, education, employers]
+segments: [education, employers, diagnosis, careers]
 ---
 Learning diversity
 ==================

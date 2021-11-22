@@ -10,7 +10,7 @@ metaDescription: SEO meta description goes here.
 author: [Jen Blacow]
 authorImage: [jen]
 description: This post explores ways in which social distancing due to the Covid-19 pandemic might help autistic people, but hinder non-autistic people.
-segments: [diagnosis, careers, education, employers]
+segments: [education, employers, diagnosis, careers]
 ---
 **Changes in the workplace due to COVID and autism. Title could be better.**
 

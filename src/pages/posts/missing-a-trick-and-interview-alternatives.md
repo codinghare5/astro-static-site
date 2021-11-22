@@ -10,7 +10,7 @@ metaDescription: SEO meta description goes here.
 author: [Jen Blacow]
 authorImage: [jen]
 description: Are you missing a trick in your search for valuable employees? With the right understanding in place, employing people with autism could be a brilliant move for your small business.
-segments: [diagnosis, careers, education, employers]
+segments: [education, employers, diagnosis, careers]
 ---
 **Autism and Small Businesses -- notes**
 

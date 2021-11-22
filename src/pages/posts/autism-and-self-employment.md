@@ -10,7 +10,7 @@ metaDescription: SEO meta description goes here.
 author: [Jen Blacow]
 authorImage: [jen]
 description: A lot of people with autism feel they would or do struggle with self-employment. However, there are many ways that autism self employment could work. Arguably the most important thing for successful business people is self motivation, skill, and an excellent support network.
-segments: [diagnosis, careers, education, employers]
+segments: [education, employers, diagnosis, careers]
 ---
 **Autism and Self-employment **
 

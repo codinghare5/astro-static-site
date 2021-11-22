@@ -10,7 +10,7 @@ metaDescription: SEO meta description goes here.
 author: [Jen Blacow]
 authorImage: [jen]
 description: The blog post attempts to answer the question - how can we make workplaces more autism and neurodiversity friendly, without interfering with the needs of most of the population…? Servant leadership as a management style could be an option to enable an autism friendly working environment.
-segments: [diagnosis, careers, education, employers]
+segments: [education, employers, diagnosis, careers]
 ---
 I think you need to reorganise this and change some of the wording.
 Switch the last and first sections around.

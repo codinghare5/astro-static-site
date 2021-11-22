@@ -10,7 +10,7 @@ metaDescription: SEO meta description goes here.
 author: [Jen Blacow]
 authorImage: [jen]
 description: Routine, planning & organisation is important to successfully run a business or being self-employed. We developed some very unique ways of keeping and managing To-do ‘lists’. Here is a blog to share our systems. I hope they help you manage business and stay organised!
-segments: [diagnosis, careers, education, employers]
+segments: [education, employers, diagnosis, careers]
 ---
 **Thumbnail image:** AutismSelfEmployment2
 

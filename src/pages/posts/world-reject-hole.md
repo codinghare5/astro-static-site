@@ -10,7 +10,7 @@ metaDescription: SEO meta description goes here.
 author: [Jen Blacow]
 authorImage: [jen]
 description: This article explores one of the traps that autistic people can fall into - The World Reject Hole. Autism and lockdown has both helped and hindered autistic people. Lockdown has made more autistic people prone to falling into the world reject hole where they feel that the world has rejected them.
-segments: [diagnosis, careers, education, employers]
+segments: [education, employers, diagnosis, careers]
 ---
 **The World Reject Hole**
 

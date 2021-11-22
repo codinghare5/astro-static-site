@@ -10,7 +10,7 @@ metaDescription: SEO meta description goes here.
 author: [Jen Blacow]
 authorImage: [jen]
 description: Sensory issues could be affecting you, even if you’re not autistic. Autism sensory issues are quite well-known as an autism issue. However, sensory issues are not just found in autism. If sensory issues are considered when designing accessible workplace environments for or your team, you may get more work done.
-segments: [diagnosis, careers, education, employers]
+segments: [education, employers, diagnosis, careers]
 ---
 **Thumbnail image: **MonopolySensoryIssues
 

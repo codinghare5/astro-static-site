@@ -10,7 +10,7 @@ metaDescription: SEO meta description goes here.
 author: [Jen Blacow]
 authorImage: [jen]
 description: This blog post highlights the positive impact that an Aspiedent Autism Profile can have on individuals and workplaces alike, by getting underneath the autism symptoms.
-segments: [diagnosis, careers, education, employers]
+segments: [education, employers, diagnosis, careers]
 ---
 **The impact of an autism profile**
 

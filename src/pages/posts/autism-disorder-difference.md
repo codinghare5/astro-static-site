@@ -10,7 +10,7 @@ metaDescription: SEO meta description goes here.
 author: [Jen Blacow]
 authorImage: [jen]
 description: The answer to whether autism is disorder or a difference; a superpower, or a disability, is not straightforward. For some people it is clearly a disorder, for some a difference and for some, it is both.
-segments: [diagnosis, careers, education, employers]
+segments: [education, employers, diagnosis, careers]
 ---
 **Is Autism a Disorder or a Difference? Superpower or Disability?**
 
