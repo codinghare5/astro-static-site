@@ -1,15 +1,16 @@
 ---
 layout: ../../layouts/BlogPost.astro
 title: Are Autistic people good at IT?
-tag: movie
+tags: ['autism', 'neurodiversity', 'profile']
 date: Sep 30, 2020, 7:06 PM
-image: /blog/social.jpg
-thumbnail: /blog/thumbnails/Adjustments.jpg
+image: /assets/blog/Adjustments.jpg
+thumbnail: /assets/blog/thumbnails/Adjustments.jpg
 metaTitle: SEO Meta Title Goes Here
 metaDescription: SEO meta description goes here.
 author: [Jen Blacow]
 authorImage: [jen]
 description: Are autistic people naturally good at IT? Here is a non-stereotypical discussion of the subject.
+segments: [diagnosis, careers, education, employers]
 ---
 Autistic people are good at IT? Really?
 

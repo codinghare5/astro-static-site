@@ -1,15 +1,16 @@
 ---
 layout: ../../layouts/BlogPost.astro
 title: The World Reject Hole
-tag: movie
+tags: ['autism', 'neurodiversity', 'profile']
 date: Oct 7, 2020, 7:57 PM
-image: /blog/social.jpg
-thumbnail: /blog/thumbnails/Adjustments.jpg
+image: /assets/blog/Adjustments.jpg
+thumbnail: /assets/blog/thumbnails/Adjustments.jpg
 metaTitle: SEO Meta Title Goes Here
 metaDescription: SEO meta description goes here.
 author: [Jen Blacow]
 authorImage: [jen]
 description: This article explores one of the traps that autistic people can fall into - The World Reject Hole. Autism and lockdown has both helped and hindered autistic people. Lockdown has made more autistic people prone to falling into the world reject hole where they feel that the world has rejected them.
+segments: [diagnosis, careers, education, employers]
 ---
 **The World Reject Hole**
 

@@ -1,15 +1,16 @@
 ---
 layout: ../../layouts/BlogPost.astro
 title: Does my employee even care?
-tag: movie
+tags: ['autism', 'neurodiversity', 'profile']
 date: Dec 3, 2020, 1:01 PM
-image: /blog/social.jpg
-thumbnail: /blog/thumbnails/Adjustments.jpg
+image: /assets/blog/Adjustments.jpg
+thumbnail: /assets/blog/thumbnails/Adjustments.jpg
 metaTitle: SEO Meta Title Goes Here
 metaDescription: SEO meta description goes here.
 author: [Jen Blacow]
 authorImage: [jen]
 description: This blog post highlights how easily it can be to misunderstand an autistic colleagues’ actions, behaviours, and motives. It can be far more useful and less unpleasant to investigate the underlying reasons for employee behaviour, before jumping to certain conclusions about their intentions!
+segments: [diagnosis, careers, education, employers]
 ---
 **Thumbnail image:** DoesHeCare
 

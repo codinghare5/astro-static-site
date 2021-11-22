@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/BlogPost.astro
 title: How to do better in business by understanding (autistic) traits
-tag: movie
+tags: ['autism', 'neurodiversity', 'profile']
 date: New, 2021-11-08
 image: /assets/blog/Adjustments.jpg
 thumbnail: /assets/blog/thumbnails/Adjustments.jpg
@@ -10,8 +10,7 @@ metaDescription: SEO meta description goes here.
 author: [Jen Blacow, Elizabeth Guest]
 authorImage: [jen, elizabeth]
 description: Learning how to deal with people successfully, requires an understanding of human beings, human variation and how people tick.
-segments: [diagnosis]
-segmentColor: blue
+segments: [diagnosis, careers, education, employers]
 ---
 **How to do better in business by understanding (autistic) traits**
 

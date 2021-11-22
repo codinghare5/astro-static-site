@@ -1,15 +1,16 @@
 ---
 layout: ../../layouts/BlogPost.astro
 title: Online Autism Profiles and Workplace Assessments?
-tag: movie
+tags: ['autism', 'neurodiversity', 'profile']
 date: Nov 6, 2020, 5:17 PM
-image: /blog/social.jpg
-thumbnail: /blog/thumbnails/Adjustments.jpg
+image: /assets/blog/Adjustments.jpg
+thumbnail: /assets/blog/thumbnails/Adjustments.jpg
 metaTitle: SEO Meta Title Goes Here
 metaDescription: SEO meta description goes here.
 author: [Jen Blacow]
 authorImage: [jen]
 description: This blog post explores the pros and cons of online Autism Profiles and Workplace Assessments. There are benefits and disadvantages to doing an online Autism Profile or Workplace Assessment. 
+segments: [diagnosis, careers, education, employers]
 ---
 We have recently been prompted to think more about how Aspiedent’s services have had to adapt to the current restrictions placed upon our working lives.
 

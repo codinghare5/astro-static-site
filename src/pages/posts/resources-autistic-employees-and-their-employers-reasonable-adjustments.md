@@ -1,15 +1,16 @@
 ---
 layout: ../../layouts/BlogPost.astro
 title: Resources for Autistic Employees and their employers - Reasonable Adjustments.
-tag: movie
+tags: ['autism', 'neurodiversity', 'profile']
 date: Aug 14, 2020, 2:57 PM
-image: /blog/social.jpg
-thumbnail: /blog/thumbnails/Adjustments.jpg
+image: /assets/blog/Adjustments.jpg
+thumbnail: /assets/blog/thumbnails/Adjustments.jpg
 metaTitle: SEO Meta Title Goes Here
 metaDescription: SEO meta description goes here.
 author: [Jen Blacow]
 authorImage: [jen]
 description: There are written resources for employers who manage somebody with autism. Here we explore reasonable adjustments at work and explain some common misunderstandings.
+segments: [diagnosis, careers, education, employers]
 ---
 Sitting down to write this, I was going to start with the sentence.
 

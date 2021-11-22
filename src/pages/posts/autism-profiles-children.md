@@ -1,15 +1,16 @@
 ---
 layout: ../../layouts/BlogPost.astro
 title: Autism Profiles for Children
-tag: movie
+tags: ['autism', 'neurodiversity', 'profile']
 date: Jul 30, 2021, 4:12 PM
-image: /blog/social.jpg
-thumbnail: /blog/thumbnails/Adjustments.jpg
+image: /assets/blog/Adjustments.jpg
+thumbnail: /assets/blog/thumbnails/Adjustments.jpg
 metaTitle: SEO Meta Title Goes Here
 metaDescription: SEO meta description goes here.
 author: [Jen Blacow]
 authorImage: [jen]
 description: Post diagnostic support for children with autism is well-known to be difficult to obtain. Not only that, but it is not always at all helpful. Aspiedent have a solution - Autism profiling. There are many underlying reasons why a child may struggle with any one autism symptom. This blog post discusses helping autistic children by figuring out and targeting their underlying autism issues. These underlying issues cause their autism symptoms, so doing it this way means that the child can become best equipped to reach their potential.
+segments: [diagnosis, careers, education, employers]
 ---
 **Thumbnail image: **
 

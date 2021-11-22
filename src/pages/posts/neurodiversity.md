@@ -1,15 +1,16 @@
 ---
 layout: ../../layouts/BlogPost.astro
 title: Neurodiversity in the workplace
-tag: movie
+tags: ['autism', 'neurodiversity', 'profile']
 date: Jul 23, 2021, 3:11 PM
-image: /blog/social.jpg
-thumbnail: /blog/thumbnails/Adjustments.jpg
+image: /assets/blog/Adjustments.jpg
+thumbnail: /assets/blog/thumbnails/Adjustments.jpg
 metaTitle: SEO Meta Title Goes Here
 metaDescription: SEO meta description goes here.
 author: [Jen Blacow]
 authorImage: [jen]
 description: Keeping the conversation and neurodiversity in the workplace as realistic as possible is important. Not everyone with autism and neurodiversity will suddenly bring innovation, superpowers, or an unstoppable work ethic into a company. Whilst there are certainly benefits to have a neurodiverse workforce, in order for it to be successful we need to take of our rose-tinted glasses or we risk setting false expectations of people and excluding the very people we are trying to include.
+segments: [diagnosis, careers, education, employers]
 ---
 **Thumbnail image:** NeurodiversityWorkplace
 

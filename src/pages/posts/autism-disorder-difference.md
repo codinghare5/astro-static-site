@@ -1,15 +1,16 @@
 ---
 layout: ../../layouts/BlogPost.astro
 title: Is Autism a Disorder or a Difference?
-tag: movie
+tags: ['autism', 'neurodiversity', 'profile']
 date: Jul 2, 2020, 2:40 PM
-image: /blog/social.jpg
-thumbnail: /blog/thumbnails/Adjustments.jpg
+image: /assets/blog/Adjustments.jpg
+thumbnail: /assets/blog/thumbnails/Adjustments.jpg
 metaTitle: SEO Meta Title Goes Here
 metaDescription: SEO meta description goes here.
 author: [Jen Blacow]
 authorImage: [jen]
 description: The answer to whether autism is disorder or a difference; a superpower, or a disability, is not straightforward. For some people it is clearly a disorder, for some a difference and for some, it is both.
+segments: [diagnosis, careers, education, employers]
 ---
 **Is Autism a Disorder or a Difference? Superpower or Disability?**
 

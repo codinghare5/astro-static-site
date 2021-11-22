@@ -1,15 +1,16 @@
 ---
 layout: ../../layouts/BlogPost.astro
 title: Autism, Change and Covid-19
-tag: movie
+tags: ['autism', 'neurodiversity', 'profile']
 date: Jun 26, 2020, 2:19 PM
-image: /blog/social.jpg
-thumbnail: /blog/thumbnails/Adjustments.jpg
+image: /assets/blog/Adjustments.jpg
+thumbnail: /assets/blog/thumbnails/Adjustments.jpg
 metaTitle: SEO Meta Title Goes Here
 metaDescription: SEO meta description goes here.
 author: [Jen Blacow]
 authorImage: [jen]
 description: This post explores ways in which social distancing due to the Covid-19 pandemic might help autistic people, but hinder non-autistic people.
+segments: [diagnosis, careers, education, employers]
 ---
 **Changes in the workplace due to COVID and autism. Title could be better.**
 

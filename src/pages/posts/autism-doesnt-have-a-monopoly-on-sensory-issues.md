@@ -1,15 +1,16 @@
 ---
 layout: ../../layouts/BlogPost.astro
 title: Autism does not have a monopoly on Sensory Issues
-tag: movie
+tags: ['autism', 'neurodiversity', 'profile']
 date: Oct 29, 2021, 6:01 PM
-image: /blog/social.jpg
-thumbnail: /blog/thumbnails/Adjustments.jpg
+image: /assets/blog/Adjustments.jpg
+thumbnail: /assets/blog/thumbnails/Adjustments.jpg
 metaTitle: SEO Meta Title Goes Here
 metaDescription: SEO meta description goes here.
 author: [Jen Blacow]
 authorImage: [jen]
 description: Sensory issues could be affecting you, even if you’re not autistic. Autism sensory issues are quite well-known as an autism issue. However, sensory issues are not just found in autism. If sensory issues are considered when designing accessible workplace environments for or your team, you may get more work done.
+segments: [diagnosis, careers, education, employers]
 ---
 **Thumbnail image: **MonopolySensoryIssues
 

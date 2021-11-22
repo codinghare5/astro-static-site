@@ -1,15 +1,16 @@
 ---
 layout: ../../layouts/BlogPost.astro
 title: What is the difference between Autism and Aspergers?
-tag: autism
+tags: ['autism', 'neurodiversity', 'profile']
 date: Sep 11, 2020, 12:52 PM
-image: /blog/social.jpg
-thumbnail: /blog/thumbnails/Adjustments.jpg
+image: /assets/blog/Adjustments.jpg
+thumbnail: /assets/blog/thumbnails/Adjustments.jpg
 metaTitle: SEO Meta Title Goes Here
 metaDescription: SEO meta description goes here.
 author: [Jen Blacow]
 authorImage: [jen]
 description: What is the difference between autism and aspergers, is a common question. It can cause all sorts of confusion. This article aims to make the difference easy to understand, while also highlighting the complexities of the answer.
+segments: [diagnosis, careers, education, employers]
 ---
 We often get asked what is the difference between autism and asperger
 syndrome. Unfortunately this is not an easy question to answer,

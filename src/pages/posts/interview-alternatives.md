@@ -1,15 +1,16 @@
 ---
 layout: ../../layouts/BlogPost.astro
 title: Is an interview really the best way to recruit a candidate for a job?
-tag: movie
+tags: ['autism', 'neurodiversity', 'profile']
 date: Jul 16, 2020, 10:31 AM
-image: /blog/social.jpg
-thumbnail: /blog/thumbnails/Adjustments.jpg
+image: /assets/blog/Adjustments.jpg
+thumbnail: /assets/blog/thumbnails/Adjustments.jpg
 metaTitle: SEO Meta Title Goes Here
 metaDescription: SEO meta description goes here.
 author: [Jen Blacow]
 authorImage: [jen]
 description: We discuss how interviews disadvantage some otherwise brilliant workers including autistic ones. It highlights there are more logical and effective ways to ensure the right person is recruited for a role.
+segments: [diagnosis, careers, education, employers]
 ---
 **Is an interview really the best way to recruit a candidate for a job?**
 
