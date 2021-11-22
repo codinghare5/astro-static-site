@@ -6,6 +6,11 @@ import Footer from '../components/Footer.astro';
 const {title, description, permalink, segment} = Astro.props;
 const bodyClass = `${segment !== undefined ? segment : ''} max-w-screen-lg mx-auto`
 ---
+<style>
+.bg-color {
+    background-color: var(--accent-yellow-100);
+}
+</style>
 <html lang={ 'en' }>
 	<head>
 		<BaseHead title={title} description={description} permalink={permalink} />
@@ -19,9 +24,11 @@ const bodyClass = `${segment !== undefined ? segment : ''} max-w-screen-lg mx-au
 	</style>
 
 	<body class={bodyClass}>
-		<Header />
-			<slot />
-		<Footer/>
+        <div class="bg-color max-w-screen-lg">
+            <Header />
+                <slot />
+            <Footer/>
+        </div>
 	</body>
 </html>
 
