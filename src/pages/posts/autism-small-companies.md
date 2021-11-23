@@ -3,8 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: Autism in small companies
 tags: ['autism', 'neurodiversity', 'profile']
 date: Sep 18, 2020, 1:38 PM
-image: /assets/blog/Adjustments.jpg
-thumbnail: /assets/blog/thumbnails/Adjustments.jpg
+image: /assets/blog/AutismSmallCompanies.png
+thumbnail: /assets/blog/thumbnails/AutismSmallCompanies.jpg
 metaTitle: SEO Meta Title Goes Here
 metaDescription: SEO meta description goes here.
 author: [Jen Blacow]

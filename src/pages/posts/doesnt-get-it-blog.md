@@ -3,8 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: Autistic Employees - Why don't they get it?
 tags: ['autism', 'neurodiversity', 'profile']
 date: Apr 13, 2021, 2:17 PM
-image: /assets/blog/Adjustments.jpg
-thumbnail: /assets/blog/thumbnails/Adjustments.jpg
+image: /assets/blog/DoesNotGetIt.jpg
+thumbnail: /assets/blog/thumbnails/DoesNotGetIt.jpg
 metaTitle: SEO Meta Title Goes Here
 metaDescription: SEO meta description goes here.
 author: [Jen Blacow]

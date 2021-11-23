@@ -3,8 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: What is the difference between Autism and Aspergers?
 tags: ['autism', 'neurodiversity', 'profile']
 date: Sep 11, 2020, 12:52 PM
-image: /assets/blog/Adjustments.jpg
-thumbnail: /assets/blog/thumbnails/Adjustments.jpg
+image: /assets/blog/AutismVsAspergers.jpg
+thumbnail: /assets/blog/thumbnails/AutismVsAspergers.jpg
 metaTitle: SEO Meta Title Goes Here
 metaDescription: SEO meta description goes here.
 author: [Jen Blacow]

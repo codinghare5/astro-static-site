@@ -3,8 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: LinkedIn Disaster
 tags: ['autism', 'neurodiversity', 'profile']
 date: Jun 3, 2020, 2:37 PM
-image: /assets/blog/Adjustments.jpg
-thumbnail: /assets/blog/thumbnails/Adjustments.jpg
+image: /assets/blog/SocialMediaHelp.png
+thumbnail: /assets/blog/thumbnails/SocialMediaHelp.jpg
 metaTitle: SEO Meta Title Goes Here
 metaDescription: SEO meta description goes here.
 author: [Jen Blacow]

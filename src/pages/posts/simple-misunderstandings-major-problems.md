@@ -3,8 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: How Simple Misunderstandings can cause Major Problems
 tags: ['autism', 'neurodiversity', 'profile']
 date: Nov 27, 2020, 12:41 PM
-image: /assets/blog/Adjustments.jpg
-thumbnail: /assets/blog/thumbnails/Adjustments.jpg
+image: /assets/blog/MisunderstandingsProblems.jpg
+thumbnail: /assets/blog/thumbnails/MisunderstandingsProblems.jpg
 metaTitle: SEO Meta Title Goes Here
 metaDescription: SEO meta description goes here.
 author: [Jen Blacow]

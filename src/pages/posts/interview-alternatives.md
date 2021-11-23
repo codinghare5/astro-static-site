@@ -3,8 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: Is an interview really the best way to recruit a candidate for a job?
 tags: ['autism', 'neurodiversity', 'profile']
 date: Jul 16, 2020, 10:31 AM
-image: /assets/blog/Adjustments.jpg
-thumbnail: /assets/blog/thumbnails/Adjustments.jpg
+image: /assets/blog/InterviewAlternatives.jpg
+thumbnail: /assets/blog/thumbnails/InterviewAlternatives.jpg
 metaTitle: SEO Meta Title Goes Here
 metaDescription: SEO meta description goes here.
 author: [Jen Blacow]

@@ -3,8 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: Identity, Discrimination and Autism
 tags: ['autism', 'neurodiversity', 'profile']
 date: Jul 17, 2021, 7:51 AM
-image: /assets/blog/Adjustments.jpg
-thumbnail: /assets/blog/thumbnails/Adjustments.jpg
+image: /assets/blog/IdentityAutism.png
+thumbnail: /assets/blog/thumbnails/IdentityAutism.jpg
 metaTitle: SEO Meta Title Goes Here
 metaDescription: SEO meta description goes here.
 author: [Jen Blacow]

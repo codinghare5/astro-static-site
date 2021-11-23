@@ -3,8 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: How to do better in business by understanding (autistic) traits
 tags: ['autism', 'neurodiversity', 'profile']
 date: New, 2021-11-08
-image: /assets/blog/Adjustments.jpg
-thumbnail: /assets/blog/thumbnails/Adjustments.jpg
+image: /assets/blog/FaceToFaceMeetings.png
+thumbnail: /assets/blog/thumbnails/FaceToFaceMeetings.jpg
 metaTitle: SEO Meta Title Goes Here
 metaDescription: SEO meta description goes here.
 author: [Jen Blacow, Elizabeth Guest]

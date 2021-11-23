@@ -3,8 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: Resources for Autistic Employees and their Employers - Access to Work
 tags: ['autism', 'neurodiversity', 'profile']
 date: Jul 24, 2020, 1:03 PM
-image: /assets/blog/Adjustments.jpg
-thumbnail: /assets/blog/thumbnails/Adjustments.jpg
+image: /assets/blog/ATWBlog.jpg
+thumbnail: /assets/blog/thumbnails/ATWBlog.jpg
 metaTitle: SEO Meta Title Goes Here
 metaDescription: SEO meta description goes here.
 author: [Jen Blacow]

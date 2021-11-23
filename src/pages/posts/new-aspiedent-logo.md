@@ -3,8 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: At last! Introducing Aspiedent’s New Logo
 tags: ['autism', 'neurodiversity', 'profile']
 date: May 13, 2021, 8:58 PM
-image: /assets/blog/Adjustments.jpg
-thumbnail: /assets/blog/thumbnails/Adjustments.jpg
+image: /assets/blog/Aspiedent2021.png
+thumbnail: /assets/blog/thumbnails/Aspiedent2021.jpg
 metaTitle: SEO Meta Title Goes Here
 metaDescription: SEO meta description goes here.
 author: [Jen Blacow]

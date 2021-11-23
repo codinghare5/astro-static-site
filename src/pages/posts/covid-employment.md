@@ -3,8 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: Autism, COVID Restrictions and Employment
 tags: ['autism', 'neurodiversity', 'profile']
 date: Oct 16, 2020, 3:59 PM
-image: /assets/blog/Adjustments.jpg
-thumbnail: /assets/blog/thumbnails/Adjustments.jpg
+image: /assets/blog/CovidEmployment.jpg
+thumbnail: /assets/blog/thumbnails/CovidEmployment.jpg
 metaTitle: SEO Meta Title Goes Here
 metaDescription: SEO meta description goes here.
 author: [Jen Blacow]

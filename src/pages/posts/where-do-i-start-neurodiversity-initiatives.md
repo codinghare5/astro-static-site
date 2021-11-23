@@ -3,8 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: Company Neurodiversity Inclusion - Where to start?
 tags: ['autism', 'neurodiversity', 'profile']
 date: Jul 2, 2021, 11:45 AM
-image: /assets/blog/Adjustments.jpg
-thumbnail: /assets/blog/thumbnails/Adjustments.jpg
+image: /assets/blog/WhereDoIStartNeurodiversityInitiatives.jpg
+thumbnail: /assets/blog/thumbnails/WhereDoIStartNeurodiversityInitiatives.jpg
 metaTitle: SEO Meta Title Goes Here
 metaDescription: SEO meta description goes here.
 author: [Jen Blacow]

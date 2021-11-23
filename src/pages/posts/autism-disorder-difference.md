@@ -3,8 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: Is Autism a Disorder or a Difference?
 tags: ['autism', 'neurodiversity', 'profile']
 date: Jul 2, 2020, 2:40 PM
-image: /assets/blog/Adjustments.jpg
-thumbnail: /assets/blog/thumbnails/Adjustments.jpg
+image: /assets/blog/AutismDisorderDifference.jpg
+thumbnail: /assets/blog/thumbnails/AutismDisorderDifference.jpg
 metaTitle: SEO Meta Title Goes Here
 metaDescription: SEO meta description goes here.
 author: [Jen Blacow]

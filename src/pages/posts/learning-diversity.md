@@ -3,8 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: Can we get some more humility in the (class)room please?
 tags: ['autism', 'neurodiversity', 'profile']
 date: May 20, 2021, 12:08 PM
-image: /assets/blog/Adjustments.jpg
-thumbnail: /assets/blog/thumbnails/Adjustments.jpg
+image: /assets/blog/LeaningDiversity.jpg
+thumbnail: /assets/blog/thumbnails/LeaningDiversity.jpg
 metaTitle: SEO Meta Title Goes Here
 metaDescription: SEO meta description goes here.
 author: [Jen Blacow]

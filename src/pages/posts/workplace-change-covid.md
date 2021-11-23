@@ -3,8 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: Autism, Change and Covid-19
 tags: ['autism', 'neurodiversity', 'profile']
 date: Jun 26, 2020, 2:19 PM
-image: /assets/blog/Adjustments.jpg
-thumbnail: /assets/blog/thumbnails/Adjustments.jpg
+image: /assets/blog/CovidChangeAutism.jpg
+thumbnail: /assets/blog/thumbnails/CovidChangeAutism.jpg
 metaTitle: SEO Meta Title Goes Here
 metaDescription: SEO meta description goes here.
 author: [Jen Blacow]

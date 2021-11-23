@@ -3,8 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: Victims and Overcomers
 tags: ['autism', 'neurodiversity', 'profile']
 date: Jun 19, 2020, 4:06 PM
-image: /assets/blog/Adjustments.jpg
-thumbnail: /assets/blog/thumbnails/Adjustments.jpg
+image: /assets/blog/VictimOverComers.jpg
+thumbnail: /assets/blog/thumbnails/VictimOverComers.jpg
 metaTitle: SEO Meta Title Goes Here
 metaDescription: SEO meta description goes here.
 author: [Jen Blacow]

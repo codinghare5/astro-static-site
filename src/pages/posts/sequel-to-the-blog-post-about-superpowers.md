@@ -3,8 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: Hidden diversity in Business - A better way forward?
 tags: ['autism', 'neurodiversity', 'profile']
 date: Oct 15, 2021, 5:43 PM
-image: /assets/blog/Adjustments.jpg
-thumbnail: /assets/blog/thumbnails/Adjustments.jpg
+image: /assets/blog/HiddenDiversity.jpg
+thumbnail: /assets/blog/thumbnails/HiddenDiversity.jpg
 metaTitle: SEO Meta Title Goes Here
 metaDescription: SEO meta description goes here.
 author: [Jen Blacow]

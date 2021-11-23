@@ -3,8 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: Self-employment (for the unorganised) - To-Do 'Lists'
 tags: ['autism', 'neurodiversity', 'profile']
 date: Jun 11, 2021, 4:20 PM
-image: /assets/blog/Adjustments.jpg
-thumbnail: /assets/blog/thumbnails/Adjustments.jpg
+image: /assets/blog/SelfEmployment2.jpg
+thumbnail: /assets/blog/thumbnails/SelfEmployment2.jpg
 metaTitle: SEO Meta Title Goes Here
 metaDescription: SEO meta description goes here.
 author: [Jen Blacow]

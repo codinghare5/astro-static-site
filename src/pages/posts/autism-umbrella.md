@@ -3,8 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: Autism is an Umbrella Term
 tags: ['autism', 'neurodiversity', 'profile']
 date: Sep 2, 2020, 1:08 PM
-image: /assets/blog/Adjustments.jpg
-thumbnail: /assets/blog/thumbnails/Adjustments.jpg
+image: /assets/blog/AutismIsAnUmbrellaTerm.jpg
+thumbnail: /assets/blog/thumbnails/AutismIsAnUmbrellaTerm.jpg
 metaTitle: SEO Meta Title Goes Here
 metaDescription: SEO meta description goes here.
 author: [Jen Blacow]

@@ -3,8 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: Are you missing a trick in your struggle to obtain valuable employees?
 tags: ['autism', 'neurodiversity', 'profile']
 date: Jul 9, 2020, 12:59 PM
-image: /assets/blog/Adjustments.jpg
-thumbnail: /assets/blog/thumbnails/Adjustments.jpg
+image: /assets/blog/MissingATrick.png
+thumbnail: /assets/blog/thumbnails/MissingATrick.jpg
 metaTitle: SEO Meta Title Goes Here
 metaDescription: SEO meta description goes here.
 author: [Jen Blacow]

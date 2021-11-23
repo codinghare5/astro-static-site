@@ -3,8 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: Does the Construction Sector Deserve Neurodiverse People?
 tags: ['autism', 'neurodiversity', 'profile']
 date: May 10, 2021, 12:39 PM
-image: /assets/blog/Adjustments.jpg
-thumbnail: /assets/blog/thumbnails/Adjustments.jpg
+image: /assets/blog/NeurodiversityInConstruction.jpg
+thumbnail: /assets/blog/thumbnails/NeurodiversityInConstruction.jpg
 metaTitle: SEO Meta Title Goes Here
 metaDescription: SEO meta description goes here.
 author: [Jen Blacow]
