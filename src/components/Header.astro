@@ -1,4 +1,7 @@
 <style lang="scss">
+.top {
+    position: relative;
+}
 .company {
 	font-family: 'Alice', sans-serif;
     line-height: inherit;
@@ -11,21 +14,20 @@
 }
 .links li a {
 	line-height: 1rem;
-	padding-inline: 1.75rem;
 }
 
 .nav {
 
 	&__toggle {
-		position: absolute;
 		cursor: pointer;
-		margin-inline: 0.5rem;
-		right: 0.5rem;
-        top: 0.5rem;
 
 		svg {
-			width: 1.5rem;
-			fill: purple;
+			width: 2rem;
+            height: 2rem;
+			fill: var(--accent-gold-100);
+            position: absolute;
+            top: 1rem;
+            right: 1.25rem;
 		}
 
 		.close {
@@ -33,7 +35,9 @@
 		}
 
 		.menu {
-			margin-top: 0.2rem;
+            &:not(svg){
+                margin-top: 0.2rem;
+            }
 		}
 	}
 
@@ -63,6 +67,7 @@
 			color: inherit;
             text-decoration: none;
 			border: none;
+            padding-inline: 2rem;
 		}
 
 	}
@@ -103,11 +108,11 @@
                 padding-bottom: 0;
             }
 
-            &:first-child > a {
-                }
+			& > a {
+				padding-inline: 1.25rem;
+			}
 
 			&:not(:first-child) > a {
-				padding-inline: 1.25rem;
 				border-left: 1px solid var(--accent-gold-400);
 			}
 
@@ -124,7 +129,7 @@
     .nav {
         &__menu {
             li {
-                &:not(:first-child) > a {
+                & > a {
                     padding-inline: 1.75rem;
                 }
             }
@@ -133,6 +138,7 @@
 }
 
 :global(.original-purple) {
+    display: block;
     color: var(--accent-gold-200);
     // background-color: var(--segment-purple-500);
     background-image: url('/header-bg.png');
@@ -145,33 +151,28 @@
     background-color: var(--segment-purple-400);
 }
 </style>
-<header class="original-purple py-4 rounded-md">
-	<article>
-		<a href="/">
-        <div class="flex justify-center">
-			<section class="company-header grid md:grid-cols-4 mobile:grid-cols-1 mobile:place-items-center">
-				<div class="col-span-1 col-start-1 col-end-2 md:row-start-1 md:row-end-3 mobile:row-start-1 mobile:row-end-2">
-					<img class="" src="/assets/logo/Aspiedent.png" width="161.8px" height="161.8px"/>
-				</div>
-                <div class="md:col-start-2 md:col-end-5 mobile:col-start-1 mobile:col-end-2 md:row-start-1 md:row-end-2 mobile:row-start-2 mobile:row-end-3">
-					<span class="company md:text-8xl text-6xl">Aspiedent</span>
-                </div>
-				<div class="flex md:justify-start md:content-start 
-                                mobile:justify-center mobile:items-center mobile:flex-col 
-                                title uppercase md:col-start-2 md:col-end-5
-                                sm:flex-row">
-                    <span>Autism, Aspergers and Neurodiversity</span><span class="sm:ml-2">Training and Consultancy</span>
-				</div>
-			</section>
-        </div>
+<header class="">
+	<article class="nav top">
+		<a class="original-purple py-4 rounded-md" href="/">
+            <div class="flex justify-center">
+                <section class="company-header grid md:grid-cols-4 mobile:grid-cols-1 mobile:place-items-center">
+                    <div class="col-span-1 col-start-1 col-end-2 md:row-start-1 md:row-end-3 mobile:row-start-1 mobile:row-end-2">
+                        <img class="" src="/assets/logo/Aspiedent.png" width="161.8px" height="161.8px"/>
+                    </div>
+                    <div class="md:col-start-2 md:col-end-5 mobile:col-start-1 mobile:col-end-2 md:row-start-1 md:row-end-2 mobile:row-start-2 mobile:row-end-3">
+                        <span class="company md:text-8xl text-6xl">Aspiedent</span>
+                    </div>
+                    <div class="flex md:justify-start md:content-start 
+                                    mobile:justify-center mobile:items-center mobile:flex-col 
+                                    title uppercase md:col-start-2 md:col-end-5
+                                    sm:flex-row">
+                        <span>Autism, Aspergers and Neurodiversity</span><span class="sm:ml-2">Training and Consultancy</span>
+                    </div>
+                </section>
+            </div>
 		</a>
-	</article>
-</header>
-
-<header class="purple-400 md:py-2 rounded-md">
-	<article class="nav links flex text-base leading-7">
-		<input type="checkbox" id="nav__checkbox" class="nav__checkbox">
-		<label for="nav__checkbox" class="nav__toggle">
+        <input type="checkbox" id="nav__checkbox" class="nav__checkbox">
+        <label for="nav__checkbox" class="nav__toggle">
 			<svg class="menu" viewBox="0 0 448 512" width="100" title="bars">
 				<path d="M16 132h416c8.837 0 16-7.163 16-16V76c0-8.837-7.163-16-16-16H16C7.163 60 0 67.163 0 76v40c0 8.837 7.163 16 16 16zm0 160h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16zm0 160h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16z" />
 			</svg>
@@ -179,7 +180,7 @@
 				<path d="M242.72 256l100.07-100.07c12.28-12.28 12.28-32.19 0-44.48l-22.24-22.24c-12.28-12.28-32.19-12.28-44.48 0L176 189.28 75.93 89.21c-12.28-12.28-32.19-12.28-44.48 0L9.21 111.45c-12.28 12.28-12.28 32.19 0 44.48L109.28 256 9.21 356.07c-12.28 12.28-12.28 32.19 0 44.48l22.24 22.24c12.28 12.28 32.2 12.28 44.48 0L176 322.72l100.07 100.07c12.28 12.28 32.2 12.28 44.48 0l22.24-22.24c12.28-12.28 12.28-32.19 0-44.48L242.72 256z" />
 			</svg>
 		</label>
-		<ul class="nav__menu">
+		<ul id="nav_menu" class="nav__menu purple-400 text-base leading-7 md:py-2 rounded-md">
             <li><a href="/about">
 				About
 			</a></li>
