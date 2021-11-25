@@ -12,7 +12,7 @@ segmentColor: green
 segment: careers
 picture: profiles.png
 ---
-
-Intro text content (list of benefits and bullet points can go here) - 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-Delectus amet asperiores exercitationem tenetur nostrum totam unde enim, accusantium voluptas aperiam.
+Our neurodiversity profiling and support has helped neurodiverse professionals to:
+- find and enter careers that would suit them best
+- break or avoid the 'burnout cycle' and find working environments where they can progress
+- reduce and avoid work-related stress and anxiety through understanding and appropriate career guidance
