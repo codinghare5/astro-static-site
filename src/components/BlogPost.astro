@@ -2,20 +2,15 @@
 import Author from './Author.astro';
 
 export interface Props {
-	title: string;
-	author: string[];
-	authorImage: string[];
-	date: string;
-	image: string;
-	alt: string;
-    segmentColor: string;
+	post: any;
 }
-const { content } = Astro.props;
-const { title, author, authorImage, date, image, alt, segmentColor } = Astro.props;
+const { post } = Astro.props;
+// const { title, author, authorImage, date, image, alt, segmentColor } = Astro.props;
 const segmentToColor = {'diagnosis' : 'blue', 'careers' : 'green', 'education': 'red', 'employers' : 'purple'}
-const segmentBgStyle = segmentColor.length && segmentColor.length > 1
-                        ? `background-image: linear-gradient(to bottom, ${segmentColor.map((segment, index) => `var(--segment-${segmentToColor[segment]}-100)`)});` 
-                        : `background-color: var(--segment-${segmentToColor[segmentColor]}-100)`;
+const segmentBgStyle = post.segments.length && post.segments.length > 1
+                        ? `background-image: linear-gradient(to bottom, ${post.segments.map(segment => `var(--segment-${segmentToColor[segment]}-100)`)});` 
+                        : `background-color: var(--segment-${segmentToColor[post.segments]}-100)`;
+                        
 ---
 <style>
 header {
@@ -32,7 +27,8 @@ article div header img.hero-image {
 }
 .authors-container {
 	position: relative;
-	top: -3rem;
+	transform: translateY(-4.5rem);
+    width: fit-content;
 }
 .authors {
     display: flex;
@@ -51,13 +47,16 @@ article div header img.hero-image {
 	<article>
 		<div>
 			<header>
-				{image && <img class="hero-image" loading="lazy" src={image} alt={alt} />}
-				<div class="authors-container">
-                    <div class="authors">
-                        {author.map((a, index) => <Author name={a} href="https://twitter.com/" authorImage={authorImage[index]}/>)}
+				{post.image && <figure>
+                    <img class="hero-image" loading="lazy" src={post.image} alt={post.alt} />
+                    <a href={post.creditURL}><figcaption class="z-10 px-3 italic text-sm">{post.creditText}</figcaption></a>
+                </figure>}
+				<div class="authors-container px-3">
+                    <div class="authors pb-8">
+                        {post.author.map((a, index) => <Author name={a} href="https://twitter.com/" authorImage={post.authorImage[index]}/>)}
                     </div>
-					<h1 class="title text-4xl font-semibold mb-4">{title}</h1>
-					<p class="publish-date">{date}</p>
+					<h1 class="title text-4xl font-semibold mb-4">{post.title}</h1>
+					<p class="publish-date">{post.date}</p>
 				</div>
 			</header>
 			<main class="tilted flex justify-center" style={segmentBgStyle}>
