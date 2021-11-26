@@ -71,15 +71,12 @@ path {
   transform: rotate(180deg);
   transform-origin: 50% 50%;
 }
-img {
-	float: left;
-}
 </style>
 <article class="post-preview">
 	<a href={post.url}>
-        <div class="up md:py-3 sm:py-6 mobile:py-8" style={segmentBgStyle}>
-			<img class="mt-3 mr-3 mb-0 ml-3" src={post.thumbnail} />
-			<header class="py-3">
+        <div class="up md:py-3 sm:py-6 mobile:pt-10 mobile:pb-16" style={segmentBgStyle}>
+			<img class="sm:float-left sm:mt-3 sm:mx-3 sm:mb-0 mobile:mx-auto" src={post.thumbnail} />
+			<header class="py-3 mobile:mx-3">
 				<h1 class="title">{post.title}</h1>
 				<h3 class="publish-date">{post.date}</h3>
 			</header>
