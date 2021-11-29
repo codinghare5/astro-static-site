@@ -5,17 +5,13 @@ tags: ['autism', 'neurodiversity', 'profile']
 date: Jun 10, 2020, 3:49 PM
 image: /assets/blog/FaceToFaceMeetings.png
 thumbnail: /assets/blog/thumbnails/FaceToFaceMeetings.jpg
-metaTitle: SEO Meta Title Goes Here
-metaDescription: SEO meta description goes here.
+metaTitle: Online meetings and the importance of meeting people face to face
+metaDescription: A blog post about how important face to face meetings are in building  real business relationships. Online meetings alone are not enough! Meeting face to face involves exchanging information in a way that is impossible via online media.
 author: [Jen Blacow]
 authorImage: [jen]
 description: It is important to meet face to face in order to build relationship. Meeting face to face involves exchanging information in a way that is impossible via online media.
 segments: [education, employers, diagnosis, careers]
 ---
-**The Importance of Meeting Face to Face**
-
-Jen Blacow Operations Manager, Aspiedent CIC
-
 Zoom call over, I shut the laptop, stand up, and my head's whirling. I
 expect that, in different variations to this, I am not alone.
 
@@ -82,6 +78,4 @@ interaction, I am currently trying to make the most out of Zoom calls.
 However, I will be one of the first people to turn up to a face to face
 meeting or accept an invite to somebody else's office in person!
 
-To find out about our work and research, please visit us at
-[www.aspiedent.com](http://www.aspiedent.com) and
-[www.aspiedent.org](http://www.aspiedent.org) or book a chat with me.
+If you would like a face to face (or virtual) meeting with me, please get in touch vie email at j.blacow@aspiedent.com, telephone on 07717 404846, or through our [contact us](/contact) form.

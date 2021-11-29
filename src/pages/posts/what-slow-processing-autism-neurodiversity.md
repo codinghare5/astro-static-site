@@ -1,17 +1,18 @@
 ---
 layout: ../../layouts/BlogPost.astro
-title: Slow Processing
-tags: ['autism', 'neurodiversity', 'profile']
-date: Nov 13, 2021, 11:37 AM
+title: What is slow processing in autism & neurodiversity?
+tags: ['slow processing']
+date: Nov 12, 2021, 11:37 AM
 image: /assets/blog/SlowProcessing.jpg
 thumbnail: /assets/blog/thumbnails/SlowProcessing.jpg
 metaTitle: Slow processing speed - What is it and how can it affect somebody?
 metaDescription: Aspiedent discusses slow processing speed found in autism and neurodiversity. What is slow processing, and what issues can a slow processing disorder cause?
 author: [Jen Blacow]
 authorImage: [jen]
-description: Autism spectrum condition (ASD) is commonly referred to as being mild autism or severe autism. Actually, autism is not linear and the amount of support needed is not necessarily an indication of the severity of the autism. Autism is an umbrella term that includes many different kinds of difficulties.
+description: Slow processing speed is an issue for many people with autism and can also be found in the general population. This blog discusses what slow processing of information is, different manifestations of slow processing and what issues a slow processing disorder can cause.
 segments: [education, employers, diagnosis, careers]
 ---
+## **Slow Processing**
 
 We have been told recently that people are searching for ‘jobs for people with slow processing’. But before we can address this, we need to address what slow processing is.
 
@@ -23,7 +24,7 @@ In this blog post, we just deal with slow processing of information. Other forms
 
  
 
-### There are different types of slow processing.
+### **There are different types of slow processing.**
 In autism, we often come across people whose processing of incoming information is slow.
 
 This blog post won’t cover an exhaustive list of examples. But below we discuss a few examples of slow processing that we have come across.
@@ -50,7 +51,7 @@ Therefore, it makes sense that she is OK at doing basic social interaction, whic
 
  
 
-### Processing Information: Information Channels
+### **Processing Information: Information Channels**
 It gets more complex as you dive into the topic of slow processing.
 
 Slow processing or processing issues can also depend on the channels that the information is coming through, e.g. the senses.
@@ -73,7 +74,7 @@ Others will find reading slow and difficult because of difficulty processing vis
 
  
 
-### Examples of consequences of slow processing
+### **Examples of consequences of slow processing**
 We know somebody very well who has slow processing of incoming information but has normal processing speed once she has got it. Throughout her life, this person has tried to compensate for that by rote learning everything (learning everything off by heart).
 
 Basically, because she cannot not process information coming in, in real time, she has just listened for key words and then recited memorised answers to questions.

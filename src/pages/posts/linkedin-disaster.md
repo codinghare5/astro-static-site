@@ -5,16 +5,14 @@ tags: ['autism', 'neurodiversity', 'profile']
 date: Jun 3, 2020, 2:37 PM
 image: /assets/blog/SocialMediaHelp.png
 thumbnail: /assets/blog/thumbnails/SocialMediaHelp.jpg
-metaTitle: SEO Meta Title Goes Here
-metaDescription: SEO meta description goes here.
+metaTitle: Autism and social media sites
+metaDescription: A humorous blog post which highlights how some autistic people struggle with emotional connection via electronic social media.
 author: [Jen Blacow]
 authorImage: [jen]
 description: I tried to teach my autistic boss how to use LinkedIn - it was disaster. A blog highlighting how some autistic people struggle with emotional connection via electronic media. 
 segments: [education, employers, diagnosis, careers]
 ---
 **I tried to teach my autistic boss how to use LinkedIn: it was disaster.**
-
-Jen Blacow Operations Manager, Aspiedent CIC
 
 My autistic boss, Dr Elizabeth Guest, is great. I often advertise the
 fact that she is a genius in many ways and the best boss I have ever
@@ -115,6 +113,6 @@ Note that not all autistic people have difficulty making emotional
 connections with people. They have different problems with social
 interaction.
 
-To find out about our work, visit us at
-[www.aspiedent.com](http://www.aspiedent.com) and
-[www.aspiedent.org](http://www.aspiedent.org)
+Aspiedent provide [training for employers](training) and employees about autism.
+
+[Contact us](/contact) for more information about how we can help.
