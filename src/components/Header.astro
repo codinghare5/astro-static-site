@@ -12,9 +12,6 @@
 	letter-spacing: 0.05em;
 	word-spacing: 0.2em;
 }
-.links li a {
-	line-height: 1rem;
-}
 
 .nav {
 
@@ -53,6 +50,7 @@
 		li {
             list-style: none;
 			display: none;
+            line-height: 2.5rem;
 		}
 
         li:first-of-type {
@@ -69,6 +67,10 @@
 			border: none;
             padding-inline: 2rem;
 		}
+
+        a:hover {
+            font-weight: 500;
+        }
 
 	}
 }
@@ -116,7 +118,7 @@
 				border-left: 1px solid var(--accent-gold-400);
 			}
 
-            a:hover {
+            & > a:hover {
                 font-weight: 500;
             }
 		}
@@ -138,13 +140,15 @@
 }
 
 :global(.original-purple) {
-    display: block;
     color: var(--accent-gold-200);
     // background-color: var(--segment-purple-500);
     background-image: url('/header-bg.png');
     background-repeat: no-repeat;
     background-position: center bottom;
     background-size: cover;
+}
+:global(a.original-purple) {
+    display: block;
 }
 :global(.purple-400) {
     color: var(--accent-gold-200);
