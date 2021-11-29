@@ -11,6 +11,8 @@ author: [Jen Blacow]
 authorImage: [jen]
 description: This blog post explores the pros and cons of online Autism Profiles and Workplace Assessments. There are benefits and disadvantages to doing an online Autism Profile or Workplace Assessment. 
 segments: [education, employers, diagnosis, careers]
+creditURL: https://pixabay.com
+creditText: Sergiey Validoff
 ---
 We have recently been prompted to think more about how Aspiedent’s services have had to adapt to the current restrictions placed upon our working lives.
 

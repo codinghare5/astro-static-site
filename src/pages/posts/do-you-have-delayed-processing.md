@@ -11,6 +11,8 @@ author: [Jen Blacow]
 authorImage: [jen]
 description: Do you ever get told a joke and it takes a day to get it? Delayed processing is an issue commonly found in autism, but can be found in anybody. This blog post talks about the difference between slow processing of incoming information and delayed processing. Although they may sound similar, they are actually very different issues. Perhaps you have delayed processing.
 segments: [education, employers, diagnosis, careers]
+creditURL: https://pixabay.com
+creditText: Sergiey Validoff
 ---
 Two weeks ago, we [posted an article](what-slow-processing-autism-neurodiversity.md) about slow processing of incoming information. This blog post covers the topic of delayed processing of incoming information. Although slow processing and delayed processing might occur together, they can also be found separately.
 

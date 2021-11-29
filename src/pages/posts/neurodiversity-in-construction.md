@@ -11,6 +11,8 @@ author: [Jen Blacow]
 authorImage: [jen]
 description: We found some open-mindedness about employing people with autism or neurodiversity to fill skills gaps or recruit for jobs available in the construction industry. Here we discuss our experiences.
 segments: [education, employers, diagnosis, careers]
+creditURL: https://pixabay.com
+creditText: Sergiey Validoff
 ---
 **Thumbnail image:** NeurodiversityInConstruction
 

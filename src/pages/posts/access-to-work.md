@@ -5,12 +5,14 @@ tags: ['autism', 'neurodiversity', 'profile']
 date: Jul 24, 2020, 1:03 PM
 image: /assets/blog/ATWBlog.jpg
 thumbnail: /assets/blog/thumbnails/ATWBlog.jpg
-metaTitle: SEO Meta Title Goes Here
-metaDescription: SEO meta description goes here.
+metaTitle: Resources and support for autism in the workplace - Access to Work. 
+metaDescription: Aspiedent outlines that employees can get support with autism  in the workplace from the DWP’s Access to Work scheme.
 author: [Jen Blacow]
 authorImage: [jen]
 description: Access to Work is  DWP’s best kept secret. You can get a grant for equipment and support at work if you have autism or aspergers. Read on for more.
 segments: [education, employers, diagnosis, careers]
+creditURL: https://pixabay.com
+creditText: Image by Gerd Altmann from Pixabay
 ---
 There are three sources of resources for autistic employees and
 employers regarding 'reasonable adjustments' at work:
@@ -107,9 +109,4 @@ and
 In our next posts we will look at workplace assessments and other
 resources available to autistic employees and their employers.
 
-Aspiedent deliver expert autism training & consultancy and workplace
-assessments for employers and employees (www.aspiedent.com), and help
-autistic adults into employment (www.aspiedent.org).
-
-For more information, please contact Jen Blacow at
-[j.blacow\@aspiedent.com](mailto:j.blacow@aspiedent.com).
+**If you need help with autism in the workplace, or would like to know more about how Aspiedent might be able to help you, [contact us](/contact) now.**

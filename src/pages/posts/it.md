@@ -11,6 +11,8 @@ author: [Jen Blacow]
 authorImage: [jen]
 description: Are autistic people naturally good at IT? Here is a non-stereotypical discussion of the subject.
 segments: [education, employers, diagnosis, careers]
+creditURL: https://pixabay.com
+creditText: Sergiey Validoff
 ---
 Autistic people are good at IT? Really?
 

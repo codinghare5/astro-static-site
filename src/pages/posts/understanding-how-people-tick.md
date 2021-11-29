@@ -11,6 +11,8 @@ author: [Jen Blacow, Elizabeth Guest]
 authorImage: [jen, elizabeth]
 description: Learning how to deal with people successfully, requires an understanding of human beings, human variation and how people tick.
 segments: [education, employers, diagnosis, careers]
+creditURL: https://pixabay.com
+creditText: Sergiey Validoff
 ---
 **How to do better in business by understanding (autistic) traits**
 

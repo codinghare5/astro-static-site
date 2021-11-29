@@ -5,17 +5,15 @@ tags: ['autism', 'neurodiversity', 'profile']
 date: Jul 16, 2020, 10:31 AM
 image: /assets/blog/InterviewAlternatives.jpg
 thumbnail: /assets/blog/thumbnails/InterviewAlternatives.jpg
-metaTitle: SEO Meta Title Goes Here
-metaDescription: SEO meta description goes here.
+metaTitle: Alternatives to Job Interviews - Aspiedent discuss ideas and benefits of alternative recruitment practices
+metaDescription: Aspiedent provides insight into ways other than job interviews to recruit valuable employees and be more inclusive to autistic people.
 author: [Jen Blacow]
 authorImage: [jen]
 description: We discuss how interviews disadvantage some otherwise brilliant workers including autistic ones. It highlights there are more logical and effective ways to ensure the right person is recruited for a role.
 segments: [education, employers, diagnosis, careers]
+creditURL: https://pixabay.com
+creditText: Image by Gerd Altmann from Pixabay
 ---
-**Is an interview really the best way to recruit a candidate for a job?**
-
-Jen Blacow Operations Manager, Aspiedent CIC
-
 The key problem many autistic people have in finding a job is poor
 interview skills. But are we recruiting for someone who can do the job,
 or someone who can perform well at interviews?
@@ -93,26 +91,20 @@ explain what they have done?
 It is a huge myth that all autistic people will excel at a few
 restricted skills, such as computer programming or boring and repetitive
 tasks. During our work advising employers, we have come across autistic
-people who
+people who:
 
--   can easily recognise fraud in financial data,
-
--   are brilliant at understanding a large and complex database,
-
+-   can easily recognise fraud in financial data
+-   are brilliant at understanding a large and complex database
 -   are brilliant at taking a huge body of written information and
     analysing it so it can be presented in a way that is easy to
-    understand,
-
--   are brilliant at sales (yes, sales!),
-
+    understand
+-   are brilliant at sales (yes, sales!)
 -   are brilliant at both the back-end design of a system and at
     creating an intuitive user interface (this combination is extremely
-    rare and valuable),
-
--   can tell what is wrong with a motor engine by listening to it,
-
+    rare and valuable)
+-   can tell what is wrong with a motor engine by listening to it
 -   are whizzes at learning new software in an area that is familiar to
-    them.
+    them
 
 Unfortunately, it is extremely difficult to ascertain these skills at
 interview, and often they only come to light when the person is carrying

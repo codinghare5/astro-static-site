@@ -11,6 +11,8 @@ author: [Jen Blacow]
 authorImage: [jen]
 description: Autistic people can be extremely valuable employees. However, due to lack of understanding on both sides, autism at work can cause disruption. This blog post provides examples of disruption due to autism in the workplace and some simple solutions.
 segments: [education, employers, diagnosis, careers]
+creditURL: https://pixabay.com
+creditText: Sergiey Validoff
 ---
 **Thumbnail image:** DoesNotGetIt
 

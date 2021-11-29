@@ -11,6 +11,8 @@ author: [Jen Blacow]
 authorImage: [jen]
 description: Among other things, Greta Thunberg is known for proclaiming that her autism is a superpower and without that she would not be able to do what she does. She is not alone with kinds of claims. Many people claim that it is their autism that helps them to excel at what they do. Aspiedent can assure you that the people we support do not have superpowers.
 segments: [education, employers, diagnosis, careers]
+creditURL: https://pixabay.com
+creditText: Sergiey Validoff
 ---
 **Thumbnail image:** IsAutismASuperPower
 

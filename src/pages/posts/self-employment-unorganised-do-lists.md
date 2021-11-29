@@ -11,6 +11,8 @@ author: [Jen Blacow]
 authorImage: [jen]
 description: Routine, planning & organisation is important to successfully run a business or being self-employed. We developed some very unique ways of keeping and managing To-do ‘lists’. Here is a blog to share our systems. I hope they help you manage business and stay organised!
 segments: [education, employers, diagnosis, careers]
+creditURL: https://pixabay.com
+creditText: Sergiey Validoff
 ---
 **Thumbnail image:** AutismSelfEmployment2
 

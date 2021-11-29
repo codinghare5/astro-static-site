@@ -11,6 +11,8 @@ author: [Jen Blacow]
 authorImage: [jen]
 description: It is important to meet face to face in order to build relationship. Meeting face to face involves exchanging information in a way that is impossible via online media.
 segments: [education, employers, diagnosis, careers]
+creditURL: https://pixabay.com/users/AnnaliseArt-7089643/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=5067140
+creditText: Image by Annalise Batista
 ---
 Zoom call over, I shut the laptop, stand up, and my head's whirling. I
 expect that, in different variations to this, I am not alone.

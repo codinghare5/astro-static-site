@@ -5,12 +5,14 @@ tags: ['autism', 'neurodiversity', 'profile']
 date: Jun 19, 2020, 4:06 PM
 image: /assets/blog/VictimOverComers.jpg
 thumbnail: /assets/blog/thumbnails/VictimOverComers.jpg
-metaTitle: SEO Meta Title Goes Here
-metaDescription: SEO meta description goes here.
+metaTitle: Business Network with Overcomers, not Victims 
+metaDescription: A blog post about how business networking with people who overcome, rather than those who identify as victims, is crucial to positive progress.
 author: [Jen Blacow]
 authorImage: [jen]
 description: This blog talks candidly about how surrounding yourself with a network of ‘overcomers’, rather than ‘victims’, is better for individuals and businesses alike.
 segments: [education, employers, diagnosis, careers]
+creditURL: https://pixabay.com/users/EliasSch-3372715/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2053281
+creditText: Image by Elias Sch.
 ---
 Recently, I read a post by a friend, [Pamela
 Hopkinson](linkedin.com/in/pamelahopkinson), in which she stated her
@@ -48,8 +50,7 @@ humans down who even dare to disagree with them!
 
 See J K Rowling's recent
 [article](https://www.jkrowling.com/opinions/j-k-rowling-writes-about-her-reasons-for-speaking-out-on-sex-and-gender-issues/)
-for a more in-depth discussion on this type of thing. Quite frankly, it
-is scary.
+for a more in-depth discussion on this type of thing. Quite frankly, it is scary.
 
 **Back to overcomers**
 
@@ -83,7 +84,7 @@ have taken on the mindset of 'how can I' and 'what can I', are winners.
 These are the overcomers who I think we should be looking out for
 supporting within our networks.
 
-**Being compassionate **
+**Being compassionate**
 
 But being compassionate is so important. Sometimes, taking on the role
 of 'victim' as one's identity can be a very understandable response to
@@ -125,9 +126,3 @@ rather than be lured in by 'victimhood'. I will also continue to try and
 support individuals and businesses who do the same.
 
 Are you with me?
-
-To read more about Aspiedent's approach to disability and our work,
-please visit
-<https://aspiedent.org/index.php/autism-information/approach-disability>.
-
-To chat to me about this further, please get in touch.

@@ -11,6 +11,8 @@ author: [Jen Blacow]
 authorImage: [jen]
 description: This blog post sheds light on the reality of autism in the workplace. If you want benefit of diversity of thinking, innovation, and creativity at work, then you may well have to deal with some HR challenges in return.
 segments: [education, employers, diagnosis, careers]
+creditURL: https://pixabay.com
+creditText: Sergiey Validoff
 ---
 **Mad, Bad, Difficult?**
 

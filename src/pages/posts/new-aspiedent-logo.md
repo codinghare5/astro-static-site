@@ -11,6 +11,8 @@ author: [Jen Blacow]
 authorImage: [jen]
 description: This post is about Aspiedent CIC’s brand values, our new logo and how the two connect. Aspiedent’s values include excellence, freedom of expression of thought and opinion, and a focus on moving forward and growing.
 segments: [education, employers, diagnosis, careers]
+creditURL: https://pixabay.com
+creditText: Sergiey Validoff
 ---
 **Thumbnail image:**
 

@@ -11,8 +11,8 @@ author: [Jen Blacow]
 authorImage: [jen]
 description: This blog post discusses potential job roles for people with slow processing of incoming information. Jobs for people with slow processing speed or a slow processing disorder do not have to be low paid or boring! Slow processing issues are often found in autism and neurodiversity.
 segments: [education, employers, diagnosis, careers]
-creditURL: https://pixabay.com
-creditText: Sergiey Validoff
+creditURL: https://pixabay.com/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=5182571
+creditText: Image by Petr Ganaj
 ---
 We discovered recently that a few people have done web searches for ‘what jobs are suitable for people with slow processing issues?’ 
 

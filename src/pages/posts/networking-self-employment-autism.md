@@ -11,6 +11,8 @@ author: [Jen Blacow]
 authorImage: [jen]
 description: In this blog post, we focus on business networking and autism. It took a while for us to figure out the real point of networking and why it is important. Here we try and clearly explain the point and give tips on how to do it right.
 segments: [education, employers, diagnosis, careers]
+creditURL: https://pixabay.com
+creditText: Sergiey Validoff
 ---
 **Thumbnail image: **
 

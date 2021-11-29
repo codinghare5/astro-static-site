@@ -11,6 +11,8 @@ author: [Jen Blacow]
 authorImage: [jen]
 description: Simple misunderstandings can cause major problems between autistic people and their employers. But it is often easily fixable. This blog post covers some of the sometimes peculiar ways in which this can happen.
 segments: [education, employers, diagnosis, careers]
+creditURL: https://pixabay.com
+creditText: Sergiey Validoff
 ---
 **Thumbnail image:** MisunderstandingsProblems
 

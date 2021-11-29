@@ -11,6 +11,8 @@ author: [Jen Blacow]
 authorImage: [jen]
 description: I tried to teach my autistic boss how to use LinkedIn - it was disaster. A blog highlighting how some autistic people struggle with emotional connection via electronic media. 
 segments: [education, employers, diagnosis, careers]
+creditURL: https://pixabay.com/users/EliasSch-3372715/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2053281
+creditText: Image by Elias Sch.
 ---
 **I tried to teach my autistic boss how to use LinkedIn: it was disaster.**
 

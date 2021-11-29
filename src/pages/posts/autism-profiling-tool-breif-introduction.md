@@ -11,6 +11,8 @@ author: [Jen Blacow]
 authorImage: [jen]
 description: This blog post describes Aspiedent’s Autism Profile Tool. What is it and why are we so excited about it? We have become excited about our plans to get our autism profile tool ‘online’, which involves standardising it and then scaling it so that many more people across the world can benefit from it.
 segments: [education, employers, diagnosis, careers]
+creditURL: https://pixabay.com
+creditText: Sergiey Validoff
 ---
 **Thumbnail image:** AutismProfilingToolIntro
 
