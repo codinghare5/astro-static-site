@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/BlogPost.astro
 title: Resources for Autistic Employees and their Employers - The Autistic Community
-tags: ['autism', 'neurodiversity', 'profile']
+tags: ['autism', 'neurodiversity', 'profile', 'resources', 'autistic community', 'social model', 'activist']
 date: Jul 29, 2020, 1:14 PM
 image: /assets/blog/AutisticCommunityBlog.jpg
 thumbnail: /assets/blog/thumbnails/AutisticCommunityBlog.jpg
@@ -10,7 +10,7 @@ metaDescription: Clear advice from Aspiedent on choosing autism training solutio
 author: [Jen Blacow]
 authorImage: [jen]
 description: The Autistic Community can be a useful resource for employers and employees with autism, but it can be confused with expert autism training.
-segments: [education, employers, diagnosis, careers]
+segments: [employers, careers]
 creditURL: https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2198961
 creditText: Image by Gerd Altmann
 ---

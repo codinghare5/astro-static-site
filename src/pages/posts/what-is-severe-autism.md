@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/BlogPost.astro
 title: What are mild and severe autism?
-tags: ['autism', 'neurodiversity', 'profile']
+tags: ['autism', 'neurodiversity', 'profile', 'severe', 'mild']
 date: Oct 1, 2021, 5:38 PM
 image: /assets/blog/WhatIsSevereAutism.jpg
 thumbnail: /assets/blog/thumbnails/WhatIsSevereAutism.jpg

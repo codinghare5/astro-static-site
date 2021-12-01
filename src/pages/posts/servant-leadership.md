@@ -135,8 +135,7 @@ degree, it can also be used as a weapon. How people think about,
 perceive and sense the world can be used against them if such knowledge
 got into the wrong hands.
 
-**The organisation that cater for autistic & non-autistic people =
-Love**
+**The organisation that cater for autistic & non-autistic people = Love**
 
 ~~Often people with autism are bullied at work. Sometimes this is
 because they don't understand the social stuff, politics of the

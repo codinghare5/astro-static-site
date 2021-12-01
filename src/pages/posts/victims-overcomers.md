@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/BlogPost.astro
 title: Victims and Overcomers
-tags: ['autism', 'neurodiversity', 'profile']
+tags: ['autism', 'neurodiversity', 'profile', 'covid', 'mindset', 'discrimination']
 date: Jun 19, 2020, 4:06 PM
 image: /assets/blog/VictimOverComers.jpg
 thumbnail: /assets/blog/thumbnails/VictimOverComers.jpg
@@ -10,7 +10,7 @@ metaDescription: A blog post about how business networking with people who overc
 author: [Jen Blacow]
 authorImage: [jen]
 description: This blog talks candidly about how surrounding yourself with a network of ‘overcomers’, rather than ‘victims’, is better for individuals and businesses alike.
-segments: [education, employers, diagnosis, careers]
+segments: [diagnosis, careers]
 creditURL: https://pixabay.com/users/EliasSch-3372715/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2053281
 creditText: Image by Elias Sch.
 ---
@@ -126,3 +126,5 @@ rather than be lured in by 'victimhood'. I will also continue to try and
 support individuals and businesses who do the same.
 
 Are you with me?
+
+**To chat to us further about this topic please [get in touch](/contact).**

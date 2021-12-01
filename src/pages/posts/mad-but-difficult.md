@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/BlogPost.astro
 title: Bad, Mad, Difficult?
-tags: ['autism', 'neurodiversity', 'profile']
+tags: ['autism', 'neurodiversity', 'profile', 'change', 'symptoms', 'ways of thinking']
 date: Nov 19, 2020, 4:20 PM
 image: /assets/blog/MadBadDifficult.jpg
 thumbnail: /assets/blog/thumbnails/MadBadDifficult.jpg

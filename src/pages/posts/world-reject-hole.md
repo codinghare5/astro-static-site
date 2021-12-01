@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/BlogPost.astro
 title: The World Reject Hole
-tags: ['autism', 'neurodiversity', 'profile']
+tags: ['autism', 'neurodiversity', 'profile', 'mental health']
 date: Oct 7, 2020, 7:57 PM
 image: /assets/blog/WorldRejectHole.jpg
 thumbnail: /assets/blog/thumbnails/WorldRejectHole.jpg
@@ -10,7 +10,7 @@ metaDescription: Autism and lockdown - Rules due to Covid have had an impact on 
 author: [Jen Blacow]
 authorImage: [jen]
 description: This article explores one of the traps that autistic people can fall into - The World Reject Hole. Autism and lockdown has both helped and hindered autistic people. Lockdown has made more autistic people prone to falling into the world reject hole where they feel that the world has rejected them.
-segments: [education, employers, diagnosis, careers]
+segments: [education, diagnosis, careers]
 creditURL: https://pixabay.com/users/alexantropov86-2691829/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=5319067
 creditText: Image by Alexander Antropov
 ---

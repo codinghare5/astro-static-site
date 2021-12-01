@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/BlogPost.astro
 title: LinkedIn Disaster
-tags: ['autism', 'neurodiversity', 'profile']
+tags: ['autism', 'neurodiversity', 'profile', 'social media', 'genious', 'social skills']
 date: Jun 3, 2020, 2:37 PM
 image: /assets/blog/SocialMediaHelp.png
 thumbnail: /assets/blog/thumbnails/SocialMediaHelp.jpg
@@ -10,7 +10,7 @@ metaDescription: A humorous blog post which highlights how some autistic people 
 author: [Jen Blacow]
 authorImage: [jen]
 description: I tried to teach my autistic boss how to use LinkedIn - it was disaster. A blog highlighting how some autistic people struggle with emotional connection via electronic media. 
-segments: [education, employers, diagnosis, careers]
+segments: [employers, careers]
 creditURL: https://pixabay.com/users/EliasSch-3372715/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2053281
 creditText: Image by Elias Sch.
 ---
@@ -115,6 +115,4 @@ Note that not all autistic people have difficulty making emotional
 connections with people. They have different problems with social
 interaction.
 
-Aspiedent provide [training for employers](training) and employees about autism.
-
-[Contact us](/contact) for more information about how we can help.
+**To find out about our work, [contact us](/contact), call us on 07717 404846 or email <info@aspiedent.com>.**

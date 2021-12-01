@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/BlogPost.astro
 title: Resources for Autistic Employees and their Employers - Workplace Assessments
-tags: ['autism', 'neurodiversity', 'profile']
+tags: ['autism', 'neurodiversity', 'profile', 'resoures', 'occupational health', 'workplace assessment', 'disability', 'reasonable adjustments']
 date: Aug 7, 2020, 1:23 PM
 image: /assets/blog/WorkplaceAssessmentBlog.png
 thumbnail: /assets/blog/thumbnails/WorkplaceAssessmentBlog.jpg
@@ -10,7 +10,7 @@ metaDescription: This blog post explains why autism at work support is more effe
 author: [Jen Blacow]
 authorImage: [jen]
 description: What are the important differences between Occupational Health Assessments and Autism Workplace Assessments? How do you know which company to choose to undertake an Autism Workplace Assessment? Here is some guidance.
-segments: [education, employers, diagnosis, careers]
+segments: [employers, careers]
 creditURL: https://pixabay.com/users/mohamed_hassan-5229782/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3643025
 creditText: Image by Mohamed Hassan
 ---

@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/BlogPost.astro
 title: Autism is an Umbrella Term
-tags: ['autism', 'neurodiversity', 'profile']
+tags: ['autism', 'neurodiversity', 'profile', 'activist', 'processing issues', 'sensory issues', 'change', 'symptoms', 'executive functioning', 'severe']
 date: Sep 2, 2020, 1:08 PM
 image: /assets/blog/AutismIsAnUmbrellaTerm.jpg
 thumbnail: /assets/blog/thumbnails/AutismIsAnUmbrellaTerm.jpg

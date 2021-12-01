@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/BlogPost.astro
 title: Is an interview really the best way to recruit a candidate for a job?
-tags: ['autism', 'neurodiversity', 'profile']
+tags: ['autism', 'neurodiversity', 'profile', 'recruit', 'skills', 'team', 'work']
 date: Jul 16, 2020, 10:31 AM
 image: /assets/blog/InterviewAlternatives.jpg
 thumbnail: /assets/blog/thumbnails/InterviewAlternatives.jpg
@@ -10,7 +10,7 @@ metaDescription: Aspiedent provides insight into ways other than job interviews 
 author: [Jen Blacow]
 authorImage: [jen]
 description: We discuss how interviews disadvantage some otherwise brilliant workers including autistic ones. It highlights there are more logical and effective ways to ensure the right person is recruited for a role.
-segments: [education, employers, diagnosis, careers]
+segments: [employers]
 creditURL: https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2198961
 creditText: Image by Gerd Altmann
 ---

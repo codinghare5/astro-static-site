@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/BlogPost.astro
 title: The impact of an autism profile
-tags: ['autism', 'neurodiversity', 'profile']
+tags: ['autism', 'neurodiversity', 'profile', 'symptoms', 'mental health', 'workplace assessment', 'reasonable adjustments']
 date: Nov 11, 2020, 4:30 PM
 image: /assets/blog/ImpactAutismProfile.jpg
 thumbnail: /assets/blog/thumbnails/ImpactAutismProfile.jpg

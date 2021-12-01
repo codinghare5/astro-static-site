@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/BlogPost.astro
 title: Autism, Change and Covid-19
-tags: ['autism', 'neurodiversity', 'profile']
+tags: ['autism', 'neurodiversity', 'profile', 'mindset', 'covid', 'change', 'workplace', 'mental health', 'sensory issues']
 date: Jun 26, 2020, 2:19 PM
 image: /assets/blog/CovidChangeAutism.jpg
 thumbnail: /assets/blog/thumbnails/CovidChangeAutism.jpg
@@ -10,7 +10,7 @@ metaDescription: A blog post exploring how the social distancing guidelines at w
 author: [Jen Blacow]
 authorImage: [jen]
 description: This post explores ways in which social distancing due to the Covid-19 pandemic might help autistic people, but hinder non-autistic people.
-segments: [education, employers, diagnosis, careers]
+segments: [employers, careers]
 creditURL: https://pixabay.com/users/MiroslavaChrienova-6238194/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4948866
 creditText: Image by Miroslava Chrienova
 ---
@@ -71,4 +71,4 @@ In summary, anyone who dislikes change (which is most people) will struggle
 
 The points made in this article are no way near exhaustive.
 
-**But if you would like to know more about what you can do to look after the mental health of your employees as best as you can, including employees on the autistic spectrum (you may have many and you will likely have some), get in touch and we will be happy to discuss how we can help.**
+**But if you would like to know more about what you can do to look after the mental health of your employees as best as you can, including employees on the autistic spectrum (you may have many and you will likely have some), [get in touch](/contact) and we will be happy to discuss how we can help.**

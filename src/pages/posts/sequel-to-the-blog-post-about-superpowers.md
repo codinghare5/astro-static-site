@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/BlogPost.astro
 title: Hidden diversity in Business - A better way forward?
-tags: ['autism', 'neurodiversity', 'profile']
+tags: ['autism', 'neurodiversity', 'profile', 'activist', 'ways of thinking']
 date: Oct 15, 2021, 5:43 PM
 image: /assets/blog/HiddenDiversity.jpg
 thumbnail: /assets/blog/thumbnails/HiddenDiversity.jpg

@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/BlogPost.astro
 title: Is Autism a Disorder or a Difference?
-tags: ['autism', 'neurodiversity', 'profile']
+tags: ['autism', 'neurodiversity', 'profile', 'disability', 'superpower', 'sensory issues', 'symptoms', 'severe']
 date: Jul 2, 2020, 2:40 PM
 image: /assets/blog/AutismDisorderDifference.jpg
 thumbnail: /assets/blog/thumbnails/AutismDisorderDifference.jpg
@@ -61,6 +61,4 @@ In addition, because her way thinking is significantly different to the norm, th
 
 In conclusion, the answer to whether autism is a disorder, or a difference is not clear. For some it is a severe disability and for others it is of benefit in some areas of their life but a hindrance in others. But whether it is considered a benefit or a misfortune, depends on the autistic person’s particular combination and interaction of traits, their goals in life, their personality and their particular definition of what a good quality of life is.
 
- 
-**Aspiedent delivers expert autism training & consultancy and workplace assessments for employers and employees, and help autistic adults into employment.**
-**For more information, please contact Jen Blacow at j.blacow@aspiedent.com, on 07717 404846 or contact us.**
+**For more information, please contact Jen Blacow at j.blacow@aspiedent.com, on 07717 404846 or [contact us](/contact).**

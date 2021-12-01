@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/BlogPost.astro
 title: Autistic Employees - Not accepting authority?
-tags: ['autism', 'neurodiversity', 'profile']
+tags: ['autism', 'neurodiversity', 'profile', 'change', 'workplace assessment']
 date: Apr 21, 2021, 3:29 PM
 image: /assets/blog/KnowsItAll.jpg
 thumbnail: /assets/blog/thumbnails/KnowsItAll.jpg

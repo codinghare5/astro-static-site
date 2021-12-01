@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/BlogPost.astro
 title: The Importance of Meeting Face to Face
-tags: ['autism', 'neurodiversity', 'profile']
+tags: ['autism', 'neurodiversity', 'profile', 'covid', 'networking', 'emotion', 'social media', 'meetings']
 date: Jun 10, 2020, 3:49 PM
 image: /assets/blog/FaceToFaceMeetings.png
 thumbnail: /assets/blog/thumbnails/FaceToFaceMeetings.jpg
@@ -10,7 +10,7 @@ metaDescription: A blog post about how important face to face meetings are in bu
 author: [Jen Blacow]
 authorImage: [jen]
 description: It is important to meet face to face in order to build relationship. Meeting face to face involves exchanging information in a way that is impossible via online media.
-segments: [education, employers, diagnosis, careers]
+segments: [employers, careers]
 creditURL: https://pixabay.com/users/AnnaliseArt-7089643/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=5067140
 creditText: Image by Annalise Batista
 ---
@@ -80,4 +80,4 @@ interaction, I am currently trying to make the most out of Zoom calls.
 However, I will be one of the first people to turn up to a face to face
 meeting or accept an invite to somebody else's office in person!
 
-If you would like a face to face (or virtual) meeting with me, please get in touch vie email at j.blacow@aspiedent.com, telephone on 07717 404846, or through our [contact us](/contact) form.
+**If you would like a face to face (or virtual) meeting with me, please get in touch vie email at j.blacow@aspiedent.com, telephone on 07717 404846, or through our [contact us](/contact) form.**

@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/BlogPost.astro
 title: Resources for Autistic Employees and their employers - Reasonable Adjustments.
-tags: ['autism', 'neurodiversity', 'profile']
+tags: ['autism', 'neurodiversity', 'profile', 'activist', 'autism friendly', 'resources', 'reasonable adjustments']
 date: Aug 14, 2020, 2:57 PM
 image: /assets/blog/Adjustments.jpg
 thumbnail: /assets/blog/thumbnails/Adjustments.jpg
@@ -10,7 +10,7 @@ metaDescription: Some helpful insights from Aspiedent regarding autism reasonabl
 author: [Jen Blacow]
 authorImage: [jen]
 description: There are written resources for employers who manage somebody with autism. Here we explore reasonable adjustments at work and explain some common misunderstandings.
-segments: [education, employers, diagnosis, careers]
+segments: [employers, careers]
 creditURL: https://pixabay.com/users/topeasokere-17844366/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=5481108
 creditText: Image by Tope Asokere
 ---

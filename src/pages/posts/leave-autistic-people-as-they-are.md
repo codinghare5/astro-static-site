@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/BlogPost.astro
 title: Two half Truths about Autism and Society
-tags: ['autism', 'neurodiversity', 'profile']
+tags: ['autism', 'neurodiversity', 'profile', 'sensory issues', 'change']
 date: May 26, 2021, 4:11 PM
 image: /assets/blog/LeaveAutisticPeopleAsTheyAre.jpg
 thumbnail: /assets/blog/thumbnails/LeaveAutisticPeopleAsTheyAre.jpg

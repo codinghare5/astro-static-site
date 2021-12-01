@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/BlogPost.astro
 title: What is the difference between Autism and Aspergers?
-tags: ['autism', 'aspergers']
+tags: ['autism', 'aspergers', 'activist', 'sensory issues', 'symptoms', 'severe', 'mild']
 date: Sep 11, 2020, 12:52 PM
 image: /assets/blog/AutismVsAspergers.jpg
 thumbnail: /assets/blog/thumbnails/AutismVsAspergers.jpg

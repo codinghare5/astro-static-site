@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/BlogPost.astro
 title: Resources for Autistic Employees and their Employers - Access to Work
-tags: ['autism', 'neurodiversity', 'profile']
+tags: ['autism', 'neurodiversity', 'profile', 'resources', 'covid', 'networking', 'emotion', 'social media', 'meetings', 'reasonable adjustments']
 date: Jul 24, 2020, 1:03 PM
 image: /assets/blog/ATWBlog.jpg
 thumbnail: /assets/blog/thumbnails/ATWBlog.jpg
@@ -10,7 +10,7 @@ metaDescription: Aspiedent outlines that employees can get support with autism  
 author: [Jen Blacow]
 authorImage: [jen]
 description: Access to Work is  DWP’s best kept secret. You can get a grant for equipment and support at work if you have autism or aspergers. Read on for more.
-segments: [education, employers, diagnosis, careers]
+segments: [employers, careers]
 creditURL: https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2198961
 creditText: Image by Gerd Altmann
 ---

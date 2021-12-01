@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/BlogPost.astro
 title: Autism in small companies
-tags: ['autism', 'neurodiversity', 'profile']
+tags: ['autism', 'neurodiversity', 'profile', 'change']
 date: Sep 18, 2020, 1:38 PM
 image: /assets/blog/AutismSmallCompanies.png
 thumbnail: /assets/blog/thumbnails/AutismSmallCompanies.jpg

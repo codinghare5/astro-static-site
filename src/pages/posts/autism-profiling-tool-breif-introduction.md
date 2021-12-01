@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/BlogPost.astro
 title: Autism Profiling Tool - An Introduction
-tags: ['autism', 'neurodiversity', 'profile']
+tags: ['autism', 'neurodiversity', 'profile', 'processing issues', 'sensory issues', 'change', 'symptoms', 'executive functioning']
 date: Jun 21, 2021, 11:17 AM
 image: /assets/blog/AutismProfilingDiagram.png
 thumbnail: /assets/blog/thumbnails/AutismProfilingDiagram.jpg
