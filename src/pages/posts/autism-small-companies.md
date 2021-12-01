@@ -5,14 +5,14 @@ tags: ['autism', 'neurodiversity', 'profile']
 date: Sep 18, 2020, 1:38 PM
 image: /assets/blog/AutismSmallCompanies.png
 thumbnail: /assets/blog/thumbnails/AutismSmallCompanies.jpg
-metaTitle: SEO Meta Title Goes Here
-metaDescription: SEO meta description goes here.
+metaTitle: Can small business benefit from having employees with autism?
+metaDescription: This blog provides a truthful exploration of the benefits that small business might get from hiring employees with autism, and the resources they may need to be successful at doing so.
 author: [Jen Blacow]
 authorImage: [jen]
 description: Is it a good idea to employ people with autism when you run a small business? This blog provides a truthful exploration of this topic. This includes a discussion of the benefits of hiring autistic people and the resources you may need to have to employ autistic people successfully. 
 segments: [education, employers, diagnosis, careers]
-creditURL: https://pixabay.com
-creditText: Sergiey Validoff
+creditURL: https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2198961
+creditText: Image by Gerd Altmann
 ---
 ### **The Success-Factor. Would autistic employees make a small company more successful?**
 
@@ -59,7 +59,7 @@ The difference with big companies and small companies, is that small companies a
 
 As it happens, those autistic people, who do not struggle particularly with change, and who really like challenges, will get right on board with a business pivot or unexpected task. These autistic people might just need just a little more support so that they fully understand what is going on and what is expected of them (basically, they will need to be managed well).
 
-Another great benefit of employing neurodiverse people is that some autistic individuals can see ways of significantly improving systems and processes in businesses that others cannot see. I think Aniela Tallentire from my weekly networking group who owns Tallentire Consultancy, and helps businesses grow, by introducing new systems and processes to drive efficiencies and best practice,  would agree with how important good systems, processes and positive work cultures are to business success!
+Another great benefit of employing neurodiverse people is that some autistic individuals can see ways of significantly improving systems and processes in businesses that others cannot see. I think Aniela Tallentire from my weekly networking group who owns [Tallentire Consultancy](https://tallentireconsultancy.com/), and helps businesses grow, by introducing new systems and processes to drive efficiencies and best practice,  would agree with how important good systems, processes and positive work cultures are to business success!
 
 But that said, some autistic people just may not be flexible enough to take on different roles at different times. So you will need help in finding the right person if you have a small business which needs people to regularly ‘change hats’, so to speak.
 
@@ -71,18 +71,20 @@ Lastly, in order to be fully informed as to whether your small business would be
 
 #### **Things to seriously consider, coming from a business, which is run by an autistic person who employs autistic people, who is an expert in autism and who specialises in providing autism training to other employers…**
 **Time**: Some autistic employees can take up more management time with questions through anxiety and fear of doing something wrong. This can be more of a problem during times of change. Some autistic employees will need help with things such as time management and prioritisation of tasks. Of course, there are autistic people who need less management time than others. There are those who just take instructions and then get on with the work.
-As a small business owner, can you invest a bit more time in such a person than you would an ‘average’ employee?
+*As a small business owner, can you invest a bit more time in such a person than you would an ‘average’ employee?*
 
 **Training**: Autistic employees can be pedantic and point out small errors that are of no consequence. It may not be feasible for other employees to go along with this, which will cause distress for all concerned. This may have to be carefully managed. Autistic people can also inadvertently cause offense. Some people find the honesty and bluntness of autistic people refreshing; others find it offensive.
 
-If you and your team are open to autism training to understand the autistic person, are patient and are not too sensitive, this can be managed well.
+*If you and your team are open to autism training to understand the autistic person, are patient and are not too sensitive, this can be managed well.*
 
 **Trust**: It may be that an otherwise valuable autistic sales employee finds the train commute to work so stressful due to their oversensitivity to movement, smells, and noise, that it negatively impacts on their performance. Allowing this member of staff to work from home when they are feeling particularly sensitive, and trusting them to fulfil their duties by selling online on those days (for example) could make a huge difference to their wellbeing and therefore their work performance. Ultimately, they make you more money.
 
-It may be necessary to be a bit more flexible and trusting with autistic staff and less focused on the ‘way we do things around here’. What may seem an abnormal solution to an issue may well end up a brilliant idea that you can adopt for all staff.
+*It may be necessary to be a bit more flexible and trusting with autistic staff and less focused on the ‘way we do things around here’. What may seem an abnormal solution to an issue may well end up a brilliant idea that you can adopt for all staff.*
 
 **Tolerance**: Those diagnosed with autism in childhood who have had support through school will need support to adjust to the working environment and become independent workers.  They will need work coaches and mentors. ATW may fund a work coach for a limited time. Autistic employees, especially younger ones, may not understand the ‘rules’ of the workplace and these should be explained in detail at the start. This can include what is and is not allowed regarding use of computers and phones. For example, boundaries between work use and personal use. But watch out, they might apply the rules too rigidly and report people who appear to be breaking them! Furthermore, some will need encouragement to do tasks that they find boring, with some needing a certain amount of ‘job carving’ to be successful in their role. This would require flexibility in job descriptions, and tolerance from other staff. 
 
-A certain amount of leniency and tolerance while an autistic person adjusts to the workplace may be required on behalf of managers and other staff.
+*A certain amount of leniency and tolerance while an autistic person adjusts to the workplace may be required on behalf of managers and other staff.*
 
 In summary, employing the right autistic person with a good fit to their role can be rewarding for the business, the manager, and the employee. An added bonus side effect of this is that the staff team will develop more tolerance of difference, a greater understanding of autism and in turn a greater understanding of themselves. The business will also be contributing to the autistic persons feelings of self-worth and self-esteem and feeling that they are contributing to society.
+
+**Get in touch now if you would like to know more about Aspiedent and our work around autism and employment. Email us at info@aspiedent.com, call us on 07717 404846 or [use this contact form](/contact).**

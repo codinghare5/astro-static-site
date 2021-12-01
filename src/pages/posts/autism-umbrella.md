@@ -5,82 +5,15 @@ tags: ['autism', 'neurodiversity', 'profile']
 date: Sep 2, 2020, 1:08 PM
 image: /assets/blog/AutismIsAnUmbrellaTerm.jpg
 thumbnail: /assets/blog/thumbnails/AutismIsAnUmbrellaTerm.jpg
-metaTitle: SEO Meta Title Goes Here
-metaDescription: SEO meta description goes here.
+metaTitle: What is autism? An insightful blog post by Aspiedent Autism Training & Consultancy which includes a discussion about what causes autism.
+metaDescription: This blog discusses the answer to the common question ‘what is autism?’ and begins to get underneath the debate about what causes autism. Autism is just not something that can be defined easily. Autism is an umbrella term for a whole range of different underlying difficulties, unified by a set of common symptoms.
 author: [Jen Blacow]
 authorImage: [jen]
 description: What is Autism? This is a question that is asked a lot and it is a perfectly good question. But actually, Autism is just not something that can be defined easily. Autism is an umbrella term for a whole range of different underlying difficulties, unified by a set of common symptoms.
 segments: [education, employers, diagnosis, careers]
-creditURL: https://pixabay.com
-creditText: Sergiey Validoff
+creditURL: https://pixabay.com/users/Fun_loving_Cindy-4982079/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3380192
+creditText: Image by Heejin Jeong
 ---
-Autism is an umbrella term for a myriad of different underlying
-difficulties unified by a set of common symptoms. The symptoms primarily
-include difficulties with social interaction, difficulties with
-communication, and difficulties making and maintaining friendships with
-other people.
-
-Along with these symptoms you have to have a number of other
-difficulties that fall under the umbrella of Restricted and Repetitive
-Interests and Behaviour. These include sensory issues, difficulties with
-change and rigid thinking, stereotypical behaviours such as hand
-flapping, and very strong interests which exclude other activities.
-
-It turns out that if you have these other difficulties sufficiently
-severely then the main symptoms will be met.
-
-The difficulties that underpin autism relate to something that has 'gone
-wrong' with the development of the brain. We have to use the term 'gone
-wrong' with caution. Many autism activists claim that there is nothing
-wrong with them and that they are just different.
-
-In many cases they are right. They enjoy their world and find the lack
-of acceptance in society a problem. Other autistic people are frustrated
-by their autism and to them it is a problem -- although sometimes as
-well as the difficulties there are 'differences' that
-
-Confused? Well you are not alone.
-
-Everyone who works with autism recognises that each person's autism is
-different. But when it comes to researching autism, there is a strange
-assumption that autism is a homogeneous condition with a single
-underlying cause. This fits the notion that autism ranges from mild to
-severe. So there are a number of competing theories as to what cause
-autism such as:
-
--   **Sensory issues**, which significantly affect how somebody relates
-    to the world. This includes senses that are too sensitive or not
-    sensitive enough. So for example one person might not be able to
-    stand background noise, while another person needs it. Or someone
-    might not be able to separate out a conversation from background
-    noise. Some autistic people have quite esoteric sensory experiences
-    such as experiencing a sequence of numbers as a colourful landscape
-    or experiencing the world as no more than patterns of colour and
-    shape.
-
--   **Weak central coherence** which refers to
-
--   Executive functioning
-
--   Theory of mind
-
--   Monotropism
-
--   Processing issues
-
-With the exception of Theory of Mind, which is probably best labelled as
-a symptom rather than a cause all are correct -- and all are wrong.
-
-All are correct because each describes the underlying cause for some
-autistic people. All are wrong because none describe the underlying
-cause of all autistic people. Many autistic people have several of these
-difficulties.
-
-At Aspiedent we work out which underlying difficulties cause an
-individual's autistic symptoms. We cut through the confusion to describe
-each individual's autism and make specific recommendations that are
-specifically tailored to their autism.
-
 I am so confused! What actually IS autism?
 ==========================================
 
@@ -88,7 +21,7 @@ I get asked this question all the time. And it is a perfectly good
 question. But actually, Autism is just not something that can be defined
 easily.
 
-**Autism is an 'Umbrella Term' **
+**Autism is an 'Umbrella Term'**
 
 Autism is an umbrella term for a whole range of different underlying
 difficulties, unified by a set of common symptoms. The symptoms mainly
@@ -139,8 +72,7 @@ SINGLE condition with a SINGLE underlying cause.
 This means that there is a belief that the label 'autism' fits into the
 notion that autism simply ranges from mild autism to severe autism.
 
-**Coincidentally, there are several competing theories as to the
-*causes* of autism. Briefly:**
+**Coincidentally, there are several competing theories as to the *causes* of autism. Briefly:**
 
 **Sensory issues** which significantly affect how somebody relates to
 the world. This includes senses that are too sensitive or not sensitive
@@ -181,7 +113,7 @@ as a symptom rather than a cause -- it is correct that all the above are
 valid explanations of somebody's autism, but also all are not!
 
 **Correct,** because each describes the underlying causes of autism for
-**some autistic people. **
+**some autistic people.**
 
 **Incorrect,** because none describe the underlying cause of autism for
 **all autistic people**.
@@ -201,6 +133,4 @@ individual's autistic symptoms. We cut through the confusion to describe
 each individual's autism and make specific recommendations that are
 specifically tailored to their autism.
 
-If you have any questions or would like to get in touch, we would love
-to hear from you. Call us on 07717 404846, e-mail us at
-<info@aspiedent.com> or visit us at www.aspiedent.com
+**If you have any questions or would like to get in touch, we would love to hear from you. Call us on 07717 404846, e-mail us at <info@aspiedent.com> or visit us at www.aspiedent.com**

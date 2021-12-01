@@ -5,100 +5,16 @@ tags: ['autism', 'neurodiversity', 'profile']
 date: Sep 30, 2020, 7:06 PM
 image: /assets/blog/ITAutismImage.jpg
 thumbnail: /assets/blog/thumbnails/ITAutismImage.jpg
-metaTitle: SEO Meta Title Goes Here
-metaDescription: SEO meta description goes here.
+metaTitle: Why are autistic people often considered good at IT? Is it true? Aspiedent explains
+metaDescription: Autistic people are often stereotyped as being good at IT. But why are autistic people often considered good at IT and is it always true? Aspiedent explains.
 author: [Jen Blacow]
 authorImage: [jen]
 description: Are autistic people naturally good at IT? Here is a non-stereotypical discussion of the subject.
 segments: [education, employers, diagnosis, careers]
-creditURL: https://pixabay.com
-creditText: Sergiey Validoff
+creditURL: https://pixabay.com/users/markusspiske-670330/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1486361
+creditText: Image by Markus Spiske
 ---
-Autistic people are good at IT? Really?
-
-There is a well-known stereotype that autistic people are good at IT --
-to the point where many autistic people are steered towards jobs in IT.
-
-It is certainly the case that there are many people with autistic traits
-who work in IT and from talking to managers at IT companies there
-appears that there might be a fair number of undiagnosed autistic people
-who work in IT -- especially among the older members of the workforce
-(those over 40).
-
-Why has this stereotype arisen? Well many autistic people do have traits
-that make them suited to IT
-
--   Many autistic people find computers easier to engage with than
-    people. Computers are predictable. You give them the same input and
-    you always get the same answer. The interaction with computers is
-    simple, structured, logical, and predictable. We recognise that it
-    for precisely these reasons that much of the general population
-    struggles to do IT.
-
--   Many autistic people are good at recognising patterns
-
--   Many autistic people have good attention to detail. In fact, a
-    common trait among autistic people that appears rare in the general
-    population is the ability to handle detail and the bigger picture at
-    the same time. This is a very useful trait for many jobs in IT.
-
--   Many autistic people are good at logical thinking -- and this
-    extremely useful for jobs in IT.
-
--   Logical problem solving skills are extremely useful in IT -- and
-    again this skill appears to be more prevalent in autism than in the
-    general population.
-
--   We strongly suspect the IT sector already has a fair proportion of
-    autistic people working in it happily -- which naturally makes it a
-    more inclusive place, so expectations such as wearing suits for work
-    or doing business networking might be unanimouslyt ignored by your
-    employer and colleagues alike!
-
-Computers may also be more inviting to autistic people than other people
-due to the social struggles associated with autism:
-
--   Computers don't expect you to do social chit chat, and unless they
-    are broken, they usually do exactly what you tell them (not to be
-    mistaken with what you thought you told them).
-
--   Computers don't judge. They treat everyone equally regardless of how
-    you interact with them
-
--   Jobs involving computers are often more flexible and can be done
-    remotely -- making it easier for the autistic person to manage their
-    environment so it suits them.
-
-But it is a myth that all autistic people are good at IT. Some autistic
-people hate IT and are just as baffled by it as the general population.
-A few think they are good at it, but aren't. But this is because they
-are so isolated that they are not able to compare their skills with that
-of others. Some of these enjoy working with apps -- because they are
-predictable.
-
-The interests, aptitudes and skills of the autistic population are just
-as wide ranging as in the general population. Last week we looked at
-sales. There are autistic stand up comedians, artists, authors of books
-of fiction, tour guides. In fact there is no reason why an autistic
-person should not be able to excel in any area. The problem can be in
-helping them to find the right niche where they can be successful.
-
-**Image Credit:** Image by [Markus
-Spiske](https://pixabay.com/users/markusspiske-670330/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1486361) from [Pixabay](https://pixabay.com/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1486361) 
-
-**Thumbnail Title:** Are Autistic people good at IT?
-
-**Thumbnail description:** Are autistic people naturally good at IT?
-Here is a non-stereotypical discussion of the subject.
-
-**SEO Title:** Why are autistic people often considered good at IT? Is
-it true? Aspiedent explains
-
-**SEO Description:** Autistic people are often stereotyped as being good
-at IT. But why are autistic people often considered good at IT and is it
-always true? Aspiedent explains.
-
-**Autistic people are good at IT? Really?**
+## Autistic people are good at IT? Really?
 
 There is a well-known stereotype that autistic people are good at IT --
 to the point where many autistic people are steered towards jobs in IT.
@@ -189,4 +105,4 @@ can be successful. Aspiedent can help autistic people figure that out.
 
 If you would like to consult the experts and know more about autism
 (either your own or somebody else's), please contact Jen from Aspiedent
-at j.blacow\@aspiedent.com.
+at <j.blacow@aspiedent.com>.

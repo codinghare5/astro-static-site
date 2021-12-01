@@ -5,37 +5,15 @@ tags: ['autism', 'neurodiversity', 'profile']
 date: Apr 13, 2021, 2:17 PM
 image: /assets/blog/DoesNotGetIt.jpg
 thumbnail: /assets/blog/thumbnails/DoesNotGetIt.jpg
-metaTitle: SEO Meta Title Goes Here
-metaDescription: SEO meta description goes here.
+metaTitle: This blog provides examples of disruption due to autism in the workplace and some simple solutions.
+metaDescription: Autistic people can be extremely valuable employees. However, due to lack of understanding on both sides, autism at work can cause disruption. This blog post provides examples of disruption due to autism in the workplace and some simple solutions.
 author: [Jen Blacow]
 authorImage: [jen]
 description: Autistic people can be extremely valuable employees. However, due to lack of understanding on both sides, autism at work can cause disruption. This blog post provides examples of disruption due to autism in the workplace and some simple solutions.
 segments: [education, employers, diagnosis, careers]
-creditURL: https://pixabay.com
-creditText: Sergiey Validoff
+creditURL: https://pixabay.com/users/magnascan-653134/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=580333
+creditText: Image by Magnascan
 ---
-**Thumbnail image:** DoesNotGetIt
-
-**Image credit:** Image
-by [Magnascan](https://pixabay.com/users/magnascan-653134/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=580333) from [Pixabay](https://pixabay.com/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=580333)
-
-**Thumbnail title:** Autistic Employees: Why don't they get it?
-
-**Thumbnail description:** Autistic people can be extremely valuable
-employees. However, due to lack of understanding on both sides, autism
-at work can cause disruption. This blog provides examples of disruption
-due to autism in the workplace and some simple solutions.
-
-**SEO (Meta) Title**: Six examples of how autism at work can be
-disruptive and some potential solutions.
-
-**SEO (Meta) Description:** This blog provides examples of disruption
-due to autism in the workplace and some simple solutions.
-
-**Title:** Autistic Employees: Why don't they get it?
-
-**Autistic Employees: Why don't they get it? Is it not obvious?**
-
 Autistic people can be extremely valuable employees. But sometimes their
 autism can cause some unhelpful or disruptive situations for both them
 and other staff. Here are six ways that autism at work can be disruptive
@@ -103,7 +81,7 @@ students might not be picked up. Relationships between fellow students
 tend to be less 'professional' than relationships fellow employees, but
 not always.
 
-4.  **(In) appropriate Behaviour **
+4.  **(In) appropriate Behaviour**
 
 Autistic people can present with a lack of understanding of context in
 terms of boundaries at work.
@@ -198,8 +176,7 @@ Ultimately, Autistic people have to work harder not to act in
 prospects, so it is only fair they be given clear guidance on this, if
 needed. What is obvious to others may need to be pointed out to them.
 
-**How can we minimise disruption and get the most value out of autistic
-employees? **
+**How can we minimise disruption and get the most value out of autistic employees?**
 
 To get the best out of an employee who may present with these
 difficulties, it is
@@ -216,10 +193,6 @@ difficulties, it is
 4.  Do not be afraid to explain clearly what behaviour is acceptable and
     not in which context. They will probably actually thank you for it!
 
-**For website: **If you need some confidential advice about anything
-discussed above? [Contact us](contactus form) to see
+If you need some confidential advice about anything
+discussed above? **[Contact us](/contact)** to see
 if we can help.
-
-**For LinkedIn**: If you need some confidential advice about anything
-discussed above, contact me on <j.blacow@aspiedent.com> or on 07717
-404846 to see if we can help

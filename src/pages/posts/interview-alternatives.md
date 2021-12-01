@@ -11,8 +11,8 @@ author: [Jen Blacow]
 authorImage: [jen]
 description: We discuss how interviews disadvantage some otherwise brilliant workers including autistic ones. It highlights there are more logical and effective ways to ensure the right person is recruited for a role.
 segments: [education, employers, diagnosis, careers]
-creditURL: https://pixabay.com
-creditText: Image by Gerd Altmann from Pixabay
+creditURL: https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2198961
+creditText: Image by Gerd Altmann
 ---
 The key problem many autistic people have in finding a job is poor
 interview skills. But are we recruiting for someone who can do the job,

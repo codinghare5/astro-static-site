@@ -5,38 +5,15 @@ tags: ['autism', 'neurodiversity', 'profile']
 date: Apr 28, 2021, 10:52 AM
 image: /assets/blog/DoesNotFitIn.jpg
 thumbnail: /assets/blog/thumbnails/DoesNotFitIn.jpg
-metaTitle: SEO Meta Title Goes Here
-metaDescription: SEO meta description goes here.
+metaTitle: Employee not fitting in? Neurodiversity at work
+metaDescription: Examples of when neurodiversity might be an issue for employers and when reach out to Aspiedent when it seems an employee is not a good fit.
 author: [Jen Blacow]
 authorImage: [jen]
 description: We are often asked by networking contacts how they can best help Aspiedent help others. It can be as simple as listening out for complaints that an employee is not a good fit within a team, and suggesting the employer have an informal and confidential chat with us.
 segments: [education, employers, diagnosis, careers]
-creditURL: https://pixabay.com
-creditText: Sergiey Validoff
+creditURL: https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=5582454
+creditText: Image by Gerd Altmann
 ---
-**Thumbnail image:** DoesntFitIn
-
-**Image credit:** Image by [Gerd
-Altmann](https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=5582454) from [Pixabay](https://pixabay.com/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=5582454) 
-
-**Thumbnail title:** Employee not fitting in? Think Neurodiversity.
-
-**Thumbnail description:** We are often asked by networking contacts how
-they can best help Aspiedent help others. It can be as simple as
-listening out for complaints that an employee is not a good fit within a
-team, and suggesting the employer have an informal and confidential chat
-with us.
-
-**SEO (Meta) Title**: Employee not fitting in? Neurodiversity at work
-
-**SEO (Meta) Description:** Examples of when neurodiversity might be an
-issue for employers and when reach out to Aspiedent when it seems an
-employee is not a good fit.
-
-**Title:** Employee not fitting in? Think Neurodiversity.
-
-Doesn't fit in
-
 I am often asked by business networking contacts what they should keep
 in mind when talking to others about Aspiedent. This is so that they can
 identify a situation we can help with or a person we can help, and know
@@ -51,8 +28,7 @@ see if Aspiedent can help somebody.
 One example of this is when somebody complains that a colleague gets on
 their nerves, or struggles to fit in.
 
-**Why think about Aspiedent when hearing complaints of somebody not
-fitting into a team?**
+**Why think about Aspiedent when hearing complaints of somebody not fitting into a team?**
 
 We define neurodiversity as 'thinking and perceiving the world in a
 different way to what is considered to be the norm -- or which goes
@@ -115,7 +91,7 @@ social norms within a company, such as an expectation to walk on
 eggshells around a boss! It could also help *all* employees be clear on
 what is and is not expected of them. We are all diverse.
 
-**Apparent Ignorance **
+**Apparent Ignorance**
 
 What comes up sometimes in the workplace is the issue of apparent lack
 of respect on behalf of an employee. This is usually a result of the
@@ -158,7 +134,4 @@ they are dealing with, reach out to me. It may not be an issue that can
 be explained by neurodiversity and therefore fixed by Aspiedent, but
 there is no harm in simply considering whether it could be.
 
-**For LinkedIn:** You can contact me (Jen)
-on <j.blacow@aspiedent.com> or 07717 404846.
-
-**For website:** Contact us for a chat.
+**[Contact us](/contact)** for a chat.

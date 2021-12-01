@@ -5,16 +5,16 @@ tags: ['autism', 'neurodiversity', 'profile']
 date: Aug 14, 2020, 2:57 PM
 image: /assets/blog/Adjustments.jpg
 thumbnail: /assets/blog/thumbnails/Adjustments.jpg
-metaTitle: SEO Meta Title Goes Here
-metaDescription: SEO meta description goes here.
+metaTitle: Autism Reasonable Adjustments at work - Helpful Insights from Aspiedent
+metaDescription: Some helpful insights from Aspiedent regarding autism reasonable adjustments at work.
 author: [Jen Blacow]
 authorImage: [jen]
 description: There are written resources for employers who manage somebody with autism. Here we explore reasonable adjustments at work and explain some common misunderstandings.
 segments: [education, employers, diagnosis, careers]
-creditURL: https://pixabay.com
-creditText: Sergiey Validoff
+creditURL: https://pixabay.com/users/topeasokere-17844366/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=5481108
+creditText: Image by Tope Asokere
 ---
-Sitting down to write this, I was going to start with the sentence.
+Sitting down to write this, I was going to start with the sentence:
 
 "*Despite any employers best intentions, 'Autism friendly' workplaces
 are not actually possible to achieve*"
@@ -35,7 +35,7 @@ But in the true sense of the phrase, it is actually impossible to have
 an 'autism-friendly' environment, especially in a working environment.
 
 Now Janine Booth, who is an autistic trade unionist, is likely to
-disagree. In section 7 of her [TUC document](link to some tuc document) which is
+disagree. In section 7 of her [TUC document](https://www.tuc.org.uk/sites/default/files/Autism.pdf) which is
 entitled 'Making Workplaces Autism Friendly', she provides a long list
 of 'reasonable adjustments' that can be made for autistic employees.
 
@@ -53,14 +53,13 @@ Asperger's syndrome. Here are two:
 
 ***Autism and Equality in the Workplace*** by Janine Booth &
 
-***An Employer's Guide to Managing Professionals on the Autism
-Spectrum*** by Marcia Scheiner
+***An Employer's Guide to Managing Professionals on the Autism Spectrum*** by Marcia Scheiner
 
 Both are quite insightful books, and certainly useful in different ways.
 But neither are perfect. But before returning to these, why is it not
 possible to have an autism friendly workplace?
 
-**'Autism-Friendly' = Impossible **
+**'Autism-Friendly' = Impossible**
 
 First and foremost, everybody with autism is different. It would be very
 possible to make a reasonable adjustment for somebody with autism that
@@ -75,7 +74,7 @@ But then you had another autistic member of staff who had a 'hypo'
 sensitivity to noise, which meant in order for them to even dream of
 concentrating at work, they needed noise stimuli from various places.
 
-**What would you do? **
+**What would you do?**
 
 Now a reasonable adjustment in this scenario, based on the content of
 Janine Booth's book, would be to adapt the workplace for the person with
@@ -94,7 +93,7 @@ And what about people without autism who might not be able to work in an
 environment of such extremes because they have a 'normal' level of
 sensitivity to noise?
 
-**Sensory Issues -- We all have them **
+**Sensory Issues -- We all have them**
 
 In fact, people who are not autistic can have problems with noise
 sensitivities (hyper and hypo). Autism does not have a monopoly on
@@ -171,6 +170,4 @@ just not be suited to the job.
 Needless to say, I have now changed my LinkedIn tagline to something a
 bit different!
 
-If you need some advice regarding reasonable adjustments in the
-workplace for autism or neurodiversity, please contact myself, Jen, on
-<j.blacow@aspiedent.com> or 07717 404846.
+**If you need some advice regarding reasonable adjustments in the workplace for autism or neurodiversity, please contact myself, Jen, on <j.blacow@aspiedent.com> or 07717 404846.**

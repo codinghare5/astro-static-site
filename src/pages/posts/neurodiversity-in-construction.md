@@ -5,40 +5,16 @@ tags: ['autism', 'neurodiversity', 'profile']
 date: May 10, 2021, 12:39 PM
 image: /assets/blog/NeurodiversityInConstruction.jpg
 thumbnail: /assets/blog/thumbnails/NeurodiversityInConstruction.jpg
-metaTitle: SEO Meta Title Goes Here
-metaDescription: SEO meta description goes here.
+metaTitle: Does the Construction Sector Deserve Neurodiverse People?
+metaDescription: Aspiedent discuss jobs in the construction industry  and why construction industry employers might find it beneficial and easier to embrace diversity and inclusion when it comes to autism, neurodiversity, and filling skills gaps.
 author: [Jen Blacow]
 authorImage: [jen]
 description: We found some open-mindedness about employing people with autism or neurodiversity to fill skills gaps or recruit for jobs available in the construction industry. Here we discuss our experiences.
 segments: [education, employers, diagnosis, careers]
-creditURL: https://pixabay.com
-creditText: Sergiey Validoff
+creditURL: https://pixabay.com/photos/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=768815
+creditText: Image by Free-Photos
 ---
-**Thumbnail image:** NeurodiversityInConstruction
-
-**Image credit:** Image
-by [Free-Photos](https://pixabay.com/photos/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=768815) from [Pixabay](https://pixabay.com/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=768815) 
-
-**Thumbnail title:** Does the Construction Sector Deserve Neurodiverse
-People?
-
-**Thumbnail description:** We found some open-mindedness about employing
-people with autism or neurodiversity to fill skills gaps or recruit for
-jobs available in the construction industry. Here we discuss our
-experiences.
-
-**SEO (Meta) Title**: Does the Construction Sector Deserve Neurodiverse
-People?
-
-**SEO (Meta) Description:** Aspiedent discuss jobs in the construction
-industry and why construction industry employers might find it
-beneficial and easier to embrace diversity and inclusion when it comes
-to autism, neurodiversity, and filling skills gaps.
-
-**Title:** Does the Construction Sector Deserve Neurodiverse People?
-
-**Does the Construction Sector Deserve Neurodiverse People?**
-
+### What about it?
 Aspiedent was once shown around a few building sites run by an
 exceptionally large construction company. It became apparent after
 meeting a few characters belonging to the senior management team, that
@@ -160,7 +136,7 @@ place a great deal of importance in doing a good job and take pride in
 their work, as they can be used to struggling in other areas of their
 life, for example socially or academically.
 
-**What's Important **
+**What's Important**
 
 It is important not to forget that it will not all be good, and like all
 sectors I am confident there are bad sides to it such as unhealthy
@@ -185,11 +161,6 @@ between employees within the construction sector. I would argue that a
 greater (real) understanding of neurodiversity would go a long way to
 getting this right.
 
-**For LinkedIn**: Do you have any thoughts on the construction industry,
-neurodiversity, or anything else discussed above? If so, please comment
-for discussion as I would love to hear your thoughts. Contact me on
-07717 404846 or on <j.blacow@aspiedent.com>, or comment on this post.
-
-**For website**: To discuss anything with us that has been touched upon
-in this blog, please contact us through our website, e-mail us at
-infoáspiedent.com or phone us on 07717 404846.
+To discuss anything with us that has been touched upon
+in this blog, please **[contact us](/contact)** through our website, e-mail us at
+**<j.blacow@aspiedent.com>** or phone us on 07717 404846.

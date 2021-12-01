@@ -5,32 +5,29 @@ tags: ['autism', 'neurodiversity', 'profile']
 date: Nov 19, 2020, 4:20 PM
 image: /assets/blog/MadBadDifficult.jpg
 thumbnail: /assets/blog/thumbnails/MadBadDifficult.jpg
-metaTitle: SEO Meta Title Goes Here
-metaDescription: SEO meta description goes here.
+metaTitle: Aspiedent discusses the reality of neurodiversity at work
+metaDescription: This blog post sheds light on the reality of autism in the workplace. If you want benefit of diversity of thinking, innovation, and creativity at work, then you may well have to deal with some HR challenges in return.
 author: [Jen Blacow]
 authorImage: [jen]
 description: This blog post sheds light on the reality of autism in the workplace. If you want benefit of diversity of thinking, innovation, and creativity at work, then you may well have to deal with some HR challenges in return.
 segments: [education, employers, diagnosis, careers]
-creditURL: https://pixabay.com
-creditText: Sergiey Validoff
+creditURL: https://pixabay.com/users/activedia-665768/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=769467
+creditText: Image by Okan Caliskan
 ---
 **Mad, Bad, Difficult?**
 
-*"Well, we all know what they are like, don't we? Quick to point out
-when we are wrong but cannot take criticism themselves!"*
+*"Well, we all know what they are like, don't we? Quick to point out when we are wrong but cannot take criticism themselves!"*
 
-*"You know how difficult she is. She has to have it her way, or it's no
-way"*
+*"You know how difficult she is. She has to have it her way, or it's no way"*
 
 *"He's a bit of an oddball, isn't he?"*
 
 These are just a few of the things you might hear people say about
-autistic people, especially at work**. **
+autistic people, especially at work.
 
 But let us consider these more closely:
 
-***"Well, we all know what they are like, don't we? Quick to point out
-when we are wrong, but cannot take criticism themselves!"***
+***"Well, we all know what they are like, don't we? Quick to point out when we are wrong, but cannot take criticism themselves!"***
 
 Just think, what if the person who is 'quick to judge' actually did not
 make judgements quickly. What if they spent the time, that others in the
@@ -44,8 +41,7 @@ was a result of a misunderstanding? And they would gladly accept
 criticism if it were genuine and the criticism giver had a legitimate
 and logical point.
 
-***"You know how difficult she is. She has to have it her way, or it's
-no way"***
+***"You know how difficult she is. She has to have it her way, or it's no way"***
 
 In this instance, what about if 'her way', was the logical way. What if
 she had difficulty understanding the confusing and complex
@@ -53,8 +49,7 @@ socio-political reasons behind why particular decisions were made,
 because of her extremely logical brain? And it was not just a case of
 wanting it 'her way'?
 
-***"He's a bit of an oddball, isn't he? He proper freaks me out when he
-stares!"***
+***"He's a bit of an oddball, isn't he? He proper freaks me out when he stares!"***
 
 Maybe he wears coloured glasses because he is hypersensitive to bright
 lights in the office. Maybe he eats the same weird thing every day in
@@ -71,8 +66,7 @@ over or under confidence.
 
 This also can cause real problems in employment.
 
-**Essentially what can happen, is that the very qualities for which they
-are employed, are precisely what is causing the problem. **
+**Essentially what can happen, is that the very qualities for which they are employed, are precisely what is causing the problem.**
 
 For example, think about the person described above, who is ostracised
 for their 'criticisms' of other people's ideas.
@@ -144,51 +138,4 @@ the difficulties employers may encounter with managing autistic
 employees, along with the benefits that dealing with these difficulties
 could reap.
 
-**Ask (for LinkedIn)**
-
-If you want to know more about anything in this blog, or to run
-something past us regarding autism in the workplace, please contact me.
-You can message me here on linked in, email me on
-<j.blacow@aspiedent.com> or call me on 07717 404846.
-
-**Ask (for Website)**
-
-If you want to know more about anything in this blog, or to run
-something past us regarding autism in the workplace, please [contact
-us](contact us form)
-
--   Autistic people grow being told they are mad, bad, difficult -- and
-    sometimes stupid as well.
-
--   This reduces confidence, gives baggage: defence mechanism
-
-    -   Some appear over confidence
-
-    -   Others unconfident
-
--   This can problems in employment -- labels of mad, bad difficult
-    continue.
-
-Essentially what is happening is that the very qualities for which they
-are employed to provide diversity of thinking and innovation, creativity
-or alternative rigid adherence to a process or boring repetitive work
-
-It is the underlying issues behind autistic symptoms that you need to
-understand and accommodate.
-
-Are precisely what is causing the problem.
-
-People are banging on about how autistic people are brilliant. Racket.
-Confusing, not helping the cause.
-
-If you want a homogenous workforce then don't employ neurodiverse
-people. But you will encounter all the problems of 'group think'.
-
-Want to stand out then you will have to accommodate difference (and
-understand) neurodiversity.
-
-It is the underlying issues behind autistic symptoms that you need to
-understand and accommodate.
-
-This is the introduction to a series of blogs on the difficulties
-employers may encounter with managing autistic employees.
+**If you want to know more about anything in this blog, or to run something past us regarding autism in the workplace, please [contact us](/contact).**

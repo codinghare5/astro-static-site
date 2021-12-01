@@ -5,46 +5,22 @@ tags: ['autism', 'neurodiversity', 'profile']
 date: Dec 3, 2020, 1:01 PM
 image: /assets/blog/DoesHeCare.jpg
 thumbnail: /assets/blog/thumbnails/DoesHeCare.jpg
-metaTitle: SEO Meta Title Goes Here
-metaDescription: SEO meta description goes here.
+metaTitle: Aspiedent discusses autism in relation to employee behaviour and misunderstandings.
+metaDescription: In this blog post Aspiedent discusses autism in relation to employee behaviour and workplace conflict. Teamwork  easier when members understand the underlying reasons for other's behaviours and actions.
 author: [Jen Blacow]
 authorImage: [jen]
 description: This blog post highlights how easily it can be to misunderstand an autistic colleagues’ actions, behaviours, and motives. It can be far more useful and less unpleasant to investigate the underlying reasons for employee behaviour, before jumping to certain conclusions about their intentions!
 segments: [education, employers, diagnosis, careers]
-creditURL: https://pixabay.com
-creditText: Sergiey Validoff
+creditURL: https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3233653
+creditText: Image by Gerd Altmann
 ---
-**Thumbnail image:** DoesHeCare
-
-**Image credit: **
-
-**Thumbnail title:** Does my employee even care?
-
-**Thumbnail description:** This blog post highlights how easily it can
-be to misunderstand an autistic colleagues' actions, behaviours, and
-motives. It can be far more useful and less unpleasant to investigate
-the underlying reasons for employee behaviour, before jumping to certain
-conclusions about their intentions!
-
-**SEO (Meta) Title**: Aspiedent discusses autism in relation to employee
-behaviour and misunderstandings.
-
-**SEO (Meta) Description:** In this blog post Aspiedent discusses autism
-in relation to employee behaviour and workplace conflict. Teamwork is
-easier when members understand the underlying reasons for other's
-behaviours and actions.
-
-**Title:** Does my employee even care?
-
-Does my employee even care?
-
 It is a rather sad fact that the things that most people value when it
 comes to building good working relationships, are the very things that
 autistic people often lack. Particularly, an inability to demonstrate
 empathy like other people. Note that this does not mean that autistic
 people lack empathy: they just don't know how to show that they care.
 
-**Example 1: Andrew **
+**Example 1: Andrew**
 
 Most of us have heard the phrase 'look at me when I am talking to you'.
 Many people think that being able to look people in the eye is a sign of
@@ -148,8 +124,4 @@ their own interest and not others, perhaps give us a call before
 assuming that the person simply lacks empathy for others (though it may
 be the case that there is no empathy and the person is not autistic).
 
-**For LinkedIn:** You can contact us at <info@aspiedent.com>, or on
-07717 404846 for advice.
-
-**For website:** You can [contact us here](contact us
-form) or call 07717 404846 for advice.
+**[Contact us](/contact)** or call 07717 404846 for advice.

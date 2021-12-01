@@ -5,14 +5,14 @@ tags: ['autism', 'neurodiversity', 'profile']
 date: Aug 7, 2020, 1:23 PM
 image: /assets/blog/WorkplaceAssessmentBlog.png
 thumbnail: /assets/blog/thumbnails/WorkplaceAssessmentBlog.jpg
-metaTitle: SEO Meta Title Goes Here
-metaDescription: SEO meta description goes here.
+metaTitle: Key things to know when looking for help with autism at work. 
+metaDescription: This blog post explains why autism at work support is more effective if chosen carefully, and how to ensure that you choose well. Occupational Health services are not always the best solution when it comes to autism in the workplace.
 author: [Jen Blacow]
 authorImage: [jen]
 description: What are the important differences between Occupational Health Assessments and Autism Workplace Assessments? How do you know which company to choose to undertake an Autism Workplace Assessment? Here is some guidance.
 segments: [education, employers, diagnosis, careers]
-creditURL: https://pixabay.com
-creditText: Sergiey Validoff
+creditURL: https://pixabay.com/users/mohamed_hassan-5229782/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3643025
+creditText: Image by Mohamed Hassan
 ---
 Recently, a high-performing autistic employee contacted me in desperate
 need of workplace support that catered specifically for her autism.
@@ -68,8 +68,7 @@ company would be also paying for), was not useful. What a waste of
 precious time and money!
 
 Why is it a waste of money? Well, let us look at some differences
-between Occupation Health Assessments and for example, an **Aspiedent
-Autism Workplace Assessment**.
+between Occupation Health Assessments and for example, an **Aspiedent Autism Workplace Assessment**.
 
 **Occupational Health Assessments**
 
@@ -145,9 +144,7 @@ panacea: we often recommend other simpler solutions, depending on the
 situation. Sometimes these solutions are then rolled out across the
 organisation and they help everybody!
 
-So to conclude, **what should you consider when choosing which
-organisation to choose to do a Workplace Assessment that will be of
-value?** What questions should you be asking? Well, here are three.
+So to conclude, **what should you consider when choosing which organisation to choose to do a Workplace Assessment that will be of value?** What questions should you be asking? Well, here are three.
 
 1.  Does the assessor first establish the particular underlying autistic
     or neurodiverse difficulties of the particular employee?

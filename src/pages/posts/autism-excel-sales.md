@@ -5,14 +5,14 @@ tags: ['autism', 'neurodiversity', 'profile']
 date: Sep 25, 2020, 12:54 PM
 image: /assets/blog/AutismSales.jpg
 thumbnail: /assets/blog/thumbnails/AutismSales.jpg
-metaTitle: SEO Meta Title Goes Here
-metaDescription: SEO meta description goes here.
+metaTitle: Autistic employees can make good salespeople!
+metaDescription: Some autistic employees can make extremely good salespeople. Find out why in this article.
 author: [Jen Blacow]
 authorImage: [jen]
 description: Contrary to popular belief, some autistic people can be excellent at selling. This blog explores the how and why around this. 
 segments: [education, employers, diagnosis, careers]
-creditURL: https://pixabay.com
-creditText: Sergiey Validoff
+creditURL: https://pixabay.com/users/Prawny-162579/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2055660
+creditText: Image by Prawny
 ---
 ## **Autistic Salespeople - Why some autistic people can make businesses lots of money?**
 
@@ -72,6 +72,6 @@ Just like non autistic people, not all autistic people are suited to a career in
 
 We actually know of one such autistic man, who drove his mother to distraction during his early childhood - to the point where she nearly put him into care because she could not cope. Now, he is a millionaire salesperson…
 
-**Would you like to know how to attract a star salesperson into your team, while increasing your company diversity? If so, [get in touch with us now](contct form link).**
+**Would you like to know how to attract a star salesperson into your team, while increasing your company diversity? If so, [get in touch with us now](/contact).**
 
 Aspiedent is a not for profit autism and training & consultancy company helping employers to benefit from a better understanding of autism.

@@ -5,15 +5,16 @@ tags: ['autism', 'neurodiversity', 'profile']
 date: Nov 6, 2020, 5:17 PM
 image: /assets/blog/OnlineWPAProsAndCons.jpg
 thumbnail: /assets/blog/thumbnails/OnlineWPAProsAndCons.jpg
-metaTitle: SEO Meta Title Goes Here
-metaDescription: SEO meta description goes here.
+metaTitle: Aspiedent Online Autism Profiles and Workplace Assessments - Pros and Cons
+metaDescription: Aspiedent can now offer an Autism Profile service and Workplace Assessment service online. This blog post discusses the pros and cons of online Autism Profiles and Workplace Assessments.
 author: [Jen Blacow]
 authorImage: [jen]
 description: This blog post explores the pros and cons of online Autism Profiles and Workplace Assessments. There are benefits and disadvantages to doing an online Autism Profile or Workplace Assessment. 
 segments: [education, employers, diagnosis, careers]
-creditURL: https://pixabay.com
-creditText: Sergiey Validoff
+creditURL: https://pixabay.com/users/mohamed_hassan-5229782/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3643025
+creditText: Image by Mohamed Hassan
 ---
+## Online Autism Profiles and Workplace Assessments?
 We have recently been prompted to think more about how Aspiedent’s services have had to adapt to the current restrictions placed upon our working lives.
 
 In the old days, before that dystopian ‘new normal’ that is lockdown, we always did our workplace assessment for autistic employees face to face. Occasionally, the manager(s) could not be present, and we spoke to them via phone or by video link.
@@ -36,4 +37,7 @@ Well we can think of a few:
 2. Not having to travel to a workplace means that we are less constrained in locations where we do workplace assessment. We operate in the Leeds/Bradford area and thus can cover a significant area of the county with ease. But no travel means that we can cover the whole of the UK and potentially do workplace assessments outside the UK as well – potentially the whole world.
 3. Some autistic people prefer to talk to people over a video link. It can reduce the overload of speaking face to face and can make it easier to speak to strangers. This is an aspect of lockdown that has made life easier for some autistic people. When everyone is forced to communicate via video link, it opens up opportunities for them that were not available before. Perhaps when/if we can have a normal life again, it will become more reasonable to make such an adjustment for people.
 4. We have the potential to be able to record the workplace assessment more easily. This means that we can review parts of the assessment if necessary, if it turns out that we did not quite understand – or we cannot make sense of our notes.
+
 Perhaps in the future we will be able to offer people who are within travelling distance of the Leeds/Bradford area a choice of face to face or remote assessments, while being able to offer our services potentially across the world.
+
+**If you need an Autism Profile Service or an Autism Workplace Assessment for yourself or a colleague, please [get in touch](/contact) for more information about how we can help you.**

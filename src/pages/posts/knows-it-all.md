@@ -5,36 +5,15 @@ tags: ['autism', 'neurodiversity', 'profile']
 date: Apr 21, 2021, 3:29 PM
 image: /assets/blog/KnowsItAll.jpg
 thumbnail: /assets/blog/thumbnails/KnowsItAll.jpg
-metaTitle: SEO Meta Title Goes Here
-metaDescription: SEO meta description goes here.
+metaTitle: Employee with autism seems not to accept authority? What is really going on. 
+metaDescription: This blog post from Aspiedent explores what might be going on when an autistic employee appears to struggle to accept authority.
 author: [Jen Blacow]
 authorImage: [jen]
 description: Some employers feel they have an autistic employee who struggles to accept authority. This got us thinking about why an employer might get this impression of an autistic employee. This blog post explores what might be going on, and how to deal with it.
 segments: [education, employers, diagnosis, careers]
-creditURL: https://pixabay.com
-creditText: Sergiey Validoff
+creditURL: https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=616913
+creditText: Image by Gerd Altmann
 ---
-**Thumbnail image:** KnowsItAll
-
-**Image credit:** Image by [Gerd
-Altmann](https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=616913) from [Pixabay](https://pixabay.com/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=616913) 
-
-**Thumbnail title:** Autistic Employees: Not accepting authority?
-
-**Thumbnail description:** Some employers feel they have an autistic
-employee who struggles to accept authority. This got us thinking about
-why an employer might get this impression of an autistic employee. This
-blog post explores what might be going on, and how to deal with it.
-
-**SEO (Meta) Title**: Employee with autism seems not to accept
-authority? What is really going on.
-
-**SEO (Meta) Description:** This blog post from Aspiedent explores what
-might be going on when an autistic employee appears to struggle to
-accept authority.
-
-**Title:** Autistic Employees: Not accepting authority?
-
 As an HR consultant or manager, you may sooner or later be managing an
 employee who is on the autistic spectrum. You (or they) may not even
 know they are autistic. 
@@ -99,8 +78,7 @@ mistakes is invaluable. For example, such a person could be invaluable
 in a fraud department, where their ability to spot errors and
 inconsistencies in data would be a real asset to their business.
 
-**The employee struggles to accept authority or criticism, especially
-when they think authority does not understand their job**
+**The employee struggles to accept authority or criticism, especially when they think authority does not understand their job**
 
 A while ago, we encountered an employee in the public sector who was
 regularly in dispute with his managers over what the right or wrong
@@ -188,9 +166,8 @@ The more that managers can get their heads around individuals with
 autism, the better they will be at managing all their people and the
 quirks that come with them. Sometimes this can be done with minimal
 input from specialists like Aspiedent. However, sometimes somebody's
-'autism profile' needs to be determined during a [ workplace
-assessment](Workplace Assessment Product Page) before
-any solutions are likely to be found. 
+'autism profile' needs to be determined during a **workplace assessment** before
+any solutions are likely to be found.
 
 Note that solutions are normally cheap and simple to implement, but are
 not obvious until a workplace assessment has been carried out. It is
@@ -200,10 +177,6 @@ These solutions can help employers tap into the hidden strengths of
 staff with autism and other neurodiverse conditions and therefore
 provide a significant return on investment. 
 
-**For LinkedIn:** Contact Jen now on 07717 404846 or
-<j.blacow@aspiedent.com> for a confidential chat about autism or
-neurodiversity in the workplace. We will be happy to help.
-
-**For Website:** Contact us now for a confidential chat
+**[Contact us](/contact)** now for a confidential chat
 about autism or neurodiversity in the workplace. We will be happy to
 help. Alternatively call Jen on 07717 404846.

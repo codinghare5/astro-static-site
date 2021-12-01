@@ -1,42 +1,20 @@
 ---
 layout: ../../layouts/BlogPost.astro
-title: How Simple Misunderstandings can cause Major Problems
+title: Simple Misunderstandings Major Problems
 tags: ['autism', 'neurodiversity', 'profile']
 date: Nov 27, 2020, 12:41 PM
 image: /assets/blog/MisunderstandingsProblems.jpg
 thumbnail: /assets/blog/thumbnails/MisunderstandingsProblems.jpg
-metaTitle: SEO Meta Title Goes Here
-metaDescription: SEO meta description goes here.
+metaTitle: Aspiedent highlights how simple misunderstandings can cause major issues with autism in the workplace. 
+metaDescription: This blog post about autism in the workplace covers some of the strange ways in which autistic people and their managers can misunderstand each other. These misunderstandings can cause major problems. However, it is often easy to fix.
 author: [Jen Blacow]
 authorImage: [jen]
 description: Simple misunderstandings can cause major problems between autistic people and their employers. But it is often easily fixable. This blog post covers some of the sometimes peculiar ways in which this can happen.
 segments: [education, employers, diagnosis, careers]
-creditURL: https://pixabay.com
-creditText: Sergiey Validoff
+creditURL: https://pixabay.com/users/missvicki-392548/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=986252
+creditText: Image by Vicki Becker
 ---
-**Thumbnail image:** MisunderstandingsProblems
-
-**Image credit:** Image by [Vicki
-Becker](https://pixabay.com/users/missvicki-392548/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=986252) from [Pixabay](https://pixabay.com/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=986252)
-
-**Thumbnail title:** Simple Misunderstandings Major Problems
-
-**Thumbnail description:** Simple misunderstandings can cause major
-problems between autistic people and their employers. But it is often
-easily fixable. This blog post covers some of the sometimes peculiar
-ways in which this can happen.
-
-**SEO (Meta) Title**: Aspiedent highlights how simple misunderstandings
-can cause major issues with autism in the workplace.
-
-**SEO (Meta) Description:** This blog post about autism in the workplace
-covers some of the strange ways in which autistic people and their
-managers can misunderstand each other. These misunderstandings can cause
-major problems. However, it is often easy to fix.
-
-**Title:** Simple Misunderstandings Major Problems
-
-**How SIMPLE misunderstandings can cause MAJOR problems. **
+**How SIMPLE misunderstandings can cause MAJOR problems.**
 
 When we do work for employers about autism and neurodiversity, we often
 hear remarkably similar stories from employers who manage autistic
@@ -47,8 +25,7 @@ We have also come across some very strange ways in which autistic people
 misinterpret non autistic colleagues and manager's motives in relation
 to their difficulties with social interaction.
 
-**Here are some particularly interesting examples of ways a manager may
-misunderstand an autistic employee**
+**Here are some particularly interesting examples of ways a manager may misunderstand an autistic employee**
 
 One example is when an autistic employee was accused of regularly
 butting in on other employee's private conversations -- which was
@@ -125,5 +102,5 @@ people's motives. This applies both to autistic and non-autistic
 employees.
 
 If you need help with any issues similar to the ones described above,
-please **contact us** and we may be able to quickly resolve the
+please **[contact us](/contact)** and we may be able to quickly resolve the
 problem.

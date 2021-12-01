@@ -5,37 +5,15 @@ tags: ['autism', 'neurodiversity', 'profile']
 date: May 13, 2021, 8:58 PM
 image: /assets/blog/Aspiedent2021.png
 thumbnail: /assets/blog/thumbnails/Aspiedent2021.jpg
-metaTitle: SEO Meta Title Goes Here
-metaDescription: SEO meta description goes here.
+metaTitle: About Aspiedent Autism & Neurodiversity Training’s Logo
+metaDescription: Aspiedent Autism & Neurodiversity Training & Consultancy’s brand values include excellence, honesty and integrity and moving forwards.
 author: [Jen Blacow]
 authorImage: [jen]
 description: This post is about Aspiedent CIC’s brand values, our new logo and how the two connect. Aspiedent’s values include excellence, freedom of expression of thought and opinion, and a focus on moving forward and growing.
 segments: [education, employers, diagnosis, careers]
-creditURL: https://pixabay.com
-creditText: Sergiey Validoff
+creditURL: 
+creditText: 
 ---
-**Thumbnail image:**
-
-**Image credit:** 
-
-**Thumbnail title:** At last! Introducing Aspiedent's New Logo
-
-**Thumbnail description:** This post is about Aspiedent CIC's brand
-values, our new logo and how the two connect. Aspiedent's values include
-excellence, freedom of expression of thought and opinion, and a focus on
-moving forward and growing.
-
-**SEO (Meta) Title**: About Aspiedent Autism & Neurodiversity Training's
-Logo
-
-**SEO (Meta) Description:** Aspiedent Autism & Neurodiversity Training &
-Consultancy's brand values include excellence, honesty and integrity and
-moving forwards.
-
-**Title:** At last! Introducing Aspiedent's New Logo
-
-**At last! Introducing Aspiedent's New Logo.**
-
 We have been told in the past Aspiedent's Logo needs improving. Some
 people might have well had said it was naff! We did not hurry to change
 it because it was not the right time. We also try not to rush into
@@ -68,7 +46,7 @@ represent what Aspiedent does very well. 
 
 Why?
 
-***Value 1: Excellence ***
+***Value 1: Excellence***
 
 Aspiedent is especially good at taking extremely complex and confusing
 autistic traits (which could be compared to the pieces of a jigsaw) and
@@ -147,7 +125,7 @@ able to work. This can range from being brilliant at problem solving, or
 being very creative to loving boring and repetitive jobs which require
 very high attention to detail.
 
-***Value 6: Quality ***
+***Value 6: Quality***
 
 We use gold along with purple in our logo to represent quality. Our
 service is very high quality and due to this sometimes considered
@@ -167,7 +145,7 @@ We are honest with organisations and individuals. If we do not think we
 can help them, or think they are not suited to working with us, we tell
 them with reasons.
 
-**Colours **
+**Colours**
 
 As mentioned above, as well as gold, we use purple to represent luxury.
 We do not provide one size fits all solutions when we help businesses
@@ -202,21 +180,21 @@ to admit when we have been wrong and/or made a mistake.
 
 So to bring them all together, some of Aspiedent's values are:
 
-**Value 1: Excellence **
+**Value 1: Excellence**
 
 **Value 2: True inclusivity**
 
-**Value 3: Constant Research & Development **
+**Value 3: Constant Research & Development**
 
-**Value 4: Focus on moving forward and growing **
+**Value 4: Focus on moving forward and growing**
 
-**Value 5: Freedom of expression of thought and opinion **
+**Value 5: Freedom of expression of thought and opinion**
 
-**Value 6: Quality **
+**Value 6: Quality**
 
 **Value 7: Honesty and Integrity**
 
-**Value 8: Ethical practice **
+**Value 8: Ethical practice**
 
 A combination of the jigsaw puzzle and a purple and gold infinity sign
 and green background really does represent what we do. We make the

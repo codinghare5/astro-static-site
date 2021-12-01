@@ -5,14 +5,14 @@ tags: ['autism', 'neurodiversity', 'profile']
 date: Jul 29, 2020, 1:14 PM
 image: /assets/blog/AutisticCommunityBlog.jpg
 thumbnail: /assets/blog/thumbnails/AutisticCommunityBlog.jpg
-metaTitle: SEO Meta Title Goes Here
-metaDescription: SEO meta description goes here.
+metaTitle: Aspiedent discusses the autistic community, a potential resource for the employers and employees with autism.
+metaDescription: Clear advice from Aspiedent on choosing autism training solutions when managing autism in the workplace.
 author: [Jen Blacow]
 authorImage: [jen]
 description: The Autistic Community can be a useful resource for employers and employees with autism, but it can be confused with expert autism training.
 segments: [education, employers, diagnosis, careers]
-creditURL: https://pixabay.com
-creditText: Sergiey Validoff
+creditURL: https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2198961
+creditText: Image by Gerd Altmann
 ---
 **RESOURCES FOR EMPLOYERS AND EMPLOYEES: The Autistic Community**
 
@@ -82,7 +82,7 @@ between somebody telling a group about their *own* experience of autism,
 and somebody (autistic or not) training a group to understand autism as
 a whole.
 
-**Pitfall 2: Mutual Misunderstanding **
+**Pitfall 2: Mutual Misunderstanding**
 
 Sometimes, there is little understanding by the autistic community of
 the needs of the non-autistic people.
@@ -124,7 +124,7 @@ autistic people in the workplace is unlikely be achieved.
 Related to this, is a misunderstanding on behalf of the autistic
 community of what are 'reasonable' adjustments for an employer to make.
 
-**Pitfall 3: Unreasonable Reasonable Adjustments **
+**Pitfall 3: Unreasonable Reasonable Adjustments**
 
 The social model of disability is often strongly pushed by autistic
 activists and autism training companies. Looking through the lens of the

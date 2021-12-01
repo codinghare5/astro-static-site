@@ -11,8 +11,8 @@ author: [Jen Blacow]
 authorImage: [jen]
 description: Access to Work is  DWP’s best kept secret. You can get a grant for equipment and support at work if you have autism or aspergers. Read on for more.
 segments: [education, employers, diagnosis, careers]
-creditURL: https://pixabay.com
-creditText: Image by Gerd Altmann from Pixabay
+creditURL: https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2198961
+creditText: Image by Gerd Altmann
 ---
 There are three sources of resources for autistic employees and
 employers regarding 'reasonable adjustments' at work:

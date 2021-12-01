@@ -5,94 +5,18 @@ tags: ['autism', 'neurodiversity', 'profile']
 date: Nov 11, 2020, 4:30 PM
 image: /assets/blog/ImpactAutismProfile.jpg
 thumbnail: /assets/blog/thumbnails/ImpactAutismProfile.jpg
-metaTitle: SEO Meta Title Goes Here
-metaDescription: SEO meta description goes here.
+metaTitle: Positive Impacts of Autism Profiles by Aspiedent
+metaDescription: Aspiedent offer an Autism Profile service for individuals with autism spectrum conditions and their employers. This blog post highlights the positive impact that an Aspiedent Autism Profile can have on individuals and workplaces alike by getting underneath the autism symptoms.
 author: [Jen Blacow]
 authorImage: [jen]
 description: This blog post highlights the positive impact that an Aspiedent Autism Profile can have on individuals and workplaces alike, by getting underneath the autism symptoms.
 segments: [education, employers, diagnosis, careers]
-creditURL: https://pixabay.com
-creditText: Sergiey Validoff
+creditURL: https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3271590
+creditText: Image by Gerd Altmann
 ---
 **The impact of an autism profile**
 
-An autism profile forms an important part of Aspiedent's Workplace
-assessment. It is the part that underpins the 'reasonable adjustment' we
-recommend. An autism profile is extremely important to help an employer
-to understand *why* the reasonable adjustments are necessary and how
-they will help.
-
-It is very difficult to maintain a reasonable adjustment if you don't
-understand the reasoning behind it. In fact, these kinds of reasonable
-adjustments often end up on paper but not implemented.
-
-But imagine what would happen if you actually understood precisely why
-the reasonable adjustment is needed and how it will help? Surely under
-these circumstances a good manager and a good employer, would be
-equipped to make appropriate reasonable adjustments as an when necessary
--- even when the working environment changes.
-
-With an in depth understanding of someone's autism, it is easier to
-pre-empt difficulties before they arise, and if difficulties do arise,
-deal with them before they cause disruption.
-
-If/when the person get a promotion, the autism profile can be passed on
-and a new manager should be able to work with it and in consultation
-with the employee adapt recommendations to fit the new role.
-
-We often say that we go in and fix the problem. Perhaps our problem is
-that we fix the problem so effectively that we very rarely have to go
-back. Once we have fixed the problem and the manager and the employee
-understand what is really going on, there is no further need for our
-input: they can adapt as appropriate.
-
-Autism profiles do not have to be done as part of a workplace
-assessment. They can be done as a standalone assessment and can be very
-useful when someone is wondering where their career should go next,
-especially when they have made bad choices in the past. Via an autism
-profile we can help them understand why the choices were bad, why it
-went wrong, and steer them towards careers that they are likely to excel
-in.
-
-Whether done as a stand-alone assessment or as part of a workplace
-assessment an autism profile can have a profound effect on an individual
-
-1)  It helps them understand themselves. It puts the past in context and
-    gives hope for the future.
-
-2)  It helps them understand how they are different from everyone else.
-    This leads to acceptance of other people and often a better
-    understanding of the rest of the world.
-
-3)  It helps them understand their strengths and weaknesses. Why they
-    struggle in some areas but excel in other areas. An autism profile
-    can highlight the coping strategies that they are already using.
-    Sometimes these coping strategies can be harnessed for a satisfying
-    career.
-
-4)  We find that an autism profile improves mental health by reducing
-    anxiety and depression. We never ceased to be amazed at how simply
-    helping people understand what is really going helps their mental
-    health!
-
-5)  It can provide a pathway for the autistic individual to gain new
-    skills before attempting to (re-)enter the jobs market.
-
-In short an Aspiedent autism can profile can be life-changing for an
-autistic individual who has struggled throughout their adult life. If an
-autism profile is given while the person is still young, it will prevent
-the suffering and heartache experienced by many autistic adults due to a
-lack of understand of what is really going on both on their part and the
-world around them. Surely preventing mental health difficulties is
-better than curing them later on?
-
-\[I think it would help to have some examples woven into this -- add the
-emotional interest\].
-
-**The impact of an autism profile**
-
-An Autism Profile is a full description of how autism affects a
-particular a particular individual. Aspiedent's Autism Profiles explain
+An Autism Profile is a full description of how autism affects a particular individual. Aspiedent's Autism Profiles explain
 what *underlying autistic issues* somebody has that are responsible for
 their external autistic symptoms, problems and even talents.
 
