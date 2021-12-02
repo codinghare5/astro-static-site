@@ -5,44 +5,18 @@ tags: ['autism', 'neurodiversity', 'profile']
 date: Sep 24, 2021, 5:09 PM
 image: /assets/blog/BabyStudyOutrage.png
 thumbnail: /assets/blog/thumbnails/BabyStudyOutrage.jpg
-metaTitle: SEO Meta Title Goes Here
-metaDescription: SEO meta description goes here.
+metaTitle: Autism diagnosis and new findings
+metaDescription: Aspiedent comments on a recently published autism research paper about using early intervention to improve the interaction between a child and their parents. This reduces the risk of young children being given an autism diagnosis.
 author: [Jen Blacow]
 authorImage: [jen]
 description: A recently published autism research paper suggests that early intervention for children who are showing some early sign of autism can reduce their risk of being given an autism diagnosis. This autism research demonstrates that this specific intervention which improves the way parents interact with their child can help children who are having difficulty with social interaction and possibly with sensory processing disorder. It may help clinicians tell the difference between children who really have autism and those who are at risk of being misdiagnosed with autism. Autism diagnosis as a way to get support is not helpful because it tends to lead to the wrong kind of support.
 segments: [education, employers, diagnosis, careers]
-creditURL: https://pixabay.com
-creditText: Sergiey Validoff
+creditURL: https://pixabay.com/users/clker-free-vector-images-3736/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=23991
+creditText: Clker-Free-Vector-Images
 ---
-**Thumbnail image:** BabyStudy&Outrage
+**The controversy surrounding a 'cure' for autism**
 
-**Image credit**: Image
-by [Clker-Free-Vector-Images](https://pixabay.com/users/clker-free-vector-images-3736/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=23991) from [Pixabay](https://pixabay.com/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=23991) 
-
-**Thumbnail title:** The controversy surrounding a 'cure' for autism
-
-**Thumbnail description:** A recently published autism research paper
-suggests that early intervention for children who are showing some early
-sign of autism can reduce their risk of being given an autism diagnosis.
-This autism research demonstrates that this specific intervention which
-improves the way parents interact with their child can help children who
-are having difficulty with social interaction and possibly with sensory
-processing disorder. It may help clinicians tell the difference between
-children who really have autism and those who are at risk of being
-misdiagnosed with autism. Autism diagnosis as a way to get support is
-not helpful because it tends to lead to the wrong kind of support.
-
-**SEO (Meta) Title:** Autism diagnosis and new findings
-
-**SEO (Meta) Description:** Aspiedent comments on a recently published
-autism research paper about using early intervention to improve the
-interaction between a child and their parents. This reduces the risk of
-young children being given an autism diagnosis.
-
-**The controversy surrounding a 'cure' for autism **
-
-Some people on Twitter are OUTRAGED at a recently published [autism
-study](https://www.news-medical.net/news/20210921/Pre-emptive-intervention-during-infancy-reduces-the-likelihood-of-autism-diagnosis.aspx),
+Some people on Twitter are OUTRAGED at a recently published [autism study](https://www.news-medical.net/news/20210921/Pre-emptive-intervention-during-infancy-reduces-the-likelihood-of-autism-diagnosis.aspx),
 which reports that improving the way parents interact with their babies
 reduces the risk of an autism diagnosis by age 3.
 
@@ -146,8 +120,7 @@ This makes sense because
     difficulties with social interaction.
 
 2)  It has been found that sensory processing disorder interventions
-    work best when the child is very young. Also, the [Son-Rise
-    programme](https://autismtreatmentcenter.org/what-is-the-son-rise-program/)
+    work best when the child is very young. Also, the **[Son-Rise programme](https://autismtreatmentcenter.org/what-is-the-son-rise-program/)**
     targets sensory issues and interactions between parent and child. 
 
 3)  Stereotyped or repetitive motor movement and use of objects or
@@ -197,38 +170,4 @@ have little effect on what is understood to be autism. 
 But then we are back to the question \'what is autism?\' to which there
 is currently no really satisfactory answer.
 
-If you would like to discuss the contents of this article further,
-please contact us by
-emailing [info\@aspiedent.com](mailto:info@aspiedent.com).
-
-===================== Deleted from Text but may be useful in another
-post================
-
-As a side, people as individuals should be encouraged to modify some of
-their behaviour to fit in with society and those around them. It's
-called not being selfish. 
-
-For example, I have Obsessive Compulsive Disorder (OCD) and I would
-arguably feel much better (at the time) spending 15-20 minutes doing my
-rituals and checks before leaving the office every day.
-
-However, when I have tired co-workers with me waiting to leave the
-office so they can go home and get on with other stuff, I work hard to
-forgo this compulsion despite it making me feel uncomfortable and
-unsafe. Why? Because I care about my colleague's needs too. I adapt and
-modify my behaviour.
-
-The same reason why my severely autistic colleague allows me to tone
-down her bluntness where we can, to help non autistic people who do not
-know her well feel more comfortable. It\'s common courtesy. 
-
-If I said that society had to adapt to me all the time, I'd have
-everyone around me doing the most ridiculous things to satisfy my urges.
-Are my friends, family, and colleagues 'ableist'. No!
-
-It is similar to autism in that some neurodiversity activists think that
-stimming (an often repetitive motion of some sort that calms an autistic
-individual down) should be acceptable in public and if not then that
-environment is ableist. But what about the other people there that are
-easily distracted and disturbed/upset by too much movement. It just
-doesn't work.
+**If you would like to discuss the contents of this article further, please contact us by emailing [info\@aspiedent.com](mailto:info@aspiedent.com)**.

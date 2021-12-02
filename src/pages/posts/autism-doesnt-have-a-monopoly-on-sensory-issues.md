@@ -5,39 +5,15 @@ tags: ['autism', 'neurodiversity', 'profile']
 date: Oct 29, 2021, 6:01 PM
 image: /assets/blog/MonopolySensoryIssues.jpg
 thumbnail: /assets/blog/thumbnails/MonopolySensoryIssues.jpg
-metaTitle: SEO Meta Title Goes Here
-metaDescription: SEO meta description goes here.
+metaTitle: Autism sensory issues - Ensuring an accessible workplace for everyone
+metaDescription: A workplace that caters for autism sensory issues may be a more accessible workplace for everybody.
 author: [Jen Blacow]
 authorImage: [jen]
 description: Sensory issues could be affecting you, even if you’re not autistic. Autism sensory issues are quite well-known as an autism issue. However, sensory issues are not just found in autism. If sensory issues are considered when designing accessible workplace environments for or your team, you may get more work done.
 segments: [education, employers, diagnosis, careers]
-creditURL: https://pixabay.com
-creditText: Sergiey Validoff
+creditURL: https://pixabay.com/users/hurca-8968775/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3502291
+creditText: Image by Mirko Grisendi
 ---
-**Thumbnail image: **MonopolySensoryIssues
-
-**Image credit: **Image by [Mirko
-Grisendi](https://pixabay.com/users/hurca-8968775/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3502291) from Pixabay 
-
-**Thumbnail title:** Autism does not have a monopoly on Sensory Issues
-
- 
-
-**Thumbnail description:** Sensory issues could be affecting you, even
-if you're not autistic. Autism sensory issues are quite well-known as an
-autism issue. However, sensory issues are not just found in autism. If
-sensory issues are considered when designing accessible
-workplace environments for or your team, you may get more work done.
-
-**SEO (Meta) Title:** Autism sensory issues: Ensuring an accessible
-workplace for everyone
-
-**SEO (Meta) Description:** A workplace that caters for autism sensory
-issues may be a more accessible workplace for everybody.
-
-Autism does not have a monopoly on Sensory Issues
-=================================================
-
 Sensory issues are often found in autism and include a person being
 either over-sensitive (hypersensitive) or under-sensitive (hypo
 sensitive) to certain stimuli. For example, sound, touch, smell, and
@@ -83,7 +59,7 @@ Again, this is not to say that this person can never work in a quiet
 environment. Just let them go somewhere busier and nosier if they feel
 like it.
 
-**Stranger sensory issues **
+**Stranger sensory issues**
 
 There are also other conditions like dyspraxia, which include a large
 element of issues with balance, proprioception, and knowing where your
@@ -110,8 +86,7 @@ just felt it.
 It was bizarre, and I still occasionally get this feeling but to a
 lesser extent and throughout my whole body.
 
-**Helping to reduce hypersensitivities and stimulate
-hyposensitivities **
+**Helping to reduce hypersensitivities and stimulate hyposensitivities**
 
 Somebody told me recently that weighted blankets have become popular
 over lockdown. People who are hypo (under) sensitive to touch
@@ -137,7 +112,7 @@ boxing drills, as they can punch her hands (in pads) very hard. This
 makes her more relaxed, and able to cope with her over sensitivities. It
 reduces her stress in general.
 
-**Profiling populations **
+**Profiling populations**
 
 It would be interesting to sensory profile everybody at a particular
 company, for example, and see what sensory issues employees all have.
@@ -201,6 +176,3 @@ lot of sense.
 
 If you do, you may find you get less stressed employees and more work
 done!
-
-**For Website:** [Contact us](contact form) now if you\'re interested in
-making your workplace more accessible for everyone with sensory needs.

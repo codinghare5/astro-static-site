@@ -5,42 +5,19 @@ tags: ['autism', 'neurodiversity', 'profile']
 date: Oct 15, 2021, 5:43 PM
 image: /assets/blog/HiddenDiversity.jpg
 thumbnail: /assets/blog/thumbnails/HiddenDiversity.jpg
-metaTitle: SEO Meta Title Goes Here
-metaDescription: SEO meta description goes here.
+metaTitle: How to have a successful business while accepting hidden diversity
+metaDescription: Aspiedent poses some positive thoughts on how the labour market can be more accessible to hidden diversity, for example neurodiversity.
 author: [Jen Blacow]
 authorImage: [jen]
 description: This blog post ponders the future and potential ways how to have a successful business while cultivating nurturing, honest, and open-minded practice. This would quality training about hidden diversity, such as neurodiversity. A good step towards opening up the labour market to autistic people, is more acceptance of different ways of thinking, and different ways at looking at things (even if it is not politically correct) and the benefits this may bring.
 segments: [education, employers, diagnosis, careers]
-creditURL: https://pixabay.com
-creditText: Sergiey Validoff
+creditURL: https://pixabay.com/users/johnhain-352999/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=544522
+creditText: Image by John Hain
 ---
-**Thumbnail image:** Hidden Diversity
-
-**Image credit:** Image by [John
-Hain](https://pixabay.com/users/johnhain-352999/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=544522) from [Pixabay](https://pixabay.com/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=544522) 
-
-**Thumbnail title:** Hidden diversity in Business: A better way forward?
-
-**Thumbnail description:** This blog post ponders the future and
-potential ways how to have a successful business while cultivating
-nurturing, honest, and open-minded practice. This would quality training
-about hidden diversity, such as neurodiversity. A good step towards
-opening up the labour market to autistic people, is more acceptance of
-different ways of thinking, and different ways at looking at things
-(even if it is not politically correct) and the benefits this may bring.
-
-**SEO (Meta) Title:** How to have a successful business while accepting
-hidden diversity
-
-**SEO (Meta) Description:** Aspiedent poses some positive thoughts on
-how the labour market can be more accessible to hidden diversity, for
-example neurodiversity.
-
 Hidden diversity in Business: A better way forward?
 ===================================================
 
-Our [last
-blog](https://aspiedent.com/index.php/blog/autism-super-power-not-really)
+Our [last blog](/posts/autism-is-a-super-power)
 on superpowers ended on a negative note. The conclusion was:
 
 -   Nobody knows how to help autistic people who are not super skilled
@@ -227,11 +204,3 @@ was acting in a way against the company's high standards of integrity.
 
 This goes right back to having a good understanding of hidden diversity,
 as discussed above.
-
-**For Website:** If you are a good employer and you would like to shape
-your workforce so it reflects the vision presented in this post, [get in
-touch](contact form) for a chat.
-
-**For LinkedIn:** If you are a good employer and you would like to shape
-your workforce so it reflects this vision presented in this post,
-contact me on <j.blacow@aspiedent.com> or on 07717 404846.

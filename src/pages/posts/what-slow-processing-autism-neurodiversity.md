@@ -11,8 +11,8 @@ author: [Jen Blacow]
 authorImage: [jen]
 description: Slow processing speed is an issue for many people with autism and can also be found in the general population. This blog discusses what slow processing of information is, different manifestations of slow processing and what issues a slow processing disorder can cause.
 segments: [education, employers, diagnosis, careers]
-creditURL: https://pixabay.com
-creditText: Sergiey Validoff
+creditURL: https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2020552
+creditText: Image by Gerd Altmann
 ---
 ## **Slow Processing**
 

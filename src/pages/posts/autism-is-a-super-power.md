@@ -5,35 +5,16 @@ tags: ['autism', 'neurodiversity', 'profile']
 date: Oct 8, 2021, 6:24 PM
 image: /assets/blog/IsAutismASuperPower.png
 thumbnail: /assets/blog/thumbnails/IsAutismASuperPower.jpg
-metaTitle: SEO Meta Title Goes Here
-metaDescription: SEO meta description goes here.
+metaTitle: Autism is my superpower? Not really.
+metaDescription: Aspiedent dispels the myth that autism is a superpower and sheds light on the reality of employment with autism.
 author: [Jen Blacow]
 authorImage: [jen]
 description: Among other things, Greta Thunberg is known for proclaiming that her autism is a superpower and without that she would not be able to do what she does. She is not alone with kinds of claims. Many people claim that it is their autism that helps them to excel at what they do. Aspiedent can assure you that the people we support do not have superpowers.
 segments: [education, employers, diagnosis, careers]
-creditURL: https://pixabay.com
-creditText: Sergiey Validoff
+creditURL: https://pixabay.com/users/clker-free-vector-images-3736/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=305692
+creditText: Image by Clker-Free-Vector-Images
 ---
-**Thumbnail image:** IsAutismASuperPower
-
-**Image credit:** Image
-by [Clker-Free-Vector-Images](https://pixabay.com/users/clker-free-vector-images-3736/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=305692) from [Pixabay](https://pixabay.com/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=305692) 
-
-**Thumbnail title:** Is autism a super power? Not really.
-
-**Thumbnail description:** Among other things, Greta Thunberg is known
-for proclaiming that her autism is a superpower and without that she
-would not be able to do what she does. She is not alone with kinds of
-claims. Many people claim that it is their autism that helps them to
-excel at what they do. Aspiedent can assure you that the people we
-support do not have superpowers.** **
-
-**SEO (Meta) Title:** Autism is my superpower? Not really.
-
-**SEO (Meta) Description:** Aspiedent dispels the myth that autism is a
-superpower and sheds light on the reality of employment with autism.
-
-Autism is a super power?
+## Autism is a super power?
 
 Among other things, Greta Thunberg is known for proclaiming that her
 autism is a superpower and without that she would not be able to do what
@@ -72,8 +53,7 @@ sometimes astonishing skills. However, examples and instances like the
 above, have led to the myth that all autistic people have a
 'superpower.'
 
-**We can assure you that the people we support do not have
-superpowers. **
+**We can assure you that the people we support do not have superpowers.**
 
 They have found it impossible to hold down jobs because of their autism
 and because they have no 'superpower' that makes an employer do all they
@@ -163,10 +143,3 @@ would otherwise be spent on health services.
 
 Like most things politically influenced, we may end up going full
 circle!
-
-**For Linkedin:** Please let us know what you think. You can visit us at
-[www.aspiedent.com](http://www.aspiedent.com) and you can email us at
-<info@aspiedent.com>
-
-**For website:** Please let us know what you think. You can email us at
-<info@aspiedent.com>.

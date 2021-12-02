@@ -11,10 +11,10 @@ author: [Jen Blacow]
 authorImage: [jen]
 description: Do you ever get told a joke and it takes a day to get it? Delayed processing is an issue commonly found in autism, but can be found in anybody. This blog post talks about the difference between slow processing of incoming information and delayed processing. Although they may sound similar, they are actually very different issues. Perhaps you have delayed processing.
 segments: [education, employers, diagnosis, careers]
-creditURL: https://pixabay.com
-creditText: Sergiey Validoff
+creditURL: https://pixabay.com/users/anncapictures-1564471/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2910951
+creditText: Image by anncapictures
 ---
-Two weeks ago, we [posted an article](what-slow-processing-autism-neurodiversity.md) about slow processing of incoming information. This blog post covers the topic of delayed processing of incoming information. Although slow processing and delayed processing might occur together, they can also be found separately.
+Two weeks ago, we [posted an article](what-slow-processing-autism-neurodiversity) about slow processing of incoming information. This blog post covers the topic of delayed processing of incoming information. Although slow processing and delayed processing might occur together, they can also be found separately.
 
 But what’s the difference between slow processing and delayed processing of incoming information?
 
@@ -31,7 +31,7 @@ Then suddenly, when the brain is ready, or it has some spare capacity, BAM, it w
 
 It could be that a person is processing the minimum they need to get by in a situation in real-time. For example, the literal meaning of the words. In order to respond in the meeting, they may be making educated guesses at what people are saying based on their literal understanding of the words and the context. But at the same time, their brain is storing everything for later processing.
 
-This is delayed processing 
+This is delayed processing.
 
 So rather than the brain processing information slowly or taking a long time to take in information, the brain just does not process it at the time (or performs enough to get by) and saves it to process later. Once the brain gets round to processing it, it is actually processed quite quickly. This is why it is not slow processing. 
 
@@ -48,5 +48,3 @@ Another example of extreme delayed processing we have come across is an autistic
 The main reasons why somebody might have delayed processing is because either they process incoming information slowly, or because the brain cannot deal with lots of incoming information at once – it gets overloaded easily). It may be that the brain struggles to process one specific modality (for example, sound) therefore it gets processed when the brain is ready. 
 
 The key thing to remember here is that if somebody does not appear to be following what is going on during a meeting, or is appearing to take a long time to understand information, be aware that they might have taken everything down the very last detail, but just need time to for the brain to get around to processing it. Or alternatively, there is just too much information coming in too quickly and too much is getting discarded.
-
-If you have any questions about the content of this blog post, email us at <info@aspiedent.com> or call us on 07717 404846.
