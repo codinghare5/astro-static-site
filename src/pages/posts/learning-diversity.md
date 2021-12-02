@@ -5,123 +5,16 @@ tags: ['autism', 'neurodiversity', 'profile']
 date: May 20, 2021, 12:08 PM
 image: /assets/blog/LeaningDiversity.jpg
 thumbnail: /assets/blog/thumbnails/LeaningDiversity.jpg
-metaTitle: SEO Meta Title Goes Here
-metaDescription: SEO meta description goes here.
+metaTitle: Are company diversity and inclusion initiatives missing humility?
+metaDescription: Jen Blacow from Aspiedent muses over whether humility is an undervalued skill that might be key to company diversity and inclusion initiatives.
 author: [Jen Blacow]
 authorImage: [jen]
 description: Is humility (including open-mindedness) an undervalued quality or skill that might be key to the success of company diversity and inclusion initiatives? Can you teach and learn Diversity?
 segments: [education, employers, diagnosis, careers]
-creditURL: https://pixabay.com
-creditText: Sergiey Validoff
+creditURL: https://pixabay.com/users/johnhain-352999/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=683946
+creditText: Image by John Hain
 ---
-Learning diversity
-==================
-
-A LinkedIn conversation that might be able to be turned into a blog
-post.
-
-<https://www.linkedin.com/feed/update/urn:li:activity:6793421428231294976/?commentUrn=urn%3Ali%3Acomment%3A(activity%3A6793421428231294976%2C6793474418103336960)&replyUrn=urn%3Ali%3Acomment%3A(activity%3A6793421428231294976%2C6793483267245912064)>
-
-![No alternative text description for this
-image](media/image1.jpeg)
-
-EG
-
-I have been mulling over something very connected to this for the last
-few days. It is something about being human that makes most people
-gravitate to those who are like them. I have seen this in a group of
-very diversely autistic people all of whom need significant support.
-They all gravitated to people who had a similar form of autism to them
-in that the underlying difficulties behind the autistic symptoms are
-similar. I believe there is a neurological explanation to this: the part
-of the brain you use to think and reason about yourself is also used to
-think and reason about others. This leads people (including me) to
-assume that others think like themselves despite all evidence to the
-contrary. By surrounding yourself by people who really do think about
-and experience the world in a similar way to you, this assumption
-becomes true. The problem is that it takes much more brain effort to
-engage effectively and build relationships with people who do not think
-like you. Thankfully, there are a few people who are fascinated by how
-different people tick who are more likely to include others who do not
-think about or perceive the world in the same way. For most people,
-truly doing diversity is difficult.
-
-Linked to this is how people come across. Few autistic people manage to
-master the skills needed to succeed at interview. Issues that others
-find off putting are speaking in a monotone, being \'wooden\', not
-making eye contact, speaking with a strange inflection. It marks people
-as not like them. Having said all this, some groups are far more
-accepting of difference than others. Does growing up with a wider
-variety of people help? Does it help if you have lived and worked in
-another country and thus had to accommodate different ways of doing
-things? Just some thoughts. I do not have answers.
-
-Mark Palmer
-
-I agree that we gravitate to others that think like us, a lot of the
-time at least. But I don't think that excuses not making practical
-provision for others who are not like us. Most people get that buildings
-need to be wheelchair accessible even if they don't use a wheelchair
-themselves. The same realisation needs to extend to other forms of
-diversity, including unseen ones such as neurodivergence. I also think
-that having a diverse team is recognised as a strength in some areas - a
-good team might include a leader, a planner, a details person, a
-practical person etc. It would be good to apply this concept more
-broadly to include people with different ways of thinking in teams.
-
-EG
-
-I fully agree with what you have said. I know that there are advantages
-to having a diverse team. I need to work with people who are able to
-handle the areas that I am not able to do and thus enable me to do what
-I am good at. This requires diversity and learned tolerance and
-appreciation of each other. I am trying to make the point that helping
-people get to a place where they can appreciate diversity is not easy. I
-think we need to recognise that this does not come naturally to many
-people and devise strategies to support people to learn to appreciate
-diversity. Not doing so risks celebrating the fact that an autistic
-person has got a job but then being frustrated that the person a never
-able to move forward from that first job (not forgetting that some
-people are happy in that job and don\'t want to move). If people feel
-awkward with someone because they are different then the person will
-notice. This applies to all kinds of difference. How can people learn to
-accept, appreciate and value difference?
-
-Mark Palmer
-
-[**Elizabeth Guest**](https://www.linkedin.com/in/ACoAAAXuecEB_bjrCc5U3iBhA-eFXAVDnVGZ8EU/)
-I agree and that really is the big question. I think education has to be
-part of the answer but it is not all of it!
-
-EG
-
-[**Mark Palmer**](https://www.linkedin.com/in/ACoAAA3PxBEB67YZXGtdJnOYOrF2QqUrlFG2AyA/)
-Education should be in conjunction with working with and building
-relationships with a variety of diverse people. The practical aspect is
-vital. This is not something you can learn in a classroom!
-
-**Thumbnail image:** LearningDiversity
-
-**Image credit:**  Image by [John Hain](https://pixabay.com/users/johnhain-352999/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=683946) from [Pixabay](https://pixabay.com/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=683946) 
-
-**Thumbnail title:** Can we get some more humility in the (class)room
-please?
-
-**Thumbnail description:** Is humility (including open-mindedness) an
-undervalued quality or skill that might be key to the success of company
-diversity and inclusion initiatives? Can you teach and learn Diversity?
-
-**SEO (Meta) Title**: Are company diversity and inclusion initiatives
-missing humility?
-
-**SEO (Meta) Description:** Jen Blacow from Aspiedent muses over whether
-humility is an undervalued skill that might be key to company diversity
-and inclusion initiatives.
-
-**Title:** Can we get some more humility in the (class)room please? Can
-you teach and learn diversity?
-
-**Can we get some more humility in the (class)room please? **
+## Learning diversity
 
 I work with people with autism. I have been told several times that I
 must have the patience of a saint or that I am 'too modest'.
@@ -163,8 +56,7 @@ companies seem so difficult to achieve? And can we teach and learn
 diversity? If so, where do we start? Below I try to answer these three
 questions, but I would appreciate your (the readers\') thoughts on this.
 
-**Why does real diversity within companies seem so difficult to
-achieve?**
+**Why does real diversity within companies seem so difficult to achieve?**
 
 The challenge to diversity in business, is that people gravitate to
 those who are like them. Even autistic people. It is biological.
@@ -286,4 +178,4 @@ be in conjunction with working with and building relationships with a
 variety of diverse people. The practical aspect is vital. This is not
 something you can learn in a classroom!
 
-Does else anyone have any ideas?
+Does anyone else have any ideas?

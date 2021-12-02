@@ -5,35 +5,15 @@ tags: ['autism', 'neurodiversity', 'profile']
 date: Jun 25, 2021, 1:13 PM
 image: /assets/blog/NetworkingSelfEmploymentAutism.png
 thumbnail: /assets/blog/thumbnails/NetworkingSelfEmploymentAutism.jpg
-metaTitle: SEO Meta Title Goes Here
-metaDescription: SEO meta description goes here.
+metaTitle: Business networking and autism
+metaDescription: Aspiedent focusses on business networking groups, autism in the workplace and autism and self-employment. What is the real point of networking? Includes tips on how to do it.
 author: [Jen Blacow]
 authorImage: [jen]
 description: In this blog post, we focus on business networking and autism. It took a while for us to figure out the real point of networking and why it is important. Here we try and clearly explain the point and give tips on how to do it right.
 segments: [education, employers, diagnosis, careers]
-creditURL: https://pixabay.com
-creditText: Sergiey Validoff
+creditURL: https://pixabay.com/users/jmexclusives-10518280/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=5187243
+creditText: Image by Joseph Mucira
 ---
-**Thumbnail image: **
-
-**Image credit:** Image by [Joseph
-Mucira](https://pixabay.com/users/jmexclusives-10518280/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=5187243) from Pixabay 
-
-**Thumbnail title:** Business networking and autism
-
-**Thumbnail description:** In this blog post, we focus on business
-networking and autism. It took a while for us to figure out the real
-point of networking and why it is important. Here we try and clearly
-explain the point and give tips on how to do it right.
-
-**SEO (Meta) Title:** Business networking and autism
-
-**SEO (Meta) Description:** Aspiedent focusses on business networking
-groups, autism in the workplace and autism and self-employment. What is
-the real point of networking? Includes tips on how to do it.
-
-**Title:** Business networking and autism
-
 **Networking the right way for autistic and non-autistic professionals**
 
 This blog is focussed on autistic people; however it can help
@@ -55,8 +35,7 @@ I do not quite agree. It has made it easier for some people in some
 ways, but I can tell you that I work with autistic people for whom it is
 not easier - it is much more difficult.
 
-A lot of this is discussed in a still relevant [blog post from last
-year ](https://aspiedent.com/index.php/blog/importancemeetingfacetoface)
+A lot of this is discussed in a still relevant **[blog post from last year](/posts/importance-face-to-face)**
 when covid forced us all to go 'online'.
 
 This blog post, however, some of which is inspired by Bergemann's (2015)
@@ -148,8 +127,7 @@ natural. You may be asked to help somebody and it may be several months
 or more than a year until you need their support. If you have helped
 them, they will more than likely be very willing to help you if you ask
 them. People forget what you said to them, but they do not forget how
-you made them feel ([Carl W.
-Buehner](https://quoteinvestigator.com/2014/04/06/they-feel/)).
+you made them feel [Carl W. Buehner](https://quoteinvestigator.com/2014/04/06/they-feel/).
 
 **Strategic networks**
 
@@ -274,11 +252,5 @@ which is easy for you, but hard for them. That is why it is also
 important to seek out other businesses who you are confident that they
 do what they say they do who you can trust.
 
-**For website:** If you would like to know more about how we could help
-you be self-employed despite autism or neurodiversity, [please get in
-touch.](contact form)
-
-**For Linkedin:** If you are a professional and would like to know more
-about how we could help you become self-employed or start a business
-despite autism or neurodiversity, please email me (Jen)
-at <j.blacow@aspiedent.com>, or call me at 07717 404846.
+If you would like to know more about how we could help
+you be self-employed despite autism or neurodiversity, **[please get in touch](/contact)**.

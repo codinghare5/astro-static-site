@@ -5,39 +5,15 @@ tags: ['autism', 'neurodiversity', 'profile']
 date: Jun 11, 2021, 4:20 PM
 image: /assets/blog/SelfEmployment2.jpg
 thumbnail: /assets/blog/thumbnails/SelfEmployment2.jpg
-metaTitle: SEO Meta Title Goes Here
-metaDescription: SEO meta description goes here.
+metaTitle: Organisational tools for the self-employed - To Do ‘Lists’
+metaDescription: Aspiedent Autism Training & Consultancy shares its unique tools to manage business tasks which could help others who are self-employed.
 author: [Jen Blacow]
 authorImage: [jen]
 description: Routine, planning & organisation is important to successfully run a business or being self-employed. We developed some very unique ways of keeping and managing To-do ‘lists’. Here is a blog to share our systems. I hope they help you manage business and stay organised!
 segments: [education, employers, diagnosis, careers]
-creditURL: https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2198961
+creditURL: https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=6131220
 creditText: Image by Gerd Altmann
 ---
-**Thumbnail image:** AutismSelfEmployment2
-
-**Image credit:**    Image by [Gerd Altmann](https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=6131220) from [Pixabay](https://pixabay.com/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=6131220) 
-
-**Thumbnail title:** Self-employment (for the unorganised): To-Do
-'Lists'
-
-**Thumbnail description:** Routine, planning & organisation is important
-to successfully run a business or being self-employed. We developed some
-very unique ways of keeping and managing To-do 'lists'. Here is a blog
-to share our systems. I hope they help you manage business and stay
-organised!
-
-**SEO (Meta) Title**: Organisational tools for the self-employed: To Do
-'Lists'
-
-**SEO (Meta) Description:** Aspiedent Autism Training & Consultancy
-shares its unique tools to manage business tasks which could help others
-who are self-employed.
-
-**Title:** Self-employment (for the unorganised): To-Do 'Lists'
-
-**Self-employment (for the unorganised): To-Do 'Lists'**
-
 Recently I was reminded of the importance of routine and planning when
 being self-employed and/or running a business. A contact pointed out
 that disorganised businesses do not run as well as they could, and if a
@@ -130,8 +106,7 @@ overarching task. For example, under 'Book' she has things like 'find
 publishers', 'gather \[existing\] materials together', and 'make a
 plan'. 
 
-![Diagram Description automatically
-generated](media/image1.png)
+![Scrapple todo digram](/screenshot-mindmap.png)
 
 The beauty about doing her to-do list this way is that she can then
 connect different tasks so she can visually see both what she is doing
@@ -172,7 +147,7 @@ lists become unwieldy and too detailed.
 So, how do I manage to organise myself and stay on track with my to-do
 list? Well, I think of it as a 'megalist' that never needs rewriting. 
 
-**System 2 - A detailed list **
+**System 2 - A detailed list**
 
 As mentioned above, I am very detail orientated. I get upset very easily
 because I cannot see the 'bigger picture' and do not have a brilliant
@@ -194,8 +169,7 @@ thing) by opening them, or just look at the bigger picture of my jobs by
 closing them so it just shows me the descriptions of each list. An
 example is below.
 
-![Graphical user interface, text, email Description automatically
-generated](media/image2.png)
+![Scrivener in use](/scrivener.jpg)
 
 As you can see, I have a folder called 'To Do' List. This opens up into
 several smaller folders with titles such as 'Main Tasks', 'Little Jobs',
@@ -252,9 +226,7 @@ Additionally, to understand what would work for you best (and ultimately
 make you more organised, less stressed, and ultimately run your business
 better) you need to understand your 'profile' first. 
 
-We undertake these
-[profiles](https://aspiedent.com/index.php/example-autism-profiles) on
-autistic individuals, as they are the ones who often have such extremely
+We undertake these **profiles** on autistic individuals, as they are the ones who often have such extremely
 different ways of being that they find it more challenging to get on
 with the often-suggested ways of working.
 
@@ -262,11 +234,6 @@ However, these profiles do apply and can benefit anybody, especially
 those who have not found their sweet spot when it comes to business
 routine, planning, and doing.
 
-**For LinkedIn:** For more information about our autism profiling
-tool and how we can help you be your most organised, and what (cheap or
-free) software is available to you, contact us
-at [info\@aspiedent.com](info@aspiedent.com) or on 07717404846.
-
-**For website:** [Contact us](contact form) for more information
+**[Contact us](/contact)** for more information
 about our autism profiling tool and how we can help you be your most
 organised, and what (cheap or free) software is available to you.

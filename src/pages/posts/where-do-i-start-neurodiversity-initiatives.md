@@ -5,44 +5,21 @@ tags: ['autism', 'neurodiversity', 'profile']
 date: Jul 2, 2021, 11:45 AM
 image: /assets/blog/WhereDoIStartNeurodiversityInitiatives.jpg
 thumbnail: /assets/blog/thumbnails/WhereDoIStartNeurodiversityInitiatives.jpg
-metaTitle: SEO Meta Title Goes Here
-metaDescription: SEO meta description goes here.
+metaTitle: Company Neurodiversity Workplace Inclusion - Where to start?
+metaDescription: Aspiedent’s latest blog post is for diversity and inclusion leaders who need a bit of encouragement and support to implement a neurodiversity inclusion strategy.
 author: [Jen Blacow]
 authorImage: [jen]
 description: This blog post is for good leaders who are passionate about neurodiversity inclusion in the workplace and need a bit of guidance as to where to start. It includes encouragement and some (hopefully) helpful & wise words regarding some of the issues you may face pulling off neurodiversity workplace inclusion.
 segments: [education, employers, diagnosis, careers]
-creditURL: https://pixabay.com
-creditText: Sergiey Validoff
+creditURL: https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1777537
+creditText: Image by Gerd Altmann
 ---
-**Thumbnail image:** WhereDoIStartNeurodiversityInitiatives
-
-**Image credit:** Image by [Gerd
-Altmann](https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1777537) from [Pixabay](https://pixabay.com/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1777537) 
-
-**Thumbnail title:** Company Neurodiversity Inclusion: Where to start?
-
-**Thumbnail description:** This blog post is for good leaders who are
-passionate about neurodiversity inclusion in the workplace and need a
-bit of guidance as to where to start. It includes encouragement and some
-(hopefully) helpful & wise words regarding some of the issues you may
-face pulling off neurodiversity workplace inclusion.
-
-**SEO (Meta) Title:** Company Neurodiversity Workplace Inclusion: Where
-to start?
-
-**SEO (Meta) Description:** Aspiedent's latest blog post is for
-diversity and inclusion leaders who need a bit of encouragement and
-support to implement a neurodiversity inclusion strategy.
-
-**Title:** Company Neurodiversity Inclusion: Where to start?
-
 Incorporating neurodiversity into inclusion and diversity agendas
 =================================================================
 
 One of the things I often hear is:
 
-"*We love the idea of incorporating neurodiversity into our inclusion
-and diversity agenda, but we do not know where to start*".
+"*We love the idea of incorporating neurodiversity into our inclusion and diversity agenda, but we do not know where to start*".
 
 Hearing variations of the above has made me think. How can we better
 help companies who have the right intentions regarding neurodiversity
@@ -59,8 +36,7 @@ workplace from an outsider\'s viewpoint. This viewpoint will hopefully
 be a fresh and reasonably helpful perspective on the topic of
 neurodiversity inclusion at work.
 
-**Neurodiversity is different from other forms of diversity (although it
-exists within them all).**
+**Neurodiversity is different from other forms of diversity (although it exists within them all).**
 
 The above is the first thing to know if you are promoting neurodiversity
 in your company.
@@ -161,7 +137,7 @@ way that gets everybody excited for their reasons. Often, people do not
 know that neurodiversity is relevant to themselves until they learn what
 it is.
 
-**Make autism & neurodiversity relevant to everybody. **
+**Make autism & neurodiversity relevant to everybody.**
 
 Leading on from the above, we often try and stress that neurodiversity
 and autism inclusion is relevant to everyone in some way, shape, or
@@ -216,5 +192,4 @@ If you ever need a sounding board, a place to bat ideas around, or a
 friendly listening ear who understands your challenges, please get in
 touch. It helps me too as I can learn about your world that will, in
 turn, help us be more relevant to our customers and help us better
-advise autistic people regarding their careers. Call me, Jen, on 07717
-404846 or email me at j.blacow\@aspiedent.com.
+advise autistic people regarding their careers. **Call me**, Jen, on **07717 404846** or email me at <j.blacow@aspiedent.com>.
