@@ -3,8 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: Resources for Autistic Employees and their Employers - The Autistic Community
 tags: ['autism', 'neurodiversity', 'profile', 'resources', 'autistic community', 'social model', 'activist']
 date: Jul 29, 2020, 1:14 PM
-image: /assets/blog/AutisticCommunityBlog.jpg
-thumbnail: /assets/blog/thumbnails/AutisticCommunityBlog.jpg
+image: AutisticCommunityBlog.jpg
+thumbnail: AutisticCommunityBlog.jpg
 metaTitle: Aspiedent discusses the autistic community, a potential resource for the employers and employees with autism.
 metaDescription: Clear advice from Aspiedent on choosing autism training solutions when managing autism in the workplace.
 author: [Jen Blacow]

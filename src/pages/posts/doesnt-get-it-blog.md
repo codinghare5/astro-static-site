@@ -3,8 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: Autistic Employees - Why don't they get it?
 tags: ['autism', 'neurodiversity', 'profile']
 date: Apr 13, 2021, 2:17 PM
-image: /assets/blog/DoesNotGetIt.jpg
-thumbnail: /assets/blog/thumbnails/DoesNotGetIt.jpg
+image: DoesNotGetIt.jpg
+thumbnail: DoesNotGetIt.jpg
 metaTitle: This blog provides examples of disruption due to autism in the workplace and some simple solutions.
 metaDescription: Autistic people can be extremely valuable employees. However, due to lack of understanding on both sides, autism at work can cause disruption. This blog post provides examples of disruption due to autism in the workplace and some simple solutions.
 author: [Jen Blacow]

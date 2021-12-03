@@ -3,8 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: Company Neurodiversity Inclusion - Where to start?
 tags: ['autism', 'neurodiversity', 'profile']
 date: Jul 2, 2021, 11:45 AM
-image: /assets/blog/WhereDoIStartNeurodiversityInitiatives.jpg
-thumbnail: /assets/blog/thumbnails/WhereDoIStartNeurodiversityInitiatives.jpg
+image: WhereDoIStartNeurodiversityInitiatives.jpg
+thumbnail: WhereDoIStartNeurodiversityInitiatives.jpg
 metaTitle: Company Neurodiversity Workplace Inclusion - Where to start?
 metaDescription: Aspiedent’s latest blog post is for diversity and inclusion leaders who need a bit of encouragement and support to implement a neurodiversity inclusion strategy.
 author: [Jen Blacow]

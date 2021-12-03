@@ -3,8 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: Possible Job Roles for slow processing of incoming information
 tags: ['autism', 'neurodiversity', 'profile', 'change', 'processing issues']
 date: Nov 19, 2021, 6:13 PM
-image: /assets/blog/JobsSlowProcessing.jpg
-thumbnail: /assets/blog/thumbnails/JobsSlowProcessing.jpg
+image: JobsSlowProcessing.jpg
+thumbnail: JobsSlowProcessing.jpg
 metaTitle: Possible jobs for people with slow processing speed
 metaDescription: Slow processing speed of incoming information is often found in autism and neurodiversity. Aspiedent discuss possible jobs for people with slow processing speed.
 author: [Jen Blacow]

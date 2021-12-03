@@ -3,8 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: The Importance of Meeting Face to Face
 tags: ['autism', 'neurodiversity', 'profile', 'covid', 'networking', 'emotion', 'social media', 'meetings']
 date: Jun 10, 2020, 3:49 PM
-image: /assets/blog/FaceToFaceMeetings.png
-thumbnail: /assets/blog/thumbnails/FaceToFaceMeetings.jpg
+image: FaceToFaceMeetings.png
+thumbnail: FaceToFaceMeetings.jpg
 metaTitle: Online meetings and the importance of meeting people face to face
 metaDescription: A blog post about how important face to face meetings are in building  real business relationships. Online meetings alone are not enough! Meeting face to face involves exchanging information in a way that is impossible via online media.
 author: [Jen Blacow]

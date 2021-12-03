@@ -3,8 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: The controversy surrounding a 'cure' for autism
 tags: ['autism', 'neurodiversity', 'profile', 'activist', 'sensory issues']
 date: Sep 24, 2021, 5:09 PM
-image: /assets/blog/BabyStudyOutrage.png
-thumbnail: /assets/blog/thumbnails/BabyStudyOutrage.jpg
+image: BabyStudyOutrage.png
+thumbnail: BabyStudyOutrage.jpg
 metaTitle: Autism diagnosis and new findings
 metaDescription: Aspiedent comments on a recently published autism research paper about using early intervention to improve the interaction between a child and their parents. This reduces the risk of young children being given an autism diagnosis.
 author: [Jen Blacow]

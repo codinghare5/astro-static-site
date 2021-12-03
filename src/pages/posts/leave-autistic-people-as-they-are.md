@@ -3,8 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: Two half Truths about Autism and Society
 tags: ['autism', 'neurodiversity', 'profile', 'sensory issues', 'change']
 date: May 26, 2021, 4:11 PM
-image: /assets/blog/LeaveAutisticPeopleAsTheyAre.jpg
-thumbnail: /assets/blog/thumbnails/LeaveAutisticPeopleAsTheyAre.jpg
+image: LeaveAutisticPeopleAsTheyAre.jpg
+thumbnail: LeaveAutisticPeopleAsTheyAre.jpg
 metaTitle: Two autism myths about autism adjustments
 metaDescription: We discuss two autism myths related to autism adjustments and outline that many autistic people do not go along with them...
 author: [Jen Blacow]

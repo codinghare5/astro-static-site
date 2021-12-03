@@ -3,8 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: Bad, Mad, Difficult?
 tags: ['autism', 'neurodiversity', 'profile', 'change', 'symptoms', 'ways of thinking']
 date: Nov 19, 2020, 4:20 PM
-image: /assets/blog/MadBadDifficult.jpg
-thumbnail: /assets/blog/thumbnails/MadBadDifficult.jpg
+image: MadBadDifficult.jpg
+thumbnail: MadBadDifficult.jpg
 metaTitle: Aspiedent discusses the reality of neurodiversity at work
 metaDescription: This blog post sheds light on the reality of autism in the workplace. If you want benefit of diversity of thinking, innovation, and creativity at work, then you may well have to deal with some HR challenges in return.
 author: [Jen Blacow]

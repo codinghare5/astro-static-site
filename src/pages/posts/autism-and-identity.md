@@ -3,8 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: Identity, Discrimination and Autism
 tags: ['autism', 'neurodiversity', 'profile', 'activist', 'mental health']
 date: Jul 17, 2021, 7:51 AM
-image: /assets/blog/IdentityAutism.png
-thumbnail: /assets/blog/thumbnails/IdentityAutism.jpg
+image: IdentityAutism.png
+thumbnail: IdentityAutism.jpg
 metaTitle: Identity, Discrimination and Autism
 metaDescription: Aspiedent highlight some of the reasons why we do not believe autism & identity politics mix well and vents some frustrations about the topics of identity and discrimination.
 author: [Jen Blacow]

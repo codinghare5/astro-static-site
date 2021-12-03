@@ -3,8 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: Autistic Employees - Not accepting authority?
 tags: ['autism', 'neurodiversity', 'profile', 'change', 'workplace assessment']
 date: Apr 21, 2021, 3:29 PM
-image: /assets/blog/KnowsItAll.jpg
-thumbnail: /assets/blog/thumbnails/KnowsItAll.jpg
+image: KnowsItAll.jpg
+thumbnail: KnowsItAll.jpg
 metaTitle: Employee with autism seems not to accept authority? What is really going on. 
 metaDescription: This blog post from Aspiedent explores what might be going on when an autistic employee appears to struggle to accept authority.
 author: [Jen Blacow]

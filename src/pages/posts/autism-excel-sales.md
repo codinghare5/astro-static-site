@@ -3,8 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: Autistic employees can make good salespeople!
 tags: ['autism', 'neurodiversity', 'profile']
 date: Sep 25, 2020, 12:54 PM
-image: /assets/blog/AutismSales.jpg
-thumbnail: /assets/blog/thumbnails/AutismSales.jpg
+image: AutismSales.jpg
+thumbnail: AutismSales.jpg
 metaTitle: Autistic employees can make good salespeople!
 metaDescription: Some autistic employees can make extremely good salespeople. Find out why in this article.
 author: [Jen Blacow]

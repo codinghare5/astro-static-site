@@ -3,8 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: What is slow processing in autism & neurodiversity?
 tags: ['processing issues', 'slow processing', 'symptoms']
 date: Nov 12, 2021, 11:37 AM
-image: /assets/blog/SlowProcessing.jpg
-thumbnail: /assets/blog/thumbnails/SlowProcessing.jpg
+image: SlowProcessing.jpg
+thumbnail: SlowProcessing.jpg
 metaTitle: Slow processing speed - What is it and how can it affect somebody?
 metaDescription: Aspiedent discusses slow processing speed found in autism and neurodiversity. What is slow processing, and what issues can a slow processing disorder cause?
 author: [Jen Blacow]

@@ -3,8 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: Hidden diversity in Business - A better way forward?
 tags: ['autism', 'neurodiversity', 'profile', 'activist', 'ways of thinking']
 date: Oct 15, 2021, 5:43 PM
-image: /assets/blog/HiddenDiversity.jpg
-thumbnail: /assets/blog/thumbnails/HiddenDiversity.jpg
+image: HiddenDiversity.jpg
+thumbnail: HiddenDiversity.jpg
 metaTitle: How to have a successful business while accepting hidden diversity
 metaDescription: Aspiedent poses some positive thoughts on how the labour market can be more accessible to hidden diversity, for example neurodiversity.
 author: [Jen Blacow]

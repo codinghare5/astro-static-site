@@ -3,8 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: Does my employee even care?
 tags: ['autism', 'neurodiversity', 'profile']
 date: Dec 3, 2020, 1:01 PM
-image: /assets/blog/DoesHeCare.jpg
-thumbnail: /assets/blog/thumbnails/DoesHeCare.jpg
+image: DoesHeCare.jpg
+thumbnail: DoesHeCare.jpg
 metaTitle: Aspiedent discusses autism in relation to employee behaviour and misunderstandings.
 metaDescription: In this blog post Aspiedent discusses autism in relation to employee behaviour and workplace conflict. Teamwork  easier when members understand the underlying reasons for other's behaviours and actions.
 author: [Jen Blacow]

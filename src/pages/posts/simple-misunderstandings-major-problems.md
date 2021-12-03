@@ -3,8 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: Simple Misunderstandings Major Problems
 tags: ['autism', 'neurodiversity', 'profile']
 date: Nov 27, 2020, 12:41 PM
-image: /assets/blog/MisunderstandingsProblems.jpg
-thumbnail: /assets/blog/thumbnails/MisunderstandingsProblems.jpg
+image: MisunderstandingsProblems.jpg
+thumbnail: MisunderstandingsProblems.jpg
 metaTitle: Aspiedent highlights how simple misunderstandings can cause major issues with autism in the workplace. 
 metaDescription: This blog post about autism in the workplace covers some of the strange ways in which autistic people and their managers can misunderstand each other. These misunderstandings can cause major problems. However, it is often easy to fix.
 author: [Jen Blacow]

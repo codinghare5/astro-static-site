@@ -3,8 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: Can we get some more humility in the (class)room please?
 tags: ['autism', 'neurodiversity', 'profile', 'ways of thinking']
 date: May 20, 2021, 12:08 PM
-image: /assets/blog/LeaningDiversity.jpg
-thumbnail: /assets/blog/thumbnails/LeaningDiversity.jpg
+image: LeaningDiversity.jpg
+thumbnail: LeaningDiversity.jpg
 metaTitle: Are company diversity and inclusion initiatives missing humility?
 metaDescription: Jen Blacow from Aspiedent muses over whether humility is an undervalued skill that might be key to company diversity and inclusion initiatives.
 author: [Jen Blacow]

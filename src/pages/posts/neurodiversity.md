@@ -3,8 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: Neurodiversity in the workplace
 tags: ['autism', 'neurodiversity', 'profile', 'ways of thinking']
 date: Jul 23, 2021, 3:11 PM
-image: /assets/blog/NeurodiversityWorkplace.jpg
-thumbnail: /assets/blog/thumbnails/NeurodiversityWorkplace.jpg
+image: NeurodiversityWorkplace.jpg
+thumbnail: NeurodiversityWorkplace.jpg
 metaTitle: Aspiedent on the reality of autism and neurodiversity in the workplace 
 metaDescription: What can you actually expect of a neurodiverse workforce? Aspiedent discusses the reality of autism and neurodiversity in the workplace.
 author: [Jen Blacow]

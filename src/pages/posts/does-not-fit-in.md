@@ -3,8 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: Employee not fitting in? Think Neurodiversity.
 tags: ['autism', 'neurodiversity', 'profile']
 date: Apr 28, 2021, 10:52 AM
-image: /assets/blog/DoesNotFitIn.jpg
-thumbnail: /assets/blog/thumbnails/DoesNotFitIn.jpg
+image: DoesNotFitIn.jpg
+thumbnail: DoesNotFitIn.jpg
 metaTitle: Employee not fitting in? Neurodiversity at work
 metaDescription: Examples of when neurodiversity might be an issue for employers and when reach out to Aspiedent when it seems an employee is not a good fit.
 author: [Jen Blacow]

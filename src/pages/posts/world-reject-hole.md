@@ -3,8 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: The World Reject Hole
 tags: ['autism', 'neurodiversity', 'profile', 'mental health']
 date: Oct 7, 2020, 7:57 PM
-image: /assets/blog/WorldRejectHole.jpg
-thumbnail: /assets/blog/thumbnails/WorldRejectHole.jpg
+image: WorldRejectHole.jpg
+thumbnail: WorldRejectHole.jpg
 metaTitle: Autism and Covid Lockdown - Impacts and the world reject hole
 metaDescription: Autism and lockdown - Rules due to Covid have had an impact on autistic individual’s mental health both positively and negatively, depending on the autistic person. Lockdown has made more autistic people prone to falling into the world reject hole where they feel that the world has rejected them.
 author: [Jen Blacow]

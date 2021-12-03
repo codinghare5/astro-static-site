@@ -3,8 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: Are you missing a trick in your struggle to obtain valuable employees?
 tags: ['autism', 'neurodiversity', 'profile', 'interview', 'skills']
 date: Jul 9, 2020, 12:59 PM
-image: /assets/blog/MissingATrick.png
-thumbnail: /assets/blog/thumbnails/MissingATrick.jpg
+image: MissingATrick.png
+thumbnail: MissingATrick.jpg
 metaTitle: Employ people with autism - how could you benefit from it?
 metaDescription: A blog post about how autistic people add value to small businesses. With the right understanding in place, employing people with autism could be a brilliant move for your small business.
 author: [Jen Blacow]

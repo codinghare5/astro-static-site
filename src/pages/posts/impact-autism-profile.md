@@ -3,8 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: The impact of an autism profile
 tags: ['autism', 'neurodiversity', 'profile', 'symptoms', 'mental health', 'workplace assessment', 'reasonable adjustments']
 date: Nov 11, 2020, 4:30 PM
-image: /assets/blog/ImpactAutismProfile.jpg
-thumbnail: /assets/blog/thumbnails/ImpactAutismProfile.jpg
+image: ImpactAutismProfile.jpg
+thumbnail: ImpactAutismProfile.jpg
 metaTitle: Positive Impacts of Autism Profiles by Aspiedent
 metaDescription: Aspiedent offer an Autism Profile service for individuals with autism spectrum conditions and their employers. This blog post highlights the positive impact that an Aspiedent Autism Profile can have on individuals and workplaces alike by getting underneath the autism symptoms.
 author: [Jen Blacow]

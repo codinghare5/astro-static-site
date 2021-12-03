@@ -49,7 +49,7 @@ article div header img.hero-image {
 		<div>
 			<header>
 				{post.image && <figure>
-                    <img class="hero-image" loading="lazy" src={post.image} alt={post.alt} />
+                    <img class="hero-image" loading="lazy" src={`/assets/blog/${post.image}`} alt={post.alt} />
                     <a href={post.creditURL}><figcaption class="z-10 px-3 italic text-sm">{post.creditText}</figcaption></a>
                 </figure>}
 				<div class="authors-container px-3">

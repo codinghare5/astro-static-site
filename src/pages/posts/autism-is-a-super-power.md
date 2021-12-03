@@ -3,8 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: Is autism a super power? Not really.
 tags: ['autism', 'neurodiversity', 'profile', 'sensory issues']
 date: Oct 8, 2021, 6:24 PM
-image: /assets/blog/IsAutismASuperPower.png
-thumbnail: /assets/blog/thumbnails/IsAutismASuperPower.jpg
+image: IsAutismASuperPower.png
+thumbnail: IsAutismASuperPower.jpg
 metaTitle: Autism is my superpower? Not really.
 metaDescription: Aspiedent dispels the myth that autism is a superpower and sheds light on the reality of employment with autism.
 author: [Jen Blacow]

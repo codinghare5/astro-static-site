@@ -3,8 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: Autism, Change and Covid-19
 tags: ['autism', 'neurodiversity', 'profile', 'mindset', 'covid', 'change', 'workplace', 'mental health', 'sensory issues']
 date: Jun 26, 2020, 2:19 PM
-image: /assets/blog/CovidChangeAutism.jpg
-thumbnail: /assets/blog/thumbnails/CovidChangeAutism.jpg
+image: CovidChangeAutism.jpg
+thumbnail: CovidChangeAutism.jpg
 metaTitle: Covid-19, autism and change in routine. Good or bad?
 metaDescription: A blog post exploring how the social distancing guidelines at work might affect autistic and non-autistic people.
 author: [Jen Blacow]

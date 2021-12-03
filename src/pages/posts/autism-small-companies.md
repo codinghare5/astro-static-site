@@ -3,8 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: Autism in small companies
 tags: ['autism', 'neurodiversity', 'profile', 'change']
 date: Sep 18, 2020, 1:38 PM
-image: /assets/blog/AutismSmallCompanies.png
-thumbnail: /assets/blog/thumbnails/AutismSmallCompanies.jpg
+image: AutismSmallCompanies.png
+thumbnail: AutismSmallCompanies.jpg
 metaTitle: Can small business benefit from having employees with autism?
 metaDescription: This blog provides a truthful exploration of the benefits that small business might get from hiring employees with autism, and the resources they may need to be successful at doing so.
 author: [Jen Blacow]

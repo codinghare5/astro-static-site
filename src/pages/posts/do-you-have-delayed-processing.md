@@ -3,8 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: Do you have delayed processing?
 tags: ['delayed processing']
 date: Nov 26, 2021, 8:27 PM
-image: /assets/blog/DelayedProcessing.jpg
-thumbnail: /assets/blog/thumbnails/DelayedProcessing.jpg
+image: DelayedProcessing.jpg
+thumbnail: DelayedProcessing.jpg
 metaTitle: What is delayed processing in autism?
 metaDescription: Aspiedent discusses how delayed processing is different to slow processing of incoming information.
 author: [Jen Blacow]

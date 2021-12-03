@@ -3,8 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: Online Autism Profiles and Workplace Assessments?
 tags: ['autism', 'neurodiversity', 'profile', 'sensory issues', 'workplace assessment', 'occupational health', 'reasonable adjustments']
 date: Nov 6, 2020, 5:17 PM
-image: /assets/blog/OnlineWPAProsAndCons.jpg
-thumbnail: /assets/blog/thumbnails/OnlineWPAProsAndCons.jpg
+image: OnlineWPAProsAndCons.jpg
+thumbnail: OnlineWPAProsAndCons.jpg
 metaTitle: Aspiedent Online Autism Profiles and Workplace Assessments - Pros and Cons
 metaDescription: Aspiedent can now offer an Autism Profile service and Workplace Assessment service online. This blog post discusses the pros and cons of online Autism Profiles and Workplace Assessments.
 author: [Jen Blacow]

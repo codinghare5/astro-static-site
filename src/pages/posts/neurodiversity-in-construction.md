@@ -3,8 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: Does the Construction Sector Deserve Neurodiverse People?
 tags: ['autism', 'neurodiversity', 'profile']
 date: May 10, 2021, 12:39 PM
-image: /assets/blog/NeurodiversityInConstruction.jpg
-thumbnail: /assets/blog/thumbnails/NeurodiversityInConstruction.jpg
+image: NeurodiversityInConstruction.jpg
+thumbnail: NeurodiversityInConstruction.jpg
 metaTitle: Does the Construction Sector Deserve Neurodiverse People?
 metaDescription: Aspiedent discuss jobs in the construction industry  and why construction industry employers might find it beneficial and easier to embrace diversity and inclusion when it comes to autism, neurodiversity, and filling skills gaps.
 author: [Jen Blacow]

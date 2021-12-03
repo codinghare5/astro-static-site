@@ -3,8 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: At last! Introducing Aspiedent’s New Logo
 tags: ['autism', 'neurodiversity', 'profile', 'symptoms', 'severe']
 date: May 13, 2021, 8:58 PM
-image: /assets/blog/Aspiedent2021.png
-thumbnail: /assets/blog/thumbnails/Aspiedent2021.jpg
+image: Aspiedent2021.png
+thumbnail: Aspiedent2021.jpg
 metaTitle: About Aspiedent Autism & Neurodiversity Training’s Logo
 metaDescription: Aspiedent Autism & Neurodiversity Training & Consultancy’s brand values include excellence, honesty and integrity and moving forwards.
 author: [Jen Blacow]

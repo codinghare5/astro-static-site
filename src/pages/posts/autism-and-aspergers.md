@@ -3,8 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: What is the difference between Autism and Aspergers?
 tags: ['autism', 'aspergers', 'activist', 'sensory issues', 'symptoms', 'severe', 'mild']
 date: Sep 11, 2020, 12:52 PM
-image: /assets/blog/AutismVsAspergers.jpg
-thumbnail: /assets/blog/thumbnails/AutismVsAspergers.jpg
+image: AutismVsAspergers.jpg
+thumbnail: AutismVsAspergers.jpg
 metaTitle: The difference between autism and asperger’s? Aspiedent explains. 
 metaDescription: What is the difference between autism and asperger’s? This article clears up the confusion.
 author: [Jen Blacow]

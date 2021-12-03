@@ -3,8 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: Resources for Autistic Employees and their Employers - Workplace Assessments
 tags: ['autism', 'neurodiversity', 'profile', 'resoures', 'occupational health', 'workplace assessment', 'disability', 'reasonable adjustments']
 date: Aug 7, 2020, 1:23 PM
-image: /assets/blog/WorkplaceAssessmentBlog.png
-thumbnail: /assets/blog/thumbnails/WorkplaceAssessmentBlog.jpg
+image: WorkplaceAssessmentBlog.png
+thumbnail: WorkplaceAssessmentBlog.jpg
 metaTitle: Key things to know when looking for help with autism at work. 
 metaDescription: This blog post explains why autism at work support is more effective if chosen carefully, and how to ensure that you choose well. Occupational Health services are not always the best solution when it comes to autism in the workplace.
 author: [Jen Blacow]

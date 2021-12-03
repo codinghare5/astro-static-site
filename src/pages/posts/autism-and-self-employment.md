@@ -3,8 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: Autism Self Employment
 tags: ['autism', 'neurodiversity', 'profile', 'executive functioning']
 date: Jun 4, 2021, 3:02 PM
-image: /assets/blog/AutismSelfEmployment.png
-thumbnail: /assets/blog/thumbnails/AutismSelfEmployment.jpg
+image: AutismSelfEmployment.png
+thumbnail: AutismSelfEmployment.jpg
 metaTitle: Autism Self employment 
 metaDescription: Aspiedent discusses Autism self employment pros, cons, and attributes required for successful business people.
 author: [Jen Blacow]

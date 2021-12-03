@@ -3,8 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: LinkedIn Disaster
 tags: ['autism', 'neurodiversity', 'profile', 'social media', 'genious', 'social skills']
 date: Jun 3, 2020, 2:37 PM
-image: /assets/blog/SocialMediaHelp.png
-thumbnail: /assets/blog/thumbnails/SocialMediaHelp.jpg
+image: SocialMediaHelp.png
+thumbnail: SocialMediaHelp.jpg
 metaTitle: Autism and social media sites
 metaDescription: A humorous blog post which highlights how some autistic people struggle with emotional connection via electronic social media.
 author: [Jen Blacow]

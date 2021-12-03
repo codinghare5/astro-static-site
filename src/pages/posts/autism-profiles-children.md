@@ -3,8 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: Autism Profiles for Children
 tags: ['autism', 'neurodiversity', 'profile', 'change', 'symptoms', 'executive functioning', 'mental health', 'reasonable adjustments']
 date: Jul 30, 2021, 4:12 PM
-image: /assets/blog/Aspiedent2021.png
-thumbnail: /assets/blog/thumbnails/Aspiedent2021.jpg
+image: Aspiedent2021.png
+thumbnail: Aspiedent2021.jpg
 metaTitle: Post diagnostic support for autistic children - Autism profiling
 metaDescription: Post diagnostic support for children with autism - Autism profiling. Aspiedent explains the importance and benefits of Autism profiles for children with autism.
 author: [Jen Blacow]

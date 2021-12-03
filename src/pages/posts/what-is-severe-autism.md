@@ -3,8 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: What are mild and severe autism?
 tags: ['autism', 'neurodiversity', 'profile', 'severe', 'mild']
 date: Oct 1, 2021, 5:38 PM
-image: /assets/blog/WhatIsSevereAutism.jpg
-thumbnail: /assets/blog/thumbnails/WhatIsSevereAutism.jpg
+image: WhatIsSevereAutism.jpg
+thumbnail: WhatIsSevereAutism.jpg
 metaTitle: What does mild autism and severe autism mean?
 metaDescription: While you can have mild autism or severe autism, Aspiedent explains that it is not as simple as having a ‘small amount’ of autism up to a ‘large amount’ of autism.
 author: [Jen Blacow]
