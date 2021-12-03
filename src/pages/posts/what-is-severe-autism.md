@@ -5,34 +5,15 @@ tags: ['autism', 'neurodiversity', 'profile', 'severe', 'mild']
 date: Oct 1, 2021, 5:38 PM
 image: /assets/blog/WhatIsSevereAutism.jpg
 thumbnail: /assets/blog/thumbnails/WhatIsSevereAutism.jpg
-metaTitle: SEO Meta Title Goes Here
-metaDescription: SEO meta description goes here.
+metaTitle: What does mild autism and severe autism mean?
+metaDescription: While you can have mild autism or severe autism, Aspiedent explains that it is not as simple as having a ‘small amount’ of autism up to a ‘large amount’ of autism.
 author: [Jen Blacow]
 authorImage: [jen]
 description: Autism spectrum condition (ASD) is commonly referred to as being mild autism or severe autism. Actually, autism is not linear and the amount of support needed is not necessarily an indication of the severity of the autism. Autism is an umbrella term that includes many different kinds of difficulties.
 segments: [education, employers, diagnosis, careers]
-creditURL: https://pixabay.com
-creditText: Sergiey Validoff
+creditURL: https://pixabay.com/users/davidrockdesign-2595351/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2389018
+creditText: Image by DavidRockDesign
 ---
-**Thumbnail image:** WhatIsSevereAutism
-
-**Image credit**: Image
-by [DavidRockDesign](https://pixabay.com/users/davidrockdesign-2595351/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2389018) from [Pixabay](https://pixabay.com/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2389018) 
-
-**Thumbnail title:** What is mild and severe autism?
-
-**Thumbnail description:** Autism spectrum condition (ASD) is commonly
-referred to as being mild autism or severe autism. Actually, autism is
-not linear and the amount of support needed is not necessarily an
-indication of the severity of the autism. Autism is an umbrella term
-that includes many different kinds of difficulties.
-
-**SEO (Meta) Title:** What does mild autism and severe autism mean?
-
-**SEO (Meta) Description:** While you can have mild autism or severe
-autism, Aspiedent explains that it is not as simple as having a 'small
-amount' of autism up to a 'large amount' of autism.
-
 What is severe autism?
 ======================
 
@@ -171,6 +152,3 @@ Instead, we have a free-for-all of different interventions all of which
 claim to help ALL autistic people -- something that is an impossibility.
 
 We have a long way to go!
-
-Did you find this article interesting? If so get in touch by emailing
-info\@aspiedent.com or calling us on 07717 404846.

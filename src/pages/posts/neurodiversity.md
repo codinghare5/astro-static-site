@@ -5,39 +5,16 @@ tags: ['autism', 'neurodiversity', 'profile', 'ways of thinking']
 date: Jul 23, 2021, 3:11 PM
 image: /assets/blog/NeurodiversityWorkplace.jpg
 thumbnail: /assets/blog/thumbnails/NeurodiversityWorkplace.jpg
-metaTitle: SEO Meta Title Goes Here
-metaDescription: SEO meta description goes here.
+metaTitle: Aspiedent on the reality of autism and neurodiversity in the workplace 
+metaDescription: What can you actually expect of a neurodiverse workforce? Aspiedent discusses the reality of autism and neurodiversity in the workplace.
 author: [Jen Blacow]
 authorImage: [jen]
 description: Keeping the conversation and neurodiversity in the workplace as realistic as possible is important. Not everyone with autism and neurodiversity will suddenly bring innovation, superpowers, or an unstoppable work ethic into a company. Whilst there are certainly benefits to have a neurodiverse workforce, in order for it to be successful we need to take of our rose-tinted glasses or we risk setting false expectations of people and excluding the very people we are trying to include.
 segments: [education, employers, diagnosis, careers]
-creditURL: https://pixabay.com
-creditText: Sergiey Validoff
+creditURL: https://pixabay.com/users/michoff-10798847/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3860037
+creditText: Image by MICHOFF
 ---
-**Thumbnail image:** NeurodiversityWorkplace
-
-**Image credit**: Image
-by [MICHOFF](https://pixabay.com/users/michoff-10798847/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3860037) from [Pixabay](https://pixabay.com/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3860037) 
-
-**Thumbnail title:** Neurodiversity in the workplace
-
-**Thumbnail description:** Keeping the conversation and neurodiversity
-in the workplace as realistic as possible is important. Not everyone
-with autism and neurodiversity will suddenly bring innovation,
-superpowers, or an unstoppable work ethic into a company. Whilst there
-are certainly benefits to have a neurodiverse workforce, in order for it
-to be successful we need to take of our rose-tinted glasses or we risk
-setting false expectations of people and excluding the very people we
-are trying to include.
-
-**SEO (Meta) Title:** Aspiedent on the reality of autism and
-neurodiversity in the workplace
-
-**SEO (Meta) Description:** What can you actually expect of a
-neurodiverse workforce? Aspiedent discusses the reality of autism and
-neurodiversity in the workplace.
-
-**I employed a genius with autism, but it did not go very well... **
+**I employed a genius with autism, but it did not go very well...**
 
 Well, the above is not exactly true. Elizabeth Aspiedent's founder is
 autistic, and she is a genius. 
@@ -190,12 +167,4 @@ weaknesses exist, and the underlying cause of them. Instead of ignoring
 them, we acknowledge them, and we work with them (not against them).
 This creates a successful and truly diverse working environment.
 
-Essentially, we teach others how to do this. 
-
-**For LinkedIn:** If you would like to learn more about how to do this
-in your workplace, why not book on our [training for employers in
-September ]or[ contact us for a chat. ]
-
-**For website:** If you would like to learn more about how to do this in
-your workplace, why not [book on our employer training]
-or [contact us for a chat].
+Essentially, we teach others how to do this.

@@ -5,47 +5,18 @@ tags: ['autism', 'neurodiversity', 'profile', 'change', 'symptoms', 'executive f
 date: Jul 30, 2021, 4:12 PM
 image: /assets/blog/Aspiedent2021.png
 thumbnail: /assets/blog/thumbnails/Aspiedent2021.jpg
-metaTitle: SEO Meta Title Goes Here
-metaDescription: SEO meta description goes here.
+metaTitle: Post diagnostic support for autistic children - Autism profiling
+metaDescription: Post diagnostic support for children with autism - Autism profiling. Aspiedent explains the importance and benefits of Autism profiles for children with autism.
 author: [Jen Blacow]
 authorImage: [jen]
 description: Post diagnostic support for children with autism is well-known to be difficult to obtain. Not only that, but it is not always at all helpful. Aspiedent have a solution - Autism profiling. There are many underlying reasons why a child may struggle with any one autism symptom. This blog post discusses helping autistic children by figuring out and targeting their underlying autism issues. These underlying issues cause their autism symptoms, so doing it this way means that the child can become best equipped to reach their potential.
 segments: [education, diagnosis]
-creditURL: https://pixabay.com
-creditText: Sergiey Validoff
+creditURL: https://www.aspiedent.com
+creditText: Image by Aspiedent CIC
 ---
-**Thumbnail image: **
+## After Autism diagnosis support: The Importance of Profiling the Autism of a child 
 
-**Image credit**:
-
-**Thumbnail title:** Autism Profiles for Children
-
-**Thumbnail description:** Post diagnostic support for children with
-autism is well-known to be difficult to obtain. Not only that, but it is
-not always at all helpful. Aspiedent have a solution: Autism profiling.
-There are many underlying reasons why a child may struggle with any one
-autism symptom. This blog post discusses helping autistic children by
-figuring out and targeting their underlying autism issues. These
-underlying issues cause their autism symptoms, so doing it this way
-means that the child can become best equipped to reach their potential.
-
-**SEO (Meta) Title:** Post diagnostic support for autistic children:
-Autism profiling.
-
-**SEO (Meta) Description:** Post diagnostic support for children with
-autism: Autism profiling. Aspiedent explains the importance and benefits
-of Autism profiles for children with autism.
-
-Autism Profiles for Children
-============================
-
-Autism Profiles for Children
-
-After Autism diagnosis support: The Importance of Profiling the Autism
-of a child
-
-A relatively quick and appropriately costed [autism
-profile](https://aspiedent.com/index.php/blog/autism-profiling-tool-introduction) for your child with autism or other form of
+A relatively quick and appropriately costed [autism profile](/posts/autism-profiling-tool-breif-introduction) for your child with autism or other form of
 neurodiversity, after diagnosis, can save a child (who will grow up to
 be an adult), decades of heartache, frustration, and mental health
 problems.
@@ -144,8 +115,7 @@ the inability to join in with activities that peers enjoyed such as
 dancing and acrobatics.
 
 The school provided coloured overlays to help one of the children read,
-but there was no suggested assessment for [Irlen
-lenses](https://irlen.com/), even though it was clear that reading the
+but there was no suggested assessment for [Irlen lenses](https://irlen.com/), even though it was clear that reading the
 board was a problem for the child.
 
 To be fair, though, Irlen lenses are expensive and not something the
@@ -223,10 +193,4 @@ issues such as attachment issues or trauma. However, at the moment we
 have to charge parents for this which creates a barrier to real,
 effective, positive change for their child.
 
-For Linkedin: If you think an autism profile is something you would
-benefit from knowing more about, please reach out to me (Jen) at
-<j.blacow@aspiedent.com> or on 07717 404846.
-
-For Website: If you think an autism profile is something you would
-benefit from knowing more about, contact us at <info@aspiedent.com> or
-on 07717 404846.
+**If you think an autism profile is something you would benefit from knowing more about, contact us at <info@aspiedent.com> or on 07717 404846.**

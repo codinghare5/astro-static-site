@@ -5,38 +5,15 @@ tags: ['autism', 'neurodiversity', 'profile', 'activist', 'mental health']
 date: Jul 17, 2021, 7:51 AM
 image: /assets/blog/IdentityAutism.png
 thumbnail: /assets/blog/thumbnails/IdentityAutism.jpg
-metaTitle: SEO Meta Title Goes Here
-metaDescription: SEO meta description goes here.
+metaTitle: Identity, Discrimination and Autism
+metaDescription: Aspiedent highlight some of the reasons why we do not believe autism & identity politics mix well and vents some frustrations about the topics of identity and discrimination.
 author: [Jen Blacow]
 authorImage: [jen]
 description: Although there is always space for Activism, Aspiedent try to stay away from political ideologies in relation to autism. Identity politics in particular is sometimes referred to regarding autism and the experience of being autistic. This blog post highlights some of the reasons why we do not believe autism & identity politics mix well and vents some frustrations about the topics of identity and discrimination.
 segments: [education, employers, diagnosis, careers]
-creditURL: https://pixabay.com
-creditText: Sergiey Validoff
+creditURL: https://pixabay.com/users/gdj-1086657/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2750393
+creditText: Image by Gordon Johnson
 ---
-**Thumbnail image:** Identity&Autism
-
-**Image credit**: Image by [Gordon
-Johnson](https://pixabay.com/users/gdj-1086657/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2750393) from [Pixabay](https://pixabay.com/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2750393) 
-
-**Thumbnail title:** Identity, Discrimination and Autism
-
-**Thumbnail description:** Although there is always space for Activism,
-Aspiedent try to stay away from political ideologies in relation to
-autism. Identity politics in particular is sometimes referred to
-regarding autism and the experience of being autistic. This blog post
-highlights some of the reasons why we do not believe autism & identity
-politics mix well and vents some frustrations about the topics of
-identity and discrimination.
-
-**SEO (Meta) Title:** Identity, Discrimination and Autism
-
-**SEO (Meta) Description:** Aspiedent highlight some of the reasons why
-we do not believe autism & identity politics mix well and vents some
-frustrations about the topics of identity and discrimination.
-
-**Identity, Discrimination & Autism **
-
 This is possibly the most personal post I have ever written. Some may
 think it's controversial, but I only want open-minded debate and healthy
 discussion. 
@@ -55,10 +32,9 @@ One can most likely have lots of 'identities'. For example, the very
 same person can identify as a woman, a mother, a lawyer, and a sufferer
 of Inflammatory bowel disease. 
 
-\* *The Cambridge dictionary definition of identity is as follows:
+The Cambridge dictionary definition of identity is as follows:
 
-*Identity is defined as "who a person is, or the qualities of a person
-or group that make them different from others".*
+*Identity is defined as "who a person is, or the qualities of a person or group that make them different from others".*
 
 Somebody recently highlighted to me that perhaps I had not bothered to
 change my Maiden name (Blacow) to my married name (Hughes), because it
@@ -98,7 +74,7 @@ TLDR: I see more people complaining about discrimination than I actually
 see or experience discrimination. But I am also a target for
 discrimination, so I cannot be too 'blind' to it. What is going on?
 
-**Then I looked up the notion of 'Identity politics'. **
+**Then I looked up the notion of 'Identity politics'.**
 
 I believe that there is nothing wrong with identity in general. But
 where I get worried is when it moves into the realm of 'identity
@@ -227,4 +203,4 @@ as always helpful. In fact, in some cases, they can be harmful and the
 opposite of inclusive. 
 
 If you want to ask questions or discuss anything in this blog post,
-please e-mail Jen at <j.blacow\@aspiedent.com>.
+please e-mail Jen at <j.blacow@aspiedent.com>.

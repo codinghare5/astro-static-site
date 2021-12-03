@@ -5,38 +5,16 @@ tags: ['autism', 'neurodiversity', 'profile', 'processing issues', 'sensory issu
 date: Jun 21, 2021, 11:17 AM
 image: /assets/blog/AutismProfilingDiagram.png
 thumbnail: /assets/blog/thumbnails/AutismProfilingDiagram.jpg
-metaTitle: SEO Meta Title Goes Here
-metaDescription: SEO meta description goes here.
+metaTitle: Aspiedent’s Autism Profile Tool - An Introduction
+metaDescription: Aspiedent talks about its Autism Profile tool and why it truly has the potential to change autistic people’s lives for the better in an affordable, accessible, and quality-managed way.
 author: [Jen Blacow]
 authorImage: [jen]
 description: This blog post describes Aspiedent’s Autism Profile Tool. What is it and why are we so excited about it? We have become excited about our plans to get our autism profile tool ‘online’, which involves standardising it and then scaling it so that many more people across the world can benefit from it.
 segments: [education, employers, diagnosis, careers]
-creditURL: https://pixabay.com
-creditText: Sergiey Validoff
+creditURL: https://www.aspiedent.com
+creditText: Image by Aspiedent CIC 2021
 ---
-**Thumbnail image:** AutismProfilingToolIntro
-
-**Image credit:**   
-
-**Thumbnail title:** Autism Profiling Tool: An Introduction
-
-**Thumbnail description:** This blog post describes Aspiedent's Autism
-Profile Tool. What is it and why are we so excited about it? We have
-become excited about our plans to get our autism profile tool 'online',
-which involves standardising it and then scaling it so that many more
-people across the world can benefit from it.
-
-**SEO (Meta) Title**: Aspiedent's Autism Profile Tool: An Introduction
-
-**SEO (Meta) Description:** Aspiedent talks about its Autism Profile
-tool and why it truly has the potential to change autistic people's
-lives for the better in an affordable, accessible, and quality-managed
-way.
-
-**Title:** Autism Profiling Tool: An Introduction
-
-**Autism Profiling: One small step for Aspiedent, one giant leap for
-autism. **
+**Autism Profiling: One small step for Aspiedent, one giant leap for autism.**
 
 **Autism Profiles: An Introduction**
 
@@ -56,7 +34,7 @@ quality-managed way.
 
 But it is a work in progress.
 
-**What is the Autism Profiling Tool? **
+**What is the Autism Profiling Tool?**
 
 The Autism Profiling tool is a system/framework that we use to get
 underneath a person's *outward symptoms* of 'neurodiversity' (e.g.
@@ -96,9 +74,7 @@ way of moving forward into the future.
 
 For example, many autistic people struggle with change. When an
 assessment is currently done on such a person in school or example, the
-assessment only usually goes as far as "*this person struggles with
-change, therefore this person should be given plenty of notice to manage
-changes*". 
+assessment only usually goes as far as "*this person struggles with change, therefore this person should be given plenty of notice to manage changes*". 
 
 However, many different reasons may underlie, (be the root cause of),
 their difficulty with change.
@@ -212,8 +188,7 @@ Currently, we have to administer these profiles in person and it takes
 many hours of work and comes at a price. We cannot do more than perhaps
 four a month, at a push.
 
-**The potential benefits of scaling this tool are massive. They
-include:**
+**The potential benefits of scaling this tool are massive. They include:**
 
 -   Far quicker diagnosis of actual issues and implementation of correct
     interventions, than ever before.
@@ -230,8 +205,6 @@ include:**
     employers, and even trusted and reliable peers so that the autistic
     person can get off to a better start when making new relationships
     with people in mainstream environments.
-
-<!-- -->
 
 -   This ability to inform exactly what software is likely to help,
     rather than a one size fits all approach to prescribing software.
@@ -295,9 +268,5 @@ go towards the social good. For example, Elizabeth would love to be
 involved in creating learning materials for people who think in a wide
 range of different ways.
 
-For LinkedIn: If you would like to chat with us about our work or have
-any ideas that might help, please get in contact with us at
-<info@aspiedent.com> or call 07717 404846.
-
-For Website: If you would like to chat with us about our work or have
+If you would like to chat with us about our work or have
 any ideas that might help, please **get in contact** with us.

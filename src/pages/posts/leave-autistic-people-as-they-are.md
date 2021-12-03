@@ -5,101 +5,15 @@ tags: ['autism', 'neurodiversity', 'profile', 'sensory issues', 'change']
 date: May 26, 2021, 4:11 PM
 image: /assets/blog/LeaveAutisticPeopleAsTheyAre.jpg
 thumbnail: /assets/blog/thumbnails/LeaveAutisticPeopleAsTheyAre.jpg
-metaTitle: SEO Meta Title Goes Here
-metaDescription: SEO meta description goes here.
+metaTitle: Two autism myths about autism adjustments
+metaDescription: We discuss two autism myths related to autism adjustments and outline that many autistic people do not go along with them...
 author: [Jen Blacow]
 authorImage: [jen]
 description: There are two autism myths. One is that autism adjustments should be made so much that autistic people should never be expected to change or adapt to fit in with ‘society’. The other is that autistic people should have their autistic traits trained out of them. What connects these myths is the fact that society cannot accommodate completely to the needs of any individual. Read on for more…
 segments: [education, employers, diagnosis, careers]
-creditURL: https://pixabay.com
-creditText: Sergiey Validoff
+creditURL: https://pixabay.com/users/prawny-162579/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1653150
+creditText: Image by Prawny
 ---
-## Leave Autistic People as they are and accommodate for them.
-============================================================
-
-The following appeared on my LinkedIn feed. The problem is that both
-boxes are myths. Increasingly in our workplace assessments we are having
-to deal with autistic people who have got sucked into the
-"Neurodiversity" narrative and think that their employer should have to
-do all the accommodations, and they should not have to adapt at all.
-This is a very dangerous half truth.
-
-![No alternative text description for this
-image](media/image1.jpeg)
-
-My response to this was:
-
-I can\'t agree fully with this. I will give an example.
-We have been working with a young lady for over a year now who was
-facing a lot of barriers in her quest to get a job and in building
-relationships with others.
-
-It took me a while to work out what her underlying difficulties were,
-but it turned out that she rote learned everything. The solution was
-quite simply to teach her how to think and how to solve problems. This
-was done using her interests. She loved the work and was well
-motivated.
-
-The results which started to become visible after a few months were
-1) It became possible to actually have a two way conversation with her.
-She was better able to listen and respond to what you said. Before she
-was simply picking up on key words and phrases and saying something.
-2) Her relationships with her family improved dramatically. They started
-inviting her round regularly rather than just occasionally. They started
-to really support her.
-3) She became much less rigid in her plans and because much more able to
-change them as circumstances changed. As a result he was able to move
-into much better accommodation nearer to her relatives when it became
-available.
-4) She became able to benefit from a college course.
-5) She has become able to think critically to a certain extent. Her
-ability to see the funny side of things without having it explained is
-much improved.
-
-I get the impression from the comments that this kind of intervention
-would be very much frowned upon and we should have left her \'as she
-was\' and worked to change her environment and worked to educate those
-around her. But her life is much improved as a result of our
-intervention and she is much happier in so many ways. There is no way
-she could be successful in life \'as she was\'.
-
-I know I will get shot down for this, but I find this whole notion of
-\'disabled by society\' and that autistic people are ok as they are and
-that they should not be expected to adjust to the world around them just
-as bad as the notion that all autistic people should have their autism
-fully trained out of them.
-
-Both the boxes in this post are myths.
-
-Please could we have some balance in this?
-
-**Thumbnail image:** LeaveAutisticPeopleAsTheyAre
-
-**Image credit:**
-  Image by [Prawny](https://pixabay.com/users/prawny-162579/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1653150) from [Pixabay](https://pixabay.com/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1653150)
-
-**Thumbnail title:** Two half Truths about Autism and Society** **
-
-**Thumbnail description:** There are two autism myths. One is that
-autism adjustments should be made so much that autistic people should
-never be expected to change or adapt to fit in with 'society'. The other
-is that autistic people should have their autistic traits trained out of
-them. What connects these myths is the fact that society cannot
-accommodate completely to the needs of any individual. Read on for
-more...
-
-Please see here for more of our blogs.
-
-**SEO (Meta) Title**: Two autism myths about autism adjustments
-
-**SEO (Meta) Description:** We discuss two autism myths related to
-autism adjustments and outline that many autistic people do not go along
-with them..
-
-**Title:** Two half Truths about Autism and Society 
-
-**The two half Truths about Autism and Society **
-
 Recently we came across a post on LinkedIn which contained two 'myths'
 relating to autism. These were:
 
@@ -116,8 +30,7 @@ autism. I am just putting it in a different format in this blog.
 
 Let us deal with the first one:
 
-**Myth 1: Autistic people will succeed in life if their autism is
-trained out of them.**
+**Myth 1: Autistic people will succeed in life if their autism is trained out of them.**
 
 Well actually, we have been working with a young autistic woman for over
 a year now who was facing a lot of barriers in her quest to get a job
@@ -194,8 +107,7 @@ have their autism fully trained out of them.
 
 This leads to the next 'myth'.
 
-**Myth 2: Autistic people should never have their autistic traits
-trained out of them. They will be successful in life as who they are.**
+**Myth 2: Autistic people should never have their autistic traits trained out of them. They will be successful in life as who they are.**
 
 In some ways this is true. The notion of training autism out of somebody
 in some cases is absurd. For example, somebody who has over-sensitivity

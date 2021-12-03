@@ -5,42 +5,16 @@ tags: ['autism', 'neurodiversity', 'profile', 'mental health']
 date: Jul 9, 2021, 6:12 PM
 image: /assets/blog/MovingForwardAutismEmployment.jpg
 thumbnail: /assets/blog/thumbnails/MovingForwardAutismEmployment.jpg
-metaTitle: SEO Meta Title Goes Here
-metaDescription: SEO meta description goes here.
+metaTitle: How to treat autistic adults? Well, treat them like adults!
+metaDescription: Aspiedent explains why it is important adults with disabilities to challenge themselves, whilst also accepting things they cannot change.
 author: [Jen Blacow]
 authorImage: [jen]
 description: Aspiedent expects the autistic adults we support into employment to do things they find uncomfortable. This post touches on how and why this is important and gives examples. For anybody to meet their potential, they must be prepared to be challenged, endure difficult experiences and accept the things they can’t change. How to support mental health at work is a hot topic at the moment. We argue that challenging people can be good for their mental health in the long term.
 segments: [education, employers, diagnosis, careers]
-creditURL: https://pixabay.com
-creditText: Sergiey Validoff
+creditURL: https://pixabay.com/users/mohamed_hassan-5229782/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2488210
+creditText: Image by Mohamed Hassan
 ---
-**Thumbnail image:** MovingForwardAutismEmployment
-
-**Image credit**: Image by [mohamed
-Hassan](https://pixabay.com/users/mohamed_hassan-5229782/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2488210) from [Pixabay](https://pixabay.com/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2488210)
-
-**Thumbnail title:** Moving forward despite disabilities and
-difficulties
-
-**Thumbnail description:** Aspiedent expects the autistic adults we
-support into employment to do things they find uncomfortable. This post
-touches on how and why this is important and gives examples. For anybody
-to meet their potential, they must be prepared to be challenged, endure
-difficult experiences and accept the things they can't change. How to
-support mental health at work is a hot topic at the moment. We argue
-that challenging people can be good for their mental health in the long
-term.
-
-**SEO (Meta) Title:** How to treat autistic adults? Well, treat them
-like adults!
-
-**SEO (Meta) Description:** Aspiedent explains why it is important
-adults with disabilities to challenge themselves, whilst also accepting
-things they cannot change.
-
-**Title:** Moving Forward despite disabilities and difficulties
-
-**Try not to let fear hold you back **
+**Try not to let fear hold you back**
 
 Aspiedent helps autistic people develop their skills and move forward in
 life. Helping autistic people move forwards might sound like an easy
@@ -221,7 +195,7 @@ We need to challenge autistic job seekers to do things they find
 uncomfortable to help them to succeed. (Even though they might hate us
 at the time!)
 
-**Try not to let fear or negative past experiences hold you back. **
+**Try not to let fear or negative past experiences hold you back.**
 
 The points I am trying to get across here are quite simple. Truly
 helping people with autism & neurodiversity develop and be in successful
@@ -237,8 +211,5 @@ struggles and that it does for everyone.
 Try not to let fear hold you back. Through great adversity and the use
 of courage come great things.
 
-**For LinkedIn**: Email me at j.blacow\@aspiedent.com or call me on
-07717 404846.
-
-**For website**: [Contact us by email](contact form)
-or call us on 07717 404846.
+**[Contact us ](/contact)**
+or call us on **07717 404846**.
