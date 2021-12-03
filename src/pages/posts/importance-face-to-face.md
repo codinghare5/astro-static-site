@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: The Importance of Meeting Face to Face
 tags: ['autism', 'neurodiversity', 'profile', 'covid', 'networking', 'emotion', 'social media', 'meetings']
-date: Jun 10, 2020, 3:49 PM
+date: 10th June 2020
 image: FaceToFaceMeetings.png
 thumbnail: FaceToFaceMeetings.jpg
 metaTitle: Online meetings and the importance of meeting people face to face

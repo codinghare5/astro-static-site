@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: The impact of an autism profile
 tags: ['autism', 'neurodiversity', 'profile', 'symptoms', 'mental health', 'workplace assessment', 'reasonable adjustments']
-date: Nov 11, 2020, 4:30 PM
+date: 11th November 2020
 image: ImpactAutismProfile.jpg
 thumbnail: ImpactAutismProfile.jpg
 metaTitle: Positive Impacts of Autism Profiles by Aspiedent

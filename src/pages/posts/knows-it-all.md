@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: Autistic Employees - Not accepting authority?
 tags: ['autism', 'neurodiversity', 'profile', 'change', 'workplace assessment']
-date: Apr 21, 2021, 3:29 PM
+date: 21st April 2021
 image: KnowsItAll.jpg
 thumbnail: KnowsItAll.jpg
 metaTitle: Employee with autism seems not to accept authority? What is really going on. 

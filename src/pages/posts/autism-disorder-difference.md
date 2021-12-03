@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: Is Autism a Disorder or a Difference?
 tags: ['autism', 'neurodiversity', 'profile', 'disability', 'superpower', 'sensory issues', 'symptoms', 'severe']
-date: Jul 2, 2020, 2:40 PM
+date: 2nd July 2020
 image: AutismDisorderDifference.jpg
 thumbnail: AutismDisorderDifference.jpg
 metaTitle: Is ASD, also known as Autism, a Disorder, or a Difference?

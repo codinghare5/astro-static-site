@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: Autism does not have a monopoly on Sensory Issues
 tags: ['autism', 'neurodiversity', 'profile', 'sensory issues']
-date: Oct 29, 2021, 6:01 PM
+date: 29th October 2021
 image: MonopolySensoryIssues.jpg
 thumbnail: MonopolySensoryIssues.jpg
 metaTitle: Autism sensory issues - Ensuring an accessible workplace for everyone

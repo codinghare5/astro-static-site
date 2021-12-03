@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: Self-employment (for the unorganised) - To-Do 'Lists'
 tags: ['autism', 'neurodiversity', 'profile']
-date: Jun 11, 2021, 4:20 PM
+date: 11th June 2021
 image: SelfEmployment2.jpg
 thumbnail: SelfEmployment2.jpg
 metaTitle: Organisational tools for the self-employed - To Do ‘Lists’

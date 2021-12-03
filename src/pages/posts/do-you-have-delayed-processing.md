@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: Do you have delayed processing?
 tags: ['delayed processing']
-date: Nov 26, 2021, 8:27 PM
+date: 26th November 2021
 image: DelayedProcessing.jpg
 thumbnail: DelayedProcessing.jpg
 metaTitle: What is delayed processing in autism?

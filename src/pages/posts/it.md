@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: Are Autistic people good at IT?
 tags: ['autism', 'neurodiversity', 'profile']
-date: Sep 30, 2020, 7:06 PM
+date: 30th September 2020
 image: ITAutismImage.jpg
 thumbnail: ITAutismImage.jpg
 metaTitle: Why are autistic people often considered good at IT? Is it true? Aspiedent explains

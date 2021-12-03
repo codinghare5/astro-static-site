@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: The controversy surrounding a 'cure' for autism
 tags: ['autism', 'neurodiversity', 'profile', 'activist', 'sensory issues']
-date: Sep 24, 2021, 5:09 PM
+date: 24th September 2021
 image: BabyStudyOutrage.png
 thumbnail: BabyStudyOutrage.jpg
 metaTitle: Autism diagnosis and new findings

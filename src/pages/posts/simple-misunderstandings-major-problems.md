@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: Simple Misunderstandings Major Problems
 tags: ['autism', 'neurodiversity', 'profile']
-date: Nov 27, 2020, 12:41 PM
+date: 27th November 2020
 image: MisunderstandingsProblems.jpg
 thumbnail: MisunderstandingsProblems.jpg
 metaTitle: Aspiedent highlights how simple misunderstandings can cause major issues with autism in the workplace. 

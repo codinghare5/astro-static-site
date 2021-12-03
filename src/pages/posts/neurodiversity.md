@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: Neurodiversity in the workplace
 tags: ['autism', 'neurodiversity', 'profile', 'ways of thinking']
-date: Jul 23, 2021, 3:11 PM
+date: 23rd July 2021
 image: NeurodiversityWorkplace.jpg
 thumbnail: NeurodiversityWorkplace.jpg
 metaTitle: Aspiedent on the reality of autism and neurodiversity in the workplace 

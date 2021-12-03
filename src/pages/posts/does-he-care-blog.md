@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: Does my employee even care?
 tags: ['autism', 'neurodiversity', 'profile']
-date: Dec 3, 2020, 1:01 PM
+date: 3rd December 2020
 image: DoesHeCare.jpg
 thumbnail: DoesHeCare.jpg
 metaTitle: Aspiedent discusses autism in relation to employee behaviour and misunderstandings.

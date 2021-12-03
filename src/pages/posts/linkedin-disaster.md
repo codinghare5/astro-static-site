@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: LinkedIn Disaster
 tags: ['autism', 'neurodiversity', 'profile', 'social media', 'genious', 'social skills']
-date: Jun 3, 2020, 2:37 PM
+date: 3rd June 2020
 image: SocialMediaHelp.png
 thumbnail: SocialMediaHelp.jpg
 metaTitle: Autism and social media sites

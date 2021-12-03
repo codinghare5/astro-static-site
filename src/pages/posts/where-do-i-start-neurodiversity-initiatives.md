@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: Company Neurodiversity Inclusion - Where to start?
 tags: ['autism', 'neurodiversity', 'profile']
-date: Jul 2, 2021, 11:45 AM
+date: 2nd July 2021
 image: WhereDoIStartNeurodiversityInitiatives.jpg
 thumbnail: WhereDoIStartNeurodiversityInitiatives.jpg
 metaTitle: Company Neurodiversity Workplace Inclusion - Where to start?
