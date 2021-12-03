@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: Resources for Autistic Employees and their Employers - Workplace Assessments
 tags: ['autism', 'neurodiversity', 'profile', 'resoures', 'occupational health', 'workplace assessment', 'disability', 'reasonable adjustments']
-date: 7th August 2020
+date: 7 August 2020
 image: WorkplaceAssessmentBlog.png
 thumbnail: WorkplaceAssessmentBlog.jpg
 metaTitle: Key things to know when looking for help with autism at work. 

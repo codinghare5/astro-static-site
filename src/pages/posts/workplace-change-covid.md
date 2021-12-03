@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: Autism, Change and Covid-19
 tags: ['autism', 'neurodiversity', 'profile', 'mindset', 'covid', 'change', 'workplace', 'mental health', 'sensory issues']
-date: 26th June 2020
+date: 26 June 2020
 image: CovidChangeAutism.jpg
 thumbnail: CovidChangeAutism.jpg
 metaTitle: Covid-19, autism and change in routine. Good or bad?

@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: Two half Truths about Autism and Society
 tags: ['autism', 'neurodiversity', 'profile', 'sensory issues', 'change']
-date: 26th May 2021
+date: 26 May 2021
 image: LeaveAutisticPeopleAsTheyAre.jpg
 thumbnail: LeaveAutisticPeopleAsTheyAre.jpg
 metaTitle: Two autism myths about autism adjustments

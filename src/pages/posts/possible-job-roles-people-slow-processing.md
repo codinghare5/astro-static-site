@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: Possible Job Roles for slow processing of incoming information
 tags: ['autism', 'neurodiversity', 'profile', 'change', 'processing issues']
-date: 19th November 2021
+date: 19 November 2021
 image: JobsSlowProcessing.jpg
 thumbnail: JobsSlowProcessing.jpg
 metaTitle: Possible jobs for people with slow processing speed

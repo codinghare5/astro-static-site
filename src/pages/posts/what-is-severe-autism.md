@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: What are mild and severe autism?
 tags: ['autism', 'neurodiversity', 'profile', 'severe', 'mild']
-date: 1st October 2021
+date: 1 October 2021
 image: WhatIsSevereAutism.jpg
 thumbnail: WhatIsSevereAutism.jpg
 metaTitle: What does mild autism and severe autism mean?

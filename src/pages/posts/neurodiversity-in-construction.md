@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: Does the Construction Sector Deserve Neurodiverse People?
 tags: ['autism', 'neurodiversity', 'profile']
-date: 10th May 2021
+date: 10 May 2021
 image: NeurodiversityInConstruction.jpg
 thumbnail: NeurodiversityInConstruction.jpg
 metaTitle: Does the Construction Sector Deserve Neurodiverse People?

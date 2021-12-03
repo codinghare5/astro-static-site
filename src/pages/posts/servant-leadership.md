@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: Autism friendly management style – servant leadership?
 tags: ['autism', 'neurodiversity', 'profile']
-date: 22nd October 2021
+date: 22 October 2021
 image: ServantLeadership.jpg
 thumbnail: ServantLeadership.jpg
 metaTitle: Autism friendly employers and neurodiversity friendly employers

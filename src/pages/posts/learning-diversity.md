@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: Can we get some more humility in the (class)room please?
 tags: ['autism', 'neurodiversity', 'profile', 'ways of thinking']
-date: 20th May 2021
+date: 20 May 2021
 image: LeaningDiversity.jpg
 thumbnail: LeaningDiversity.jpg
 metaTitle: Are company diversity and inclusion initiatives missing humility?

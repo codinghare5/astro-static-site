@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: Bad, Mad, Difficult?
 tags: ['autism', 'neurodiversity', 'profile', 'change', 'symptoms', 'ways of thinking']
-date: 19th November 2020
+date: 19 November 2020
 image: MadBadDifficult.jpg
 thumbnail: MadBadDifficult.jpg
 metaTitle: Aspiedent discusses the reality of neurodiversity at work

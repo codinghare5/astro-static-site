@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: Autism, COVID Restrictions and Employment
 tags: ['autism', 'neurodiversity', 'profile', 'sensory issues', 'covid', 'employment law', 'unemployment']
-date: 16th October 2020
+date: 16 October 2020
 image: CovidEmployment.jpg
 thumbnail: CovidEmployment.jpg
 metaTitle: Autism and Covid Restrictions - Employment

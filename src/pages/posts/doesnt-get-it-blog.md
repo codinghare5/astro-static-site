@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: Autistic Employees - Why don't they get it?
 tags: ['autism', 'neurodiversity', 'profile']
-date: 13th April 2021
+date: 13 April 2021
 image: DoesNotGetIt.jpg
 thumbnail: DoesNotGetIt.jpg
 metaTitle: This blog provides examples of disruption due to autism in the workplace and some simple solutions.

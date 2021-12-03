@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: The World Reject Hole
 tags: ['autism', 'neurodiversity', 'profile', 'mental health']
-date: 7th October 2020
+date: 7 October 2020
 image: WorldRejectHole.jpg
 thumbnail: WorldRejectHole.jpg
 metaTitle: Autism and Covid Lockdown - Impacts and the world reject hole

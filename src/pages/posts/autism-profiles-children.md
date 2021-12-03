@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: Autism Profiles for Children
 tags: ['autism', 'neurodiversity', 'profile', 'change', 'symptoms', 'executive functioning', 'mental health', 'reasonable adjustments']
-date: 30th July 2021
+date: 30 July 2021
 image: Aspiedent2021.png
 thumbnail: Aspiedent2021.jpg
 metaTitle: Post diagnostic support for autistic children - Autism profiling

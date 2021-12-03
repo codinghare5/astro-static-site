@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: Identity, Discrimination and Autism
 tags: ['autism', 'neurodiversity', 'profile', 'activist', 'mental health']
-date: 17th July 2021
+date: 17 July 2021
 image: IdentityAutism.png
 thumbnail: IdentityAutism.jpg
 metaTitle: Identity, Discrimination and Autism

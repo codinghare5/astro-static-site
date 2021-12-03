@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: Autism in small companies
 tags: ['autism', 'neurodiversity', 'profile', 'change']
-date: 18th September 2020
+date: 18 September 2020
 image: AutismSmallCompanies.png
 thumbnail: AutismSmallCompanies.jpg
 metaTitle: Can small business benefit from having employees with autism?

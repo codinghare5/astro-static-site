@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: Autism Profiling Tool - An Introduction
 tags: ['autism', 'neurodiversity', 'profile', 'processing issues', 'sensory issues', 'change', 'symptoms', 'executive functioning']
-date: 21st June 2021
+date: 21 June 2021
 image: AutismProfilingDiagram.png
 thumbnail: AutismProfilingDiagram.jpg
 metaTitle: Aspiedent’s Autism Profile Tool - An Introduction

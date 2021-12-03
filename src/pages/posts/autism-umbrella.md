@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: Autism is an Umbrella Term
 tags: ['autism', 'neurodiversity', 'profile', 'activist', 'processing issues', 'sensory issues', 'change', 'symptoms', 'executive functioning', 'severe']
-date: 2nd September 2020
+date: 2 September 2020
 image: AutismIsAnUmbrellaTerm.jpg
 thumbnail: AutismIsAnUmbrellaTerm.jpg
 metaTitle: What is autism? An insightful blog post by Aspiedent Autism Training & Consultancy which includes a discussion about what causes autism.

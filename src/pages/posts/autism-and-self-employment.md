@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: Autism Self Employment
 tags: ['autism', 'neurodiversity', 'profile', 'executive functioning']
-date: 4th June 2021
+date: 4 June 2021
 image: AutismSelfEmployment.png
 thumbnail: AutismSelfEmployment.jpg
 metaTitle: Autism Self employment 

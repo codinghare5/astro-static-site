@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: Moving Forward despite disabilities and difficulties
 tags: ['autism', 'neurodiversity', 'profile', 'mental health']
-date: 9th July 2021
+date: 9 July 2021
 image: MovingForwardAutismEmployment.jpg
 thumbnail: MovingForwardAutismEmployment.jpg
 metaTitle: How to treat autistic adults? Well, treat them like adults!

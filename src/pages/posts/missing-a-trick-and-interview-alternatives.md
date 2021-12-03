@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: Are you missing a trick in your struggle to obtain valuable employees?
 tags: ['autism', 'neurodiversity', 'profile', 'interview', 'skills']
-date: 9th July 2020
+date: 9 July 2020
 image: MissingATrick.png
 thumbnail: MissingATrick.jpg
 metaTitle: Employ people with autism - how could you benefit from it?

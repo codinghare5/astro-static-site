@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: Resources for Autistic Employees and their employers - Reasonable Adjustments.
 tags: ['autism', 'neurodiversity', 'profile', 'activist', 'autism friendly', 'resources', 'reasonable adjustments']
-date: 14th August 2020
+date: 14 August 2020
 image: Adjustments.jpg
 thumbnail: Adjustments.jpg
 metaTitle: Autism Reasonable Adjustments at work - Helpful Insights from Aspiedent

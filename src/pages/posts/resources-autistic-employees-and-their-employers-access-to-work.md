@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: Resources for Autistic Employees and their Employers - Access to Work
 tags: ['autism', 'neurodiversity', 'profile', 'resources', 'covid', 'networking', 'emotion', 'social media', 'meetings', 'reasonable adjustments']
-date: 24th July 2020
+date: 24 July 2020
 image: ATWBlog.jpg
 thumbnail: ATWBlog.jpg
 metaTitle: Resources and support for autism in the workplace - Access to Work. 

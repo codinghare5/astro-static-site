@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: Victims and Overcomers
 tags: ['autism', 'neurodiversity', 'profile', 'covid', 'mindset', 'discrimination']
-date: 19th June 2020
+date: 19 June 2020
 image: VictimOverComers.jpg
 thumbnail: VictimOverComers.jpg
 metaTitle: Business Network with Overcomers, not Victims 

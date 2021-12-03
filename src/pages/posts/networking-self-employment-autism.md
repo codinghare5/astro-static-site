@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: Business networking and autism
 tags: ['autism', 'neurodiversity', 'profile']
-date: 25th June 2021
+date: 25 June 2021
 image: NetworkingSelfEmploymentAutism.png
 thumbnail: NetworkingSelfEmploymentAutism.jpg
 metaTitle: Business networking and autism

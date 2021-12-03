@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: Is autism a super power? Not really.
 tags: ['autism', 'neurodiversity', 'profile', 'sensory issues']
-date: 8th October 2021
+date: 8 October 2021
 image: IsAutismASuperPower.png
 thumbnail: IsAutismASuperPower.jpg
 metaTitle: Autism is my superpower? Not really.
