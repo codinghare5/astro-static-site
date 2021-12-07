@@ -27,6 +27,20 @@ label, label:focus {
     border: none;
     outline: none;
 }
+button.action2 {
+    color: var(--accent-gold-100);
+    font-weight: 500;
+    background-color: var(--segment-purple-500);
+    border: 1px solid var(--accent-gold-100);
+    border-radius: 3px;
+    padding: 0.5rem;
+}
+button.action2:focus, button.action2:hover {
+    color: var(--accent-gold-400);
+    background-color: white;
+    border: 1px solid var(--accent-gold-400);
+    transform: scale(1.01618);
+}
 </style>
 <article class={segmentClass}>
     <section class="flex flex-col justify-center items-center py-20">
@@ -37,7 +51,7 @@ label, label:focus {
                 <label class="block outline-none focus:outline-none">
                     <input type="email" class="outline-none focus:outline-none" placeholder="Your best email"/>
                 </label>
-                <button class="action" type="button">Submit</button>
+                <button class="action2" type="button">Submit</button>
             </fieldset>
         </form>
     </section>

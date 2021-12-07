@@ -1,0 +1,43 @@
+<style>
+.trust {
+    background-color: var(--segment-blue-100);
+    border-radius: 5px;
+}
+button.action2 {
+    color: var(--accent-gold-100);
+    font-weight: 500;
+    background-color: var(--segment-purple-500);
+    border: 1px solid var(--accent-gold-100);
+    border-radius: 3px;
+    padding: 0.5rem;
+}
+
+button.action2:focus, button.action2:hover {
+    color: var(--accent-gold-400);
+    background-color: white;
+    border: 1px solid var(--accent-gold-400);
+    transform: scale(1.01618);
+}
+</style>
+<article class="trust">
+    <form class="mx-3 my-16">
+        <div class="flex justify-center pt-3 pb-6">
+            <h3 class="text-2xl">Contact Form</h3>
+        </div>
+        <fieldset class="flex md:flex-row mobile:flex-col gap-x-4">
+            <div class="flex flex-col flex-grow">
+                <label for="contact-name">Full name:</label>
+                <input id="contact-name" name="contact-name" type="text"/>
+            </div>
+            <div class="flex flex-col flex-grow">
+                <label for="contact-email">Best email:</label>
+                <input id="contact-email" name="contact-email" type="email"/>
+            </div>
+        </fieldset>
+        <fieldset class="flex flex-col flex-grow">
+            <label for="contact-message">Your message:</label>
+            <textarea id="contact-message" name="contact-message" rows="5"/>
+        </fieldset>
+        <button id="contact-submit" class="action2 my-4" type="button">Submit</button>
+    </form>
+</article>

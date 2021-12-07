@@ -1,0 +1,37 @@
+---
+export interface Props {
+  herotitle: string;
+  heroImage: string;
+}
+const { herotitle, heroImage } = Astro.props;
+const heroBgStyle = heroImage ? `background-image: url(/${heroImage}); background-repeat: no-repeat; background-position: center; background-size: cover;` : '';
+---
+<style>
+.hero {
+    color: var(--segment-purple-500);
+}
+.hero-title {
+    background-color: rgba(255, 255, 255, 0.4);
+    letter-spacing: 2px;
+}
+.clip {
+    clip-path: url(#mask);
+	object-fit: cover;
+    background-color: rgba(0, 0, 0, 0.4);
+}
+</style>
+<article class="hero clip flex flex-col justify-center items-center h-96 rounded-md" style={heroBgStyle}>
+    <section class="flex mx-3 flex-col justify-center items-center">
+        <h1 class="hero-title text-4xl font-bold p-4">{ herotitle }</h1>
+        <p class="py-3">
+            <slot/>
+        </p>
+    </section>
+    <svg width="0" height="0" viewBox="0 0 1 1">
+		<defs>
+			<clipPath id="mask" clipPathUnits="objectBoundingBox">
+				<path d="M1,0.92 C0.998,0.92,1,0.917,1,0.915 C1,0.851,1,0.074,1,0.005 C1,0.002,0.998,0,0.995,0 C0.943,0,0.5,0,0.5,0 C0.5,0,0.057,0,0.005,0 C0.002,0,0,0.002,0,0.005 C0,0.074,0,0.851,0,0.915 C0,0.917,0.002,0.92,0.004,0.92 C0.052,0.928,0.5,1,0.5,1 C0.5,1,0.948,0.928,0.996,0.92" fill="white"/>
+			</clipPath>
+		</defs>
+	</svg>
+</article>
