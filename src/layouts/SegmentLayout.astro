@@ -12,9 +12,10 @@ export interface Props {
     sampleProfileHeading: string;
     segmentColor: string;
     picture: string;
+    faq: any;
 }
 
-const { heroTitle, heroSubtitle, benefitsHeading, sampleProfileHeading, segmentColor, picture } = Astro.props;
+const { heroTitle, heroSubtitle, benefitsHeading, sampleProfileHeading, segmentColor, picture, faq } = Astro.props;
 ---
 <Segment herotitle={heroTitle} bgcolor={segmentColor}>
 	{ heroSubtitle }
@@ -23,5 +24,5 @@ const { heroTitle, heroSubtitle, benefitsHeading, sampleProfileHeading, segmentC
     <slot />
 </Benefits>
 <SampleProfile sampleProfileHeading={sampleProfileHeading} segmentColor={segmentColor}/>
-<Faq/>
+<Faq data={faq}/>
 <FullProfileRedir/>

@@ -11,6 +11,7 @@ sampleProfileHeading: Want to try a sample neurodiversity profile?
 segmentColor: purple
 segment: employers
 picture: road.jpg
+FAQ: {}
 ---
 
 Our neurodiversity profiling service has helped organisations, employers and HR Managers to:

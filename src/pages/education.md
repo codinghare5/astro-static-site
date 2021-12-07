@@ -11,6 +11,7 @@ sampleProfileHeading: Want to try a sample neurodiversity profile?
 segmentColor: red
 segment: education
 picture: profiles.png
+FAQ: {}
 ---
 
 Intro text content (list of benefits and bullet points can go here) - 

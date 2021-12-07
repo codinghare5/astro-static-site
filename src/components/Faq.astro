@@ -1,4 +1,8 @@
 ---
+export interface Props {
+    data: any;
+}
+const { data } = Astro.props;
 const questions = [
 							'What does a neurodiversity profile involve?',
 							'How long does a neurodiversity profile take?',
@@ -77,12 +81,12 @@ const questions = [
 		<h3 class="text-xl font-medium my-3">Frequently asked questions</h3>
 		<div class="max-w-screen-md w-full md:w-3/5 mx-auto p-4">
 			<div class="bg-white shadow-md">
-			{questions.map((question, index) => {
+			{Object.entries(data).map(([question, answer], index) => {
 				return <div class="tab w-full overflow-hidden border-t">
 					<input class="absolute opacity-0" id={`tab-single-${index}`} type="radio" name="tabs2">
 					<label class="block p-5 leading-normal cursor-pointer" for={`tab-single-${index}`}>{question}</label>
 					<div class="tab-content overflow-hidden border-l-2 bg-gray-100 border-indigo-500 leading-normal">
-						<p class="p-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur, architecto, explicabo perferendis nostrum, maxime impedit atque odit sunt pariatur illo obcaecati soluta molestias iure facere dolorum adipisci eum? Saepe, itaque.</p>
+						<p class="p-5">{answer}</p>
 					</div>
 				</div>
 			})}
