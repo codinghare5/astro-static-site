@@ -4,6 +4,7 @@ import HeroImage from '../components/HeroImage.astro'
 import ContactSection from '../components/ContactSection.astro'
 import Benefits from '../components/Benefits.astro'
 import YTVideo from '../components/YTVideo.astro'
+import Team from '../components/Team.astro'
 
 const { content } = Astro.props;
 const {title, description, permalink} = content;
@@ -15,5 +16,6 @@ const {title, description, permalink} = content;
         <slot/>
     </Benefits>
     <YTVideo/>
+    <Team/>
     <ContactSection/>
 </Default>
