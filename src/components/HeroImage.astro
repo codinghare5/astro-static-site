@@ -15,7 +15,7 @@ const heroBgStyle = heroImage ? `background-image: url(/${heroImage}); backgroun
     letter-spacing: 2px;
 }
 .clip {
-    clip-path: url(#mask);
+    clip-path: url(#hero-mask);
 	object-fit: cover;
     background-color: rgba(0, 0, 0, 0.4);
 }
@@ -29,7 +29,7 @@ const heroBgStyle = heroImage ? `background-image: url(/${heroImage}); backgroun
     </section>
     <svg width="0" height="0" viewBox="0 0 1 1">
 		<defs>
-			<clipPath id="mask" clipPathUnits="objectBoundingBox">
+			<clipPath id="hero-mask" clipPathUnits="objectBoundingBox">
 				<path d="M1,0.92 C0.998,0.92,1,0.917,1,0.915 C1,0.851,1,0.074,1,0.005 C1,0.002,0.998,0,0.995,0 C0.943,0,0.5,0,0.5,0 C0.5,0,0.057,0,0.005,0 C0.002,0,0,0.002,0,0.005 C0,0.074,0,0.851,0,0.915 C0,0.917,0.002,0.92,0.004,0.92 C0.052,0.928,0.5,1,0.5,1 C0.5,1,0.948,0.928,0.996,0.92" fill="white"/>
 			</clipPath>
 		</defs>

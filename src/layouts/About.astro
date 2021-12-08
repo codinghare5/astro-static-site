@@ -1,0 +1,19 @@
+---
+import Default from './Default.astro'
+import HeroImage from '../components/HeroImage.astro'
+import ContactSection from '../components/ContactSection.astro'
+import Benefits from '../components/Benefits.astro'
+import YTVideo from '../components/YTVideo.astro'
+
+const { content } = Astro.props;
+const {title, description, permalink} = content;
+---
+<Default  title={title} description={description} permalink={permalink}>
+    <HeroImage herotitle={content.heroTitle} heroImage={content.heroImage}>
+    </HeroImage>
+    <Benefits heading={''} picture={''}>
+        <slot/>
+    </Benefits>
+    <YTVideo/>
+    <ContactSection/>
+</Default>

@@ -10,7 +10,7 @@ benefitsHeading: Benefits of Autism Profile
 sampleProfileHeading: Want to try a sample neurodiversity profile?
 segmentColor: red
 segment: education
-picture: profiles.png
+picture: jumping-kids.png
 FAQ: {
     'What is a neurodiversity profile?' : 'A neurodiversity profile is how a child thinks about, feels, and perceives the world. It is unique to them. It explains an individual’s experiences, traits, strengths, and difficulties and makes recommendations based on the child’s fundamental ways of being, that are tailored specifically to help them and their environment. It is not a personality test or a behavioural assessment and the neurodiversity profiling tool is not a personality profiling tool.',
     'What does a neurodiversity profile involve?' : 'The actual process of a neurodiversity profile depends on the child and the circumstances. For example, we may agree that doing part or all of it in writing or face to face is best. Effectively, the process involves Aspiedent gathering as much relevant information about an individual as possible, usually through guided discussion. We then analyse the data to find what underlying issues need to be accounted for when making decisions regarding the child and their support. Aspiedent then creates a detailed but clear explanation of the child’s profile and how this interacts with their environment. The profile report then gives a series of general, educational, and child-specific recommendations. Implementing these will achieve maximum fulfilment in the child’s life.',
