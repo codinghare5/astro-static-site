@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/BlogPost.astro
 title: Hidden diversity in Business - A better way forward?
-tags: ['autism', 'neurodiversity', 'profile', 'activist', 'ways of thinking']
+tags: ['autism', 'neurodiversity', 'profile', 'activist', 'ways of thinking', 'difference']
 date: 15 October 2021
 image: HiddenDiversity.jpg
 thumbnail: HiddenDiversity.jpg
@@ -10,7 +10,7 @@ metaDescription: Aspiedent poses some positive thoughts on how the labour market
 author: [Jen Blacow]
 authorImage: [jen]
 description: This blog post ponders the future and potential ways how to have a successful business while cultivating nurturing, honest, and open-minded practice. This would quality training about hidden diversity, such as neurodiversity. A good step towards opening up the labour market to autistic people, is more acceptance of different ways of thinking, and different ways at looking at things (even if it is not politically correct) and the benefits this may bring.
-segments: [education, employers, diagnosis, careers]
+segments: [employers]
 creditURL: https://pixabay.com/users/johnhain-352999/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=544522
 creditText: Image by John Hain
 ---

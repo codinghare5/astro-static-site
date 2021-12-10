@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/BlogPost.astro
 title: Can we get some more humility in the (class)room please?
-tags: ['autism', 'neurodiversity', 'profile', 'ways of thinking']
+tags: ['autism', 'neurodiversity', 'profile', 'ways of thinking', 'difference']
 date: 20 May 2021
 image: LeaningDiversity.jpg
 thumbnail: LeaningDiversity.jpg
@@ -10,7 +10,7 @@ metaDescription: Jen Blacow from Aspiedent muses over whether humility is an und
 author: [Jen Blacow]
 authorImage: [jen]
 description: Is humility (including open-mindedness) an undervalued quality or skill that might be key to the success of company diversity and inclusion initiatives? Can you teach and learn Diversity?
-segments: [education, employers, diagnosis, careers]
+segments: [employers]
 creditURL: https://pixabay.com/users/johnhain-352999/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=683946
 creditText: Image by John Hain
 ---

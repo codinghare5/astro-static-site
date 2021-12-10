@@ -160,6 +160,3 @@ For Aspiedent, the answer to all these questions is a resounding YES!
 
 You can read more about [Aspiedent's Autism Workplace Assessments
 here](workplace assessment).
-
-To get in touch with me, Jen, please email me at
-<j.blacow@aspiedent.com>, or phone me on 07717 404846.

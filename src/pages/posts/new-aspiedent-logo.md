@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/BlogPost.astro
 title: At last! Introducing Aspiedent’s New Logo
-tags: ['autism', 'neurodiversity', 'profile', 'symptoms', 'severe']
+tags: ['autism', 'neurodiversity', 'profile', 'symptoms', 'severe', 'understanding', 'development']
 date: 13 May 2021
 image: Aspiedent2021.png
 thumbnail: Aspiedent2021.jpg

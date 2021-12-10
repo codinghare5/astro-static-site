@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/BlogPost.astro
 title: Company Neurodiversity Inclusion - Where to start?
-tags: ['autism', 'neurodiversity', 'profile']
+tags: ['autism', 'neurodiversity', 'profile', 'difference']
 date: 2 July 2021
 image: WhereDoIStartNeurodiversityInitiatives.jpg
 thumbnail: WhereDoIStartNeurodiversityInitiatives.jpg
@@ -10,7 +10,7 @@ metaDescription: Aspiedent’s latest blog post is for diversity and inclusion l
 author: [Jen Blacow]
 authorImage: [jen]
 description: This blog post is for good leaders who are passionate about neurodiversity inclusion in the workplace and need a bit of guidance as to where to start. It includes encouragement and some (hopefully) helpful & wise words regarding some of the issues you may face pulling off neurodiversity workplace inclusion.
-segments: [education, employers, diagnosis, careers]
+segments: [employers]
 creditURL: https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1777537
 creditText: Image by Gerd Altmann
 ---
@@ -192,4 +192,4 @@ If you ever need a sounding board, a place to bat ideas around, or a
 friendly listening ear who understands your challenges, please get in
 touch. It helps me too as I can learn about your world that will, in
 turn, help us be more relevant to our customers and help us better
-advise autistic people regarding their careers. **Call me**, Jen, on **07717 404846** or email me at <j.blacow@aspiedent.com>.
+advise autistic people regarding their careers.

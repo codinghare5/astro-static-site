@@ -10,7 +10,7 @@ metaDescription: Aspiedent comments on a recently published autism research pape
 author: [Jen Blacow]
 authorImage: [jen]
 description: A recently published autism research paper suggests that early intervention for children who are showing some early sign of autism can reduce their risk of being given an autism diagnosis. This autism research demonstrates that this specific intervention which improves the way parents interact with their child can help children who are having difficulty with social interaction and possibly with sensory processing disorder. It may help clinicians tell the difference between children who really have autism and those who are at risk of being misdiagnosed with autism. Autism diagnosis as a way to get support is not helpful because it tends to lead to the wrong kind of support.
-segments: [education, employers, diagnosis, careers]
+segments: [education, diagnosis]
 creditURL: https://pixabay.com/users/clker-free-vector-images-3736/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=23991
 creditText: Clker-Free-Vector-Images
 ---
@@ -169,5 +169,3 @@ have little effect on what is understood to be autism. 
 
 But then we are back to the question \'what is autism?\' to which there
 is currently no really satisfactory answer.
-
-**If you would like to discuss the contents of this article further, please contact us by emailing [info\@aspiedent.com](mailto:info@aspiedent.com)**.

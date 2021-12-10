@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/BlogPost.astro
 title: Autistic Employees - Not accepting authority?
-tags: ['autism', 'neurodiversity', 'profile', 'change', 'workplace assessment']
+tags: ['autism', 'neurodiversity', 'profile', 'change', 'workplace assessment', 'management']
 date: 21 April 2021
 image: KnowsItAll.jpg
 thumbnail: KnowsItAll.jpg
@@ -10,7 +10,7 @@ metaDescription: This blog post from Aspiedent explores what might be going on w
 author: [Jen Blacow]
 authorImage: [jen]
 description: Some employers feel they have an autistic employee who struggles to accept authority. This got us thinking about why an employer might get this impression of an autistic employee. This blog post explores what might be going on, and how to deal with it.
-segments: [education, employers, diagnosis, careers]
+segments: [employers]
 creditURL: https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=616913
 creditText: Image by Gerd Altmann
 ---
@@ -176,7 +176,3 @@ only occasionally that the job description needs to be modified.
 These solutions can help employers tap into the hidden strengths of
 staff with autism and other neurodiverse conditions and therefore
 provide a significant return on investment. 
-
-**[Contact us](/contact)** now for a confidential chat
-about autism or neurodiversity in the workplace. We will be happy to
-help. Alternatively call Jen on 07717 404846.

@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/BlogPost.astro
 title: Autistic Employees - Why don't they get it?
-tags: ['autism', 'neurodiversity', 'profile']
+tags: ['autism', 'neurodiversity', 'profile', 'difference', 'management']
 date: 13 April 2021
 image: DoesNotGetIt.jpg
 thumbnail: DoesNotGetIt.jpg
@@ -10,7 +10,7 @@ metaDescription: Autistic people can be extremely valuable employees. However, d
 author: [Jen Blacow]
 authorImage: [jen]
 description: Autistic people can be extremely valuable employees. However, due to lack of understanding on both sides, autism at work can cause disruption. This blog post provides examples of disruption due to autism in the workplace and some simple solutions.
-segments: [education, employers, diagnosis, careers]
+segments: [employers, diagnosis, careers]
 creditURL: https://pixabay.com/users/magnascan-653134/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=580333
 creditText: Image by Magnascan
 ---
@@ -193,6 +193,3 @@ difficulties, it is
 4.  Do not be afraid to explain clearly what behaviour is acceptable and
     not in which context. They will probably actually thank you for it!
 
-If you need some confidential advice about anything
-discussed above? **[Contact us](/contact)** to see
-if we can help.

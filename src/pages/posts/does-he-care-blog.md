@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/BlogPost.astro
 title: Does my employee even care?
-tags: ['autism', 'neurodiversity', 'profile']
+tags: ['autism', 'neurodiversity', 'profile', 'management', 'difference']
 date: 3 December 2020
 image: DoesHeCare.jpg
 thumbnail: DoesHeCare.jpg
@@ -10,7 +10,7 @@ metaDescription: In this blog post Aspiedent discusses autism in relation to emp
 author: [Jen Blacow]
 authorImage: [jen]
 description: This blog post highlights how easily it can be to misunderstand an autistic colleagues’ actions, behaviours, and motives. It can be far more useful and less unpleasant to investigate the underlying reasons for employee behaviour, before jumping to certain conclusions about their intentions!
-segments: [education, employers, diagnosis, careers]
+segments: [employers, careers]
 creditURL: https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3233653
 creditText: Image by Gerd Altmann
 ---
@@ -123,5 +123,3 @@ If you come across a situation where a colleague seems to be acting in
 their own interest and not others, perhaps give us a call before
 assuming that the person simply lacks empathy for others (though it may
 be the case that there is no empathy and the person is not autistic).
-
-**[Contact us](/contact)** or call 07717 404846 for advice.

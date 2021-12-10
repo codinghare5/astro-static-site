@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/BlogPost.astro
 title: Bad, Mad, Difficult?
-tags: ['autism', 'neurodiversity', 'profile', 'change', 'symptoms', 'ways of thinking']
+tags: ['autism', 'neurodiversity', 'employee', 'profile', 'change', 'symptoms', 'ways of thinking', 'difference']
 date: 19 November 2020
 image: MadBadDifficult.jpg
 thumbnail: MadBadDifficult.jpg
@@ -10,7 +10,7 @@ metaDescription: This blog post sheds light on the reality of autism in the work
 author: [Jen Blacow]
 authorImage: [jen]
 description: This blog post sheds light on the reality of autism in the workplace. If you want benefit of diversity of thinking, innovation, and creativity at work, then you may well have to deal with some HR challenges in return.
-segments: [education, employers, diagnosis, careers]
+segments: [employers, careers]
 creditURL: https://pixabay.com/users/activedia-665768/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=769467
 creditText: Image by Okan Caliskan
 ---
@@ -137,5 +137,3 @@ This blog is therefore an introduction to a truthful series of blogs on
 the difficulties employers may encounter with managing autistic
 employees, along with the benefits that dealing with these difficulties
 could reap.
-
-**If you want to know more about anything in this blog, or to run something past us regarding autism in the workplace, please [contact us](/contact).**

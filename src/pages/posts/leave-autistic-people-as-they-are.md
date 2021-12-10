@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/BlogPost.astro
 title: Two half Truths about Autism and Society
-tags: ['autism', 'neurodiversity', 'profile', 'sensory issues', 'change']
+tags: ['autism', 'neurodiversity', 'profile', 'sensory issues', 'change', 'development']
 date: 26 May 2021
 image: LeaveAutisticPeopleAsTheyAre.jpg
 thumbnail: LeaveAutisticPeopleAsTheyAre.jpg
@@ -10,7 +10,7 @@ metaDescription: We discuss two autism myths related to autism adjustments and o
 author: [Jen Blacow]
 authorImage: [jen]
 description: There are two autism myths. One is that autism adjustments should be made so much that autistic people should never be expected to change or adapt to fit in with ‘society’. The other is that autistic people should have their autistic traits trained out of them. What connects these myths is the fact that society cannot accommodate completely to the needs of any individual. Read on for more…
-segments: [education, employers, diagnosis, careers]
+segments: [employers, careers]
 creditURL: https://pixabay.com/users/prawny-162579/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1653150
 creditText: Image by Prawny
 ---

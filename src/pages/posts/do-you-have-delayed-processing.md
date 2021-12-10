@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/BlogPost.astro
 title: Do you have delayed processing?
-tags: ['delayed processing']
+tags: ['profile', 'neurodiversity', 'delayed processing']
 date: 26 November 2021
 image: DelayedProcessing.jpg
 thumbnail: DelayedProcessing.jpg

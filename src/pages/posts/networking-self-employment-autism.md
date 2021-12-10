@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/BlogPost.astro
 title: Business networking and autism
-tags: ['autism', 'neurodiversity', 'profile']
+tags: ['autism', 'neurodiversity', 'profile', 'development', 'difference']
 date: 25 June 2021
 image: NetworkingSelfEmploymentAutism.png
 thumbnail: NetworkingSelfEmploymentAutism.jpg
@@ -10,7 +10,7 @@ metaDescription: Aspiedent focusses on business networking groups, autism in the
 author: [Jen Blacow]
 authorImage: [jen]
 description: In this blog post, we focus on business networking and autism. It took a while for us to figure out the real point of networking and why it is important. Here we try and clearly explain the point and give tips on how to do it right.
-segments: [education, employers, diagnosis, careers]
+segments: [careers]
 creditURL: https://pixabay.com/users/jmexclusives-10518280/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=5187243
 creditText: Image by Joseph Mucira
 ---

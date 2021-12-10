@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/BlogPost.astro
 title: Autism Self Employment
-tags: ['autism', 'neurodiversity', 'profile', 'executive functioning']
+tags: ['autism', 'neurodiversity', 'profile', 'executive functioning', 'development']
 date: 4 June 2021
 image: AutismSelfEmployment.png
 thumbnail: AutismSelfEmployment.jpg
@@ -10,7 +10,7 @@ metaDescription: Aspiedent discusses Autism self employment pros, cons, and attr
 author: [Jen Blacow]
 authorImage: [jen]
 description: A lot of people with autism feel they would or do struggle with self-employment. However, there are many ways that autism self employment could work. Arguably the most important thing for successful business people is self motivation, skill, and an excellent support network.
-segments: [education, employers, diagnosis, careers]
+segments: [careers]
 creditURL: https://pixabay.com/users/mediamodifier-1567646/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=5597527
 creditText: Image by Mediamodifier
 ---

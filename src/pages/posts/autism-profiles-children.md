@@ -192,5 +192,3 @@ additional needs or symptoms which could not be explained by other
 issues such as attachment issues or trauma. However, at the moment we
 have to charge parents for this which creates a barrier to real,
 effective, positive change for their child.
-
-**If you think an autism profile is something you would benefit from knowing more about, contact us at <info@aspiedent.com> or on 07717 404846.**

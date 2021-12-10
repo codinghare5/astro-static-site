@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/BlogPost.astro
 title: Employee not fitting in? Think Neurodiversity.
-tags: ['autism', 'neurodiversity', 'profile']
+tags: ['autism', 'neurodiversity', 'profile', 'management', 'difference']
 date: 28 April 2021
 image: DoesNotFitIn.jpg
 thumbnail: DoesNotFitIn.jpg
@@ -10,7 +10,7 @@ metaDescription: Examples of when neurodiversity might be an issue for employers
 author: [Jen Blacow]
 authorImage: [jen]
 description: We are often asked by networking contacts how they can best help Aspiedent help others. It can be as simple as listening out for complaints that an employee is not a good fit within a team, and suggesting the employer have an informal and confidential chat with us.
-segments: [education, employers, diagnosis, careers]
+segments: [employers, diagnosis, careers]
 creditURL: https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=5582454
 creditText: Image by Gerd Altmann
 ---
@@ -133,5 +133,3 @@ fit in, or hear others describing similar issues with a member of staff
 they are dealing with, reach out to me. It may not be an issue that can
 be explained by neurodiversity and therefore fixed by Aspiedent, but
 there is no harm in simply considering whether it could be.
-
-**[Contact us](/contact)** for a chat.

@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/BlogPost.astro
 title: What is slow processing in autism & neurodiversity?
-tags: ['processing issues', 'slow processing', 'symptoms']
+tags: ['neurodiversity', 'profile', 'processing issues', 'slow processing', 'symptoms']
 date: 12 November 2021
 image: SlowProcessing.jpg
 thumbnail: SlowProcessing.jpg

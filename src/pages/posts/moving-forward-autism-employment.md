@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/BlogPost.astro
 title: Moving Forward despite disabilities and difficulties
-tags: ['autism', 'neurodiversity', 'profile', 'mental health']
+tags: ['autism', 'neurodiversity', 'profile', 'mental health', 'development']
 date: 9 July 2021
 image: MovingForwardAutismEmployment.jpg
 thumbnail: MovingForwardAutismEmployment.jpg
@@ -10,7 +10,7 @@ metaDescription: Aspiedent explains why it is important adults with disabilities
 author: [Jen Blacow]
 authorImage: [jen]
 description: Aspiedent expects the autistic adults we support into employment to do things they find uncomfortable. This post touches on how and why this is important and gives examples. For anybody to meet their potential, they must be prepared to be challenged, endure difficult experiences and accept the things they can’t change. How to support mental health at work is a hot topic at the moment. We argue that challenging people can be good for their mental health in the long term.
-segments: [education, employers, diagnosis, careers]
+segments: [education, diagnosis, careers]
 creditURL: https://pixabay.com/users/mohamed_hassan-5229782/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2488210
 creditText: Image by Mohamed Hassan
 ---

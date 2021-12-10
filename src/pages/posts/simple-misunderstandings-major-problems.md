@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/BlogPost.astro
 title: Simple Misunderstandings Major Problems
-tags: ['autism', 'neurodiversity', 'profile']
+tags: ['autism', 'neurodiversity', 'profile', 'difference', 'understanding', 'management']
 date: 27 November 2020
 image: MisunderstandingsProblems.jpg
 thumbnail: MisunderstandingsProblems.jpg
@@ -10,7 +10,7 @@ metaDescription: This blog post about autism in the workplace covers some of the
 author: [Jen Blacow]
 authorImage: [jen]
 description: Simple misunderstandings can cause major problems between autistic people and their employers. But it is often easily fixable. This blog post covers some of the sometimes peculiar ways in which this can happen.
-segments: [education, employers, diagnosis, careers]
+segments: [employers, careers]
 creditURL: https://pixabay.com/users/missvicki-392548/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=986252
 creditText: Image by Vicki Becker
 ---

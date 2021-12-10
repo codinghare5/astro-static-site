@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/BlogPost.astro
 title: Neurodiversity in the workplace
-tags: ['autism', 'neurodiversity', 'profile', 'ways of thinking']
+tags: ['autism', 'neurodiversity', 'profile', 'ways of thinking', 'difference']
 date: 23 July 2021
 image: NeurodiversityWorkplace.jpg
 thumbnail: NeurodiversityWorkplace.jpg
@@ -10,7 +10,7 @@ metaDescription: What can you actually expect of a neurodiverse workforce? Aspie
 author: [Jen Blacow]
 authorImage: [jen]
 description: Keeping the conversation and neurodiversity in the workplace as realistic as possible is important. Not everyone with autism and neurodiversity will suddenly bring innovation, superpowers, or an unstoppable work ethic into a company. Whilst there are certainly benefits to have a neurodiverse workforce, in order for it to be successful we need to take of our rose-tinted glasses or we risk setting false expectations of people and excluding the very people we are trying to include.
-segments: [education, employers, diagnosis, careers]
+segments: [employers]
 creditURL: https://pixabay.com/users/michoff-10798847/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3860037
 creditText: Image by MICHOFF
 ---

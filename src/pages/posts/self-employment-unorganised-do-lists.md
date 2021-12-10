@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/BlogPost.astro
 title: Self-employment (for the unorganised) - To-Do 'Lists'
-tags: ['autism', 'neurodiversity', 'profile']
+tags: ['autism', 'neurodiversity', 'profile', 'development', 'difference', 'executive functioning']
 date: 11 June 2021
 image: SelfEmployment2.jpg
 thumbnail: SelfEmployment2.jpg
@@ -10,7 +10,7 @@ metaDescription: Aspiedent Autism Training & Consultancy shares its unique tools
 author: [Jen Blacow]
 authorImage: [jen]
 description: Routine, planning & organisation is important to successfully run a business or being self-employed. We developed some very unique ways of keeping and managing To-do ‘lists’. Here is a blog to share our systems. I hope they help you manage business and stay organised!
-segments: [education, employers, diagnosis, careers]
+segments: [education, careers]
 creditURL: https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=6131220
 creditText: Image by Gerd Altmann
 ---
@@ -233,7 +233,3 @@ with the often-suggested ways of working.
 However, these profiles do apply and can benefit anybody, especially
 those who have not found their sweet spot when it comes to business
 routine, planning, and doing.
-
-**[Contact us](/contact)** for more information
-about our autism profiling tool and how we can help you be your most
-organised, and what (cheap or free) software is available to you.

@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/BlogPost.astro
 title: Is Autism a Disorder or a Difference?
-tags: ['autism', 'neurodiversity', 'profile', 'disability', 'superpower', 'sensory issues', 'symptoms', 'severe']
+tags: ['autism', 'neurodiversity', 'profile', 'disability', 'superpower', 'sensory issues', 'symptoms', 'severe', 'difference']
 date: 2 July 2020
 image: AutismDisorderDifference.jpg
 thumbnail: AutismDisorderDifference.jpg
@@ -10,7 +10,7 @@ metaDescription: A blog post which discusses whether autism (ASD), is a disorder
 author: [Jen Blacow]
 authorImage: [jen]
 description: The answer to whether autism is disorder or a difference; a superpower, or a disability, is not straightforward. For some people it is clearly a disorder, for some a difference and for some, it is both.
-segments: [education, employers, diagnosis, careers]
+segments: [education, diagnosis]
 creditURL: https://pixabay.com/users/Alexas_Fotos-686414/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3894871
 creditText: Image by Alexas_Fotos
 ---
@@ -60,5 +60,3 @@ However, this ability can really get in the way of being able to do social inter
 In addition, because her way thinking is significantly different to the norm, this leads her to different interests, which in turn provides a barrier to social interaction. Because her way of thinking involves logic and patterns, she is more interested in how things work rather than the latest cultural topic that people are talking about.
 
 In conclusion, the answer to whether autism is a disorder, or a difference is not clear. For some it is a severe disability and for others it is of benefit in some areas of their life but a hindrance in others. But whether it is considered a benefit or a misfortune, depends on the autistic person’s particular combination and interaction of traits, their goals in life, their personality and their particular definition of what a good quality of life is.
-
-**For more information, please contact Jen Blacow at j.blacow@aspiedent.com, on 07717 404846 or [contact us](/contact).**

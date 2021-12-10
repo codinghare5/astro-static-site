@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/BlogPost.astro
 title: Autism in small companies
-tags: ['autism', 'neurodiversity', 'profile', 'change']
+tags: ['autism', 'neurodiversity', 'profile', 'change', 'difference', 'management']
 date: 18 September 2020
 image: AutismSmallCompanies.png
 thumbnail: AutismSmallCompanies.jpg
@@ -10,7 +10,7 @@ metaDescription: This blog provides a truthful exploration of the benefits that 
 author: [Jen Blacow]
 authorImage: [jen]
 description: Is it a good idea to employ people with autism when you run a small business? This blog provides a truthful exploration of this topic. This includes a discussion of the benefits of hiring autistic people and the resources you may need to have to employ autistic people successfully. 
-segments: [education, employers, diagnosis, careers]
+segments: [eemployers]
 creditURL: https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2198961
 creditText: Image by Gerd Altmann
 ---
@@ -86,5 +86,3 @@ Lastly, in order to be fully informed as to whether your small business would be
 *A certain amount of leniency and tolerance while an autistic person adjusts to the workplace may be required on behalf of managers and other staff.*
 
 In summary, employing the right autistic person with a good fit to their role can be rewarding for the business, the manager, and the employee. An added bonus side effect of this is that the staff team will develop more tolerance of difference, a greater understanding of autism and in turn a greater understanding of themselves. The business will also be contributing to the autistic persons feelings of self-worth and self-esteem and feeling that they are contributing to society.
-
-**Get in touch now if you would like to know more about Aspiedent and our work around autism and employment. Email us at info@aspiedent.com, call us on 07717 404846 or [use this contact form](/contact).**
