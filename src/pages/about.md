@@ -1,8 +1,8 @@
 ---
-# comment - we need - title, description, permalink, segmentColor, herotitle, heading
+# comment - we need - title, description, permalink, segmentColor, herotitle, heroImage
 layout: ../layouts/About.astro
 title: About - Autism, Asperger's, and Neurodiversity Training and Consulting
-description: Diagnosed with autism, changing career, parent looking for help or employer seeking solutions? We have got required toolset.
+description: DiaEnhancing lives through Neurodiversity Profiling, Training & Consultancy
 permalink: https://aspiedent.com/about
 heroTitle: About
 heroSubtitle: 

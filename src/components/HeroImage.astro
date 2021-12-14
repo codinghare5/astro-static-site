@@ -5,25 +5,29 @@ export interface Props {
 }
 const { herotitle, heroImage } = Astro.props;
 const heroBgStyle = heroImage ? `background-image: url(/${heroImage}); background-repeat: no-repeat; background-position: center; background-size: cover;` : '';
+const heroParagraphBGStyle = '';
 ---
 <style>
 .hero {
     color: var(--segment-purple-500);
 }
 .hero-title {
-    background-color: rgba(255, 255, 255, 0.4);
     letter-spacing: 2px;
 }
 .clip {
     clip-path: url(#hero-mask);
 	object-fit: cover;
-    background-color: rgba(0, 0, 0, 0.4);
+}
+.brighten {
+    background-color: rgba(255, 255, 255, 0.5);
+    width: 100%;
+    height: 100%;
 }
 </style>
 <article class="hero clip flex flex-col justify-center items-center h-96 rounded-md" style={heroBgStyle}>
-    <section class="flex mx-3 flex-col justify-center items-center">
-        <h1 class="hero-title text-4xl font-bold p-4">{ herotitle }</h1>
-        <p class="py-3">
+    <section class="flex brighten mx-3 flex-col justify-center items-center">
+        <h1 class="hero-title rounded-t-md text-4xl font-bold p-4">{ herotitle }</h1>
+        <p class="max-w-xl mx-3 py-3 rounded-md bg-white/[.6]">
             <slot/>
         </p>
     </section>

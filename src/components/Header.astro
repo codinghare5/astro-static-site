@@ -1,10 +1,10 @@
 <style lang="scss">
 .top {
-    position: relative;
+	position: relative;
 }
 .company {
 	font-family: 'Alice', sans-serif;
-    line-height: inherit;
+	line-height: inherit;
 }
 .title {
 	font-size: 0.75rem;
@@ -20,11 +20,11 @@
 
 		svg {
 			width: 2rem;
-            height: 2rem;
+			height: 2rem;
 			fill: var(--accent-gold-100);
-            position: absolute;
-            top: 1rem;
-            right: 1.25rem;
+			position: absolute;
+			top: 1rem;
+			right: 1.25rem;
 		}
 
 		.close {
@@ -32,9 +32,9 @@
 		}
 
 		.menu {
-            &:not(svg){
-                margin-top: 0.2rem;
-            }
+			&:not(svg){
+				margin-top: 0.2rem;
+			}
 		}
 	}
 
@@ -48,29 +48,29 @@
 		align-items: center;
 
 		li {
-            list-style: none;
+			list-style: none;
 			display: none;
-            line-height: 2.5rem;
+			line-height: 2.5rem;
 		}
 
-        li:first-of-type {
-            padding-top: 0.75rem;
-        }
+		li:first-of-type {
+			padding-top: 0.75rem;
+		}
 
-        li:last-of-type {
-            padding-bottom: 0.75rem;
-        }
+		li:last-of-type {
+			padding-bottom: 0.75rem;
+		}
 
 		a {
 			color: inherit;
-            text-decoration: none;
+			text-decoration: none;
 			border: none;
-            padding-inline: 2rem;
+			padding-inline: 2rem;
 		}
 
-        a:hover {
-            font-weight: 500;
-        }
+		a:hover {
+			font-weight: 500;
+		}
 
 	}
 }
@@ -92,23 +92,23 @@
 // Desktop view
 @media only screen and (min-width: 768px) {
   .nav {
-    &__toggle {
+	&__toggle {
 		display: none;
-    }
+	}
 
-    &__menu {
+	&__menu {
 		flex-direction: row;
 
 		li {
 			display: block;
 
-            &:first-of-type {
-                padding-top: 0;
-            }
+			&:first-of-type {
+				padding-top: 0;
+			}
 
-            &:last-of-type {
-                padding-bottom: 0;
-            }
+			&:last-of-type {
+				padding-bottom: 0;
+			}
 
 			& > a {
 				padding-inline: 1.25rem;
@@ -118,65 +118,65 @@
 				border-left: 1px solid var(--accent-gold-400);
 			}
 
-            & > a:hover {
-                font-weight: 500;
-            }
+			& > a:hover {
+				font-weight: 500;
+			}
 		}
 
-    }
+	}
   }
 }
 
 @media only screen and (min-width: 1024px) {
-    .nav {
-        &__menu {
-            li {
-                & > a {
-                    padding-inline: 1.75rem;
-                }
-            }
-        }
-    }
+	.nav {
+		&__menu {
+			li {
+				& > a {
+					padding-inline: 1.75rem;
+				}
+			}
+		}
+	}
 }
 
 :global(.original-purple) {
-    color: var(--accent-gold-200);
-    // background-color: var(--segment-purple-500);
-    background-image: url('/header-bg.png');
-    background-repeat: no-repeat;
-    background-position: center bottom;
-    background-size: cover;
+	color: var(--accent-gold-200);
+	// background-color: var(--segment-purple-500);
+	background-image: url('/header-bg.png');
+	background-repeat: no-repeat;
+	background-position: center bottom;
+	background-size: cover;
 }
 :global(a.original-purple) {
-    display: block;
+	display: block;
 }
 :global(.purple-400) {
-    color: var(--accent-gold-200);
-    background-color: var(--segment-purple-400);
+	color: var(--accent-gold-200);
+	background-color: var(--segment-purple-400);
 }
 </style>
 <header class="">
 	<article class="nav top">
 		<a class="original-purple py-4 rounded-md" href="/">
-            <div class="flex justify-center">
-                <section class="company-header grid mobile:gap-0 md:gap-x-3 lg:gap-x-12 md:grid-cols-4 mobile:grid-cols-1 mobile:place-items-center">
-                    <div class="col-span-1 col-start-1 col-end-2 md:row-start-1 md:row-end-3 mobile:row-start-1 mobile:row-end-2">
-                        <img class="" src="/assets/logo/Aspiedent.png" width="161.8px" height="161.8px"/>
-                    </div>
-                    <div class="md:col-start-2 md:col-end-5 mobile:col-start-1 mobile:col-end-2 md:row-start-1 md:row-end-2 mobile:row-start-2 mobile:row-end-3">
-                        <span class="company md:text-8xl text-6xl">Aspiedent</span>
-                    </div>
-                    <div class="flex md:justify-start md:content-start 
-                                    mobile:justify-center mobile:items-center mobile:flex-col 
-                                    title uppercase md:col-start-2 md:col-end-5
-                                    sm:flex-row">
-                        <span>Autism, Aspergers and Neurodiversity</span><span class="sm:ml-2">Training and Consultancy</span>
-                    </div>
-                </section>
-            </div>
+			<div class="flex justify-center">
+				<section class="company-header grid mobile:gap-0 md:gap-x-3 lg:gap-x-12 md:grid-cols-4 mobile:grid-cols-1 mobile:place-items-center">
+					<div class="col-span-1 col-start-1 col-end-2 md:row-start-1 md:row-end-3 mobile:row-start-1 mobile:row-end-2">
+						<img class="" src="/assets/logo/Aspiedent.png" width="161.8px" height="161.8px"/>
+					</div>
+					<div class="md:col-start-2 md:col-end-5 mobile:col-start-1 mobile:col-end-2 md:row-start-1 md:row-end-2 mobile:row-start-2 mobile:row-end-3">
+						<span class="company md:text-8xl text-6xl">Aspiedent</span>
+					</div>
+					<div class="flex md:justify-start md:content-start 
+									mobile:justify-center mobile:items-center mobile:flex-col 
+									title uppercase md:col-start-2 md:col-end-5
+									sm:flex-row">
+						<span>Autism, Aspergers and Neurodiversity</span><span class="sm:ml-2">Training and Consultancy</span>
+					</div>
+				</section>
+			</div>
 		</a>
-        <input type="checkbox" id="nav__checkbox" class="nav__checkbox">
-        <label for="nav__checkbox" class="nav__toggle">
+		<input type="checkbox" id="nav__checkbox" class="nav__checkbox">
+		<label for="nav__checkbox" class="nav__toggle">
 			<svg class="menu" viewBox="0 0 448 512" width="100" title="bars">
 				<path d="M16 132h416c8.837 0 16-7.163 16-16V76c0-8.837-7.163-16-16-16H16C7.163 60 0 67.163 0 76v40c0 8.837 7.163 16 16 16zm0 160h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16zm0 160h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16z" />
 			</svg>
@@ -185,26 +185,29 @@
 			</svg>
 		</label>
 		<ul id="nav_menu" class="nav__menu purple-400 text-base leading-7 md:py-2 rounded-md">
-            <li><a href="/about">
+			<li><a href="/about">
 				About
 			</a></li>
-            <li><a href="/diagnosis">
+			<li><a href="/diagnosis">
 				Diagnosis
 			</a></li>
-            <li><a href="/careers">
+			<li><a href="/careers">
 				Careers
 			</a></li>
-            <li><a href="/education">
+			<li><a href="/education">
 				Education
 			</a></li>
-            <li><a href="/employers">
+			<li><a href="/employers">
 				Employers
 			</a></li>
-            <li><a href="/contact">
+			<li><a href="/contact">
 				Contact
 			</a></li>
-            <li><a href="/blog">
+			<li><a href="/blog">
 				Blog
+			</a></li>
+			<li><a href="/faq">
+				FAQ
 			</a></li>
 		</ul>
 	</article>

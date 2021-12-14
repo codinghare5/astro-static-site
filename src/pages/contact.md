@@ -2,7 +2,7 @@
 # comment - we need - title, description, permalink, segmentColor, herotitle, heading
 layout: ../layouts/Contact.astro
 title: Contact - Autism, Asperger's, and Neurodiversity Training and Consulting
-description: Diagnosed with autism, changing career, parent looking for help or employer seeking solutions? We have got required toolset.
+description: Enhancing lives through Neurodiversity Profiling, Training & Consultancy
 permalink: https://aspiedent.com/careers
 heroTitle: Contact Us
 heroSubtitle: 

@@ -3,28 +3,21 @@ export interface Props {
     data: any;
 }
 const { data } = Astro.props;
-const questions = [
-							'What does a neurodiversity profile involve?',
-							'How long does a neurodiversity profile take?',
-							'Do I need to have a diagnosis of a neurodiverse condition?',
-							'Will a neurodiversity profile cost me?',
-							'What happens after my neurodiversity profile has been completed?'
-						]
 ---
 <style>
 	/* Tab content - closed */
-	.tab-content {
+.tab-content {
 	max-height: 0;
 	-webkit-transition: max-height .35s;
 	-o-transition: max-height .35s;
 	transition: max-height .35s;
-	}
+}
 	/* :checked - resize to full height */
-	.tab input:checked ~ .tab-content {
+.tab input:checked ~ .tab-content {
 	max-height: 100vh;
-	}
+}
 	/* Label formatting when open */
-	.tab input:checked + label{
+.tab input:checked + label{
 	/*@apply text-xl p-5 border-l-2 border-indigo-500 bg-gray-100 text-indigo*/
 	font-size: 1.25rem; /*.text-xl*/
 	padding: 1.25rem; /*.p-5*/
@@ -32,9 +25,9 @@ const questions = [
 	border-color: #6574cd; /*.border-indigo*/
 	background-color: #f8fafc; /*.bg-gray-100 */
 	color: #6574cd; /*.text-indigo*/
-	}
+}
 	/* Icon */
-	.tab label::after {
+.tab label::after {
 	float:right;
 	right: 0;
 	top: 0;
@@ -47,49 +40,69 @@ const questions = [
 	-webkit-transition: all .35s;
 	-o-transition: all .35s;
 	transition: all .35s;
-	}
+}
 	/* Icon formatting - closed */
-	.tab input[type=checkbox] + label::after {
+.tab input[type=checkbox] + label::after {
 	content: "+";
 	font-weight:bold; /*.font-bold*/
 	border-width: 1px; /*.border*/
 	border-radius: 9999px; /*.rounded-full */
 	border-color: #b8c2cc; /*.border-grey*/
-	}
-	.tab input[type=radio] + label::after {
+}
+.tab input[type=radio] + label::after {
 	content: "\25BE";
 	font-weight:bold; /*.font-bold*/
 	border-width: 1px; /*.border*/
 	border-radius: 9999px; /*.rounded-full */
 	border-color: #b8c2cc; /*.border-grey*/
-	}
+}
 	/* Icon formatting - open */
-	.tab input[type=checkbox]:checked + label::after {
+.tab input[type=checkbox]:checked + label::after {
 	transform: rotate(315deg);
 	background-color: #6574cd; /*.bg-indigo*/
 	color: #f8fafc; /*.text-grey-lightest*/
-	}
-	.tab input[type=radio]:checked + label::after {
+}
+.tab input[type=radio]:checked + label::after {
 	transform: rotateX(180deg);
 	background-color: #6574cd; /*.bg-indigo*/
 	color: #f8fafc; /*.text-grey-lightest*/
-	}
+}
+.video-container {
+	position: relative;
+	width: 100%;
+	overflow: hidden;
+	padding-top: 56.25%;
+}
+.responsive-iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	width: 100%;
+	height: 100%;
+	border: none;
+}
 </style>
 
-<article class="flex justify-center">
+<article class="mt-8 mb-16 flex justify-center">
 	<section class="flex flex-col justify-center items-center">
-		<h3 class="text-xl font-medium my-3">Frequently asked questions</h3>
-		<div class="max-w-screen-lg w-full md:w-4/5 mx-auto p-4">
+		<h3 class="text-xl font-medium my-3">Question by question</h3>
+		<div class="max-w-screen-lg w-full mx-auto p-4">
 			<div class="bg-white shadow-md">
-			{Object.entries(data).map(([question, answer], index) => {
-				return <div class="tab w-full overflow-hidden border-t">
-					<input class="absolute opacity-0" id={`tab-single-${index}`} type="radio" name="tabs2">
-					<label class="block p-5 leading-normal cursor-pointer" for={`tab-single-${index}`}>{question}</label>
-					<div class="tab-content overflow-hidden border-l-2 bg-gray-100 border-indigo-500 leading-normal">
-						<p class="p-5">{answer}</p>
-					</div>
-				</div>
-			})}
+                {Object.entries(data).map(([question, video], index) => {
+                    return <div class="tab w-full overflow-hidden border-t">
+                                <input class="absolute opacity-0" id={`tab-single-${index}`} type="radio" name="tabs2">
+                                <label class="block p-5 leading-normal cursor-pointer" for={`tab-single-${index}`}>{question}</label>
+                                <div class="tab-content overflow-hidden border-l-2 bg-gray-100 border-indigo-500 leading-normal">
+                                    <section class="m-3 w-100 h-auto">
+                                        <div class="video-container">
+                                            <iframe class="responsive-iframe" src={video} title={question} frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                        </div>
+                                    </section>
+                                </div>
+                            </div>
+                })}
 			</div>
 		</div>
 	</section>

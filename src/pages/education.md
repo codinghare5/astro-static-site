@@ -2,7 +2,7 @@
 # comment - we need - title, description, permalink, segmentColor, herotitle, heading
 layout: ../layouts/SegmentPageLayout.astro
 title: Education - Autism, Asperger's, and Neurodiversity Training and Consulting
-description: Diagnosed with autism, changing career, parent looking for help or employer seeking solutions? We have got required toolset.
+description: Enhancing lives through Neurodiversity Profiling, Training & Consultancy
 permalink: https://aspiedent.com/education
 heroTitle: Education
 heroSubtitle: Problems at school? Want to get back on track? Let's get started!
