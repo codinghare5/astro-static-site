@@ -17,7 +17,6 @@ export function getStaticPaths({paginate}) {
 }
 const { page } = Astro.props;
 const permalink = page.currentPage;
-const str = JSON.stringify(page.data)
 const pages = Array.from(Array(page.lastPage), (e,i)=>i+1)
 ---
 <style>
@@ -47,7 +46,6 @@ const pages = Array.from(Array(page.lastPage), (e,i)=>i+1)
 	<Hero herotitle={title}>
 		{description}
 	</Hero>
-	<h4 class="px-3 text-gray-300">/blog/{page.currentPage}</h4>
 	<article>
 		<section>
 			{page.data.map(p => <BlogPostPreview post={p} />)}

@@ -1,4 +1,10 @@
 ---
+import Default from '../../../layouts/Default.astro';
+import BlogPostPreview from '../../../components/BlogPostPreview.astro';
+import Hero from '../../../components/Hero.astro';
+
+let title = 'Aspiedent Blog';
+let description = 'See our recent activity and feel free to contact us through the social media.';
 // /src/pages/blog/[tag]/[page].astro
 export function getStaticPaths({paginate}) {
     const tags = ['autism', 'neurodiversity', 'profile', 'mental health', 'mindset', 'covid', 'change', 
@@ -9,12 +15,13 @@ export function getStaticPaths({paginate}) {
                     'social model', 'networking', 'emotion', 'social media', 'meetings', 'recruitment', 'interview', 
                     'social skills', 'employee', 'genious', 'recruit', 'team', 'work', 'delayed processing', 'employment', 'employment law', 
                     'unemployment', 'superpower', 'aspergers']
-	const allPosts = Astro.fetchContent('../../posts/*.md');
+	let allPosts = Astro.fetchContent('../../posts/*.md');
+    allPosts = allPosts.sort((a, b) => new Date(b.date).valueOf() - new Date(a.date).valueOf());
 	// For every tag, return a paginate() result.
 	// Make sure that you pass `{params: {tag}}` to `paginate()`
 	// so that Astro knows which tag grouping the result is for.
 	return tags.map((tag) => {
-		const filteredPosts = allPosts.filter((post) => post.tag === tag);
+		const filteredPosts = allPosts.filter((post) => post.tags.indexOf(tag) > -1);
         tag = tag.replace(/\s+/g, "-");
 		return paginate(filteredPosts, {
 			params: { tag },
@@ -24,6 +31,53 @@ export function getStaticPaths({paginate}) {
 }
 const { page } = Astro.props;
 const { params } = Astro.request;
+const permalink = page.currentPage;
+const pages = Array.from(Array(page.lastPage), (e,i)=>i+1)
 ---
-{JSON.stringify(page)}<br/>
-{JSON.stringify(params)}
+
+<style>
+.blog-header {
+	border-bottom: 1px solid var(--accent-gold-400);
+}
+.alice-font {
+	font-family: Alice;
+}
+.mono {
+	font-family: 'Ubuntu mono';
+}
+.pagination {
+	border: 1px solid var(--accent-gold-400);
+	border-radius: 999px;
+	padding: 1rem;
+}
+:global(section div a:hover, section div a:focus) {
+    display: inline-block;
+    font-weight: bolder;
+	background-color: var(--segment-purple-100) !important;
+    border: 1px solid var(--segment-purple-100);
+    border-radius: 999px;
+}
+</style>
+{JSON.stringify(params.tag)}
+<Default title={title} description={description} permalink={permalink}>
+	<Hero herotitle={title}>
+		{description}
+	</Hero>
+	<article>
+		<section>
+			{page.data.map(p => <BlogPostPreview post={p} />)}
+		</section>
+	</article>
+    { page.lastPage > 1 ? 
+        <section class="flex justify-center items-center">
+            <div class="flex pagination">
+                <a class="sm:px-4 mobile:px-2" href={page.url.prev === 'undefined' ? '#' : page.url.prev}>Previous</a>
+                {
+                    pages.map(p =>`<a class="${page.currentPage === p ? 'underline ' : ''}sm:px-4 mobile:px-3" href="/blog/${ p === 1 ? '' : p}">${p}</a>`)
+                }
+                <a class="sm:px-4 mobile:px-3" href={page.url.next === 'undefined' ? '#' : page.url.next}>Next</a>
+            </div>
+        </section>
+        : ''
+    }
+</Default>

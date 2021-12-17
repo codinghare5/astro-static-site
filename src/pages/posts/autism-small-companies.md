@@ -10,7 +10,7 @@ metaDescription: This blog provides a truthful exploration of the benefits that 
 author: [Jen Blacow]
 authorImage: [jen]
 description: Is it a good idea to employ people with autism when you run a small business? This blog provides a truthful exploration of this topic. This includes a discussion of the benefits of hiring autistic people and the resources you may need to have to employ autistic people successfully. 
-segments: [eemployers]
+segments: [employers]
 creditURL: https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2198961
 creditText: Image by Gerd Altmann
 ---
