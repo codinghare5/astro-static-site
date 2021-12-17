@@ -1,0 +1,29 @@
+---
+// /src/pages/blog/[tag]/[page].astro
+export function getStaticPaths({paginate}) {
+    const tags = ['autism', 'neurodiversity', 'profile', 'mental health', 'mindset', 'covid', 'change', 
+                    'workplace', 'sensory issues', 'difference', 'processing issues', 'slow', 'symptoms', 'severe', 
+                    'mild', 'discrimination', 'understanding', 'management', 'activist', 'ways of thinking', 
+                    'development', 'executive functioning', 'resoures', 'occupational health', 'workplace assessment', 
+                    'disability', 'reasonable adjustments', 'friendly', 'resources', 'autistic community', 
+                    'social model', 'networking', 'emotion', 'social media', 'meetings', 'recruitment', 'interview', 
+                    'social skills', 'employee', 'genious', 'recruit', 'team', 'work', 'delayed processing', 'employment', 'employment law', 
+                    'unemployment', 'superpower', 'aspergers']
+	const allPosts = Astro.fetchContent('../../posts/*.md');
+	// For every tag, return a paginate() result.
+	// Make sure that you pass `{params: {tag}}` to `paginate()`
+	// so that Astro knows which tag grouping the result is for.
+	return tags.map((tag) => {
+		const filteredPosts = allPosts.filter((post) => post.tag === tag);
+        tag = tag.replace(/\s+/g, "-");
+		return paginate(filteredPosts, {
+			params: { tag },
+			pageSize: 10
+		});
+	});
+}
+const { page } = Astro.props;
+const { params } = Astro.request;
+---
+{JSON.stringify(page)}<br/>
+{JSON.stringify(params)}
