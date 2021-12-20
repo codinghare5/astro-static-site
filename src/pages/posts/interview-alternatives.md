@@ -118,6 +118,3 @@ employer, please contact us.
 Aspiedent deliver expert autism training & consultancy and workplace
 assessments for employers and employees (www.aspiedent.com), and help
 autistic adults into employment (www.aspiedent.org).
-
-For more information, please contact Jen Blacow at
-<j.blacow@aspiedent.com>.

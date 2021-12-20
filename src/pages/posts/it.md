@@ -102,7 +102,3 @@ Artists, Authors of books of fiction, Tour Guides. In fact, there is no
 reason why an autistic person should not be able to excel in any area.
 The problem can be in helping them to find the right niche where they
 can be successful. Aspiedent can help autistic people figure that out.
-
-If you would like to consult the experts and know more about autism
-(either your own or somebody else's), please contact Jen from Aspiedent
-at <j.blacow@aspiedent.com>.

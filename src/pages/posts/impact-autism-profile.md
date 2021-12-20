@@ -156,8 +156,4 @@ Autism Profile is given while the person is still young, it will prevent
 the suffering and heartache experienced by many autistic adults due to a
 lack of understand of what is really going on both on their part and the
 world around them. We believe that preventing mental health difficulties
-is better for everybody concerned rather than curing them later on
-
-For more information about Aspiedent's Autism
-Profiles, please visit [Autism Profiler](link to autism profiler), contact us on
-<info@aspiedent.com> or call Jen on 07717 404846.
+is better for everybody concerned rather than curing them later on.

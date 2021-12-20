@@ -210,6 +210,3 @@ struggles and that it does for everyone.
 
 Try not to let fear hold you back. Through great adversity and the use
 of courage come great things.
-
-**[Contact us ](/contact)**
-or call us on **07717 404846**.

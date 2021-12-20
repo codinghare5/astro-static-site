@@ -100,7 +100,3 @@ Most, if not all, of these 'major' problems, are actually not complex
 and can be easily solved through a better mutual understanding of
 people's motives. This applies both to autistic and non-autistic
 employees.
-
-If you need help with any issues similar to the ones described above,
-please **[contact us](/contact)** and we may be able to quickly resolve the
-problem.

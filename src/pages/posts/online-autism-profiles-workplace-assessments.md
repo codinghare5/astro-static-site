@@ -39,5 +39,3 @@ Well we can think of a few:
 4. We have the potential to be able to record the workplace assessment more easily. This means that we can review parts of the assessment if necessary, if it turns out that we did not quite understand – or we cannot make sense of our notes.
 
 Perhaps in the future we will be able to offer people who are within travelling distance of the Leeds/Bradford area a choice of face to face or remote assessments, while being able to offer our services potentially across the world.
-
-**If you need an Autism Profile Service or an Autism Workplace Assessment for yourself or a colleague, please [get in touch](/contact) for more information about how we can help you.**

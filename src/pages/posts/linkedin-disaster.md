@@ -114,5 +114,3 @@ and explain autism.
 Note that not all autistic people have difficulty making emotional
 connections with people. They have different problems with social
 interaction.
-
-**To find out about our work, [contact us](/contact), call us on 07717 404846 or email <info@aspiedent.com>.**

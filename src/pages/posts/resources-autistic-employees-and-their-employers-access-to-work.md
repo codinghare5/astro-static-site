@@ -108,5 +108,3 @@ and
 
 In our next posts we will look at workplace assessments and other
 resources available to autistic employees and their employers.
-
-**If you need help with autism in the workplace, or would like to know more about how Aspiedent might be able to help you, [contact us](/contact) now.**

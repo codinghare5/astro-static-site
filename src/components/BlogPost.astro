@@ -47,6 +47,10 @@ article div header img.hero-image {
 		transform: translateY(-3.5rem);
 	}
 }
+:global(.content a) {
+    font-weight: 700;
+    text-decoration: underline;
+}
 </style>
 
 <div>
@@ -65,7 +69,7 @@ article div header img.hero-image {
 					<p class="publish-date">{post.date}</p>
 				</div>
 			</header>
-			<main class="tilted flex justify-center" style={segmentBgStyle}>
+			<main class="content tilted flex justify-center" style={segmentBgStyle}>
 				<slot />
 			</main>
 		</div>

@@ -55,5 +55,3 @@ When he started with us, his social skills were very poor. But by the time he le
  
 
 **Aspiedent deliver expert autism training & consultancy and workplace assessments for employers and employees and help autistic adults into employment.**
-**If you would like to know how to tap into the talents of autistic people whilst ensuring you are fulfilling your duties as a good manager or employer, please contact us.**
-**You can also speak to us by contacting Jen Blacow at j.blacow@aspiedent.com or calling Jen on 07717 404846.**

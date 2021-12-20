@@ -122,5 +122,3 @@ result of the very difficult few months we have faced. But it might, for
 some companies, be a good time to review policies and processes, look at
 where the skills gaps are, and plan how to benefit from the potential
 gains of employing people with autism and other forms of neurodiversity.
-
-**If you would like to have a chat about how embracing autism might be able to benefit your business, get in touch with me at <j.blacow@aspiedent.com> or on 07717 404846.**

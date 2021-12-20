@@ -18,7 +18,7 @@ creditText: Image by Clker-Free-Vector-Images
 
 Among other things, Greta Thunberg is known for proclaiming that her
 autism is a superpower and without that she would not be able to do what
-she does. 
+she does.
 
 Greta Thunberg is not alone with these kinds of claims. Many people
 claim that it is their autism that helps them to excel at what they do.
@@ -29,16 +29,16 @@ claim that it is their autism that helps them to excel at what they do.
 just by listening to it.
 
 • A building surveyor who can sense bad/faulty wiring behind the
-plasterboard. 
+plasterboard.
 
 • A nature walks tour guide who credits his autism for always being
 extremely well prepared and thus good at his job.
 
 • An autistic person who can assimilate a large pile of written
-information into a coherent whole. 
+information into a coherent whole.
 
 • An autistic polymath who can solve problems nobody else in their
-organisation can solve, even when it is not their department. 
+organisation can solve, even when it is not their department.
 
 • An autistic employee who is so good at spotting patterns others can't
 see, that his ability to spot fraud means the fraud team at his
@@ -70,7 +70,7 @@ do not gain work experience to show a future employer.
 A few have managed to obtain a job. But it rarely lasts long because of
 their autistic difficulties. Because they have no skills that make them
 stand out, it is too easy for an employer to replace them with someone
-else. 
+else.
 
 Occasionally, it turns out that the autistic person does not have the
 skills they thought they had and they are dismissed for that reason.
@@ -78,7 +78,7 @@ skills they thought they had and they are dismissed for that reason.
 Other autistic people are naive to the number of reasonable adjustments
 employers can make, and expect more help at work that can be provided
 (not helped by the current mainstream obsession with the social model of
-disability). 
+disability).
 
 Getting these autistic people into jobs is not easy. They are always at
 a disadvantage. We can verify their skills (and send them off to fill in
@@ -93,22 +93,22 @@ run by various organisations, some with autism specialisms and some not.
 Each time they have been promised a job and each time nothing much
 happens except that what confidence they had is diminished and they fall
 into depression and/or anxiety ( or worse, pure hatred towards
-society). 
+society).
 
 It is not good for a person's well-being to be repeatedly rejected
-and/or let down. 
+and/or let down.
 
 Pressure from the jobcentre staff (who often cannot see the autistic
 difficulties) does not help. All too often the autistic person is doing
 their best and they are simply not attractive to employers -- or often
 there are plenty of other applicants who naturally shine much better at
 interview. Many of these people do not add enough value to an employer
-to make them attractive despite their autism. 
+to make them attractive despite their autism.
 
 What should be done? In a nutshell, nobody knows.
 
 In the past, supported employment was an important part of creating an
-inclusive economy. 
+inclusive economy.
 
 Would some kind of supported employment that enables people to gain
 experience with work and which acts as a stepping stone to mainstream
@@ -120,12 +120,12 @@ The Lighthouse Trust which is a charity in Leeds, UK, has had
 encouraging success with supported internships. This is where a business
 takes on several autistic people who come with the support necessary to
 help them be successful at their jobs. They have had success in getting
-people into employment this way, but: 
+people into employment this way, but:
 
-1\. It is difficult to get employers to accept autistic interns, despite
+1. It is difficult to get employers to accept autistic interns, despite
 successes that other businesses have had.
 
-2\. It is only available to school leavers who have an EHCP (Educational
+2. It is only available to school leavers who have an EHCP (Educational
 Health Care Plan).
 
 But perhaps bringing back some form of supported employment is the best

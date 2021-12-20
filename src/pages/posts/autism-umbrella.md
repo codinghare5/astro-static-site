@@ -132,5 +132,3 @@ At Aspiedent we work out which underlying difficulties cause an
 individual's autistic symptoms. We cut through the confusion to describe
 each individual's autism and make specific recommendations that are
 specifically tailored to their autism.
-
-**If you have any questions or would like to get in touch, we would love to hear from you. Call us on 07717 404846, e-mail us at <info@aspiedent.com> or visit us at www.aspiedent.com**

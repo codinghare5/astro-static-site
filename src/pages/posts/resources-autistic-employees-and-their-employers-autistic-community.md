@@ -159,5 +159,3 @@ be for them. We do.
 What is important is that we help the employee and manager to meet in
 the middle when it comes to workplace reasonable adjustments, which is a
 realistic way forward.
-
-If you would like to know more about helping yourself, your manager, or your employee with autism or neurodiversity related issues, please use our get in touch via our contact us form or email Jen at <j.blacow@aspiedent.com>.

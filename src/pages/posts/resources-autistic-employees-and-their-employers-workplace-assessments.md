@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/BlogPost.astro
 title: Resources for Autistic Employees and their Employers - Workplace Assessments
-tags: ['autism', 'neurodiversity', 'profile', 'resoures', 'occupational health', 'workplace assessment', 'disability', 'reasonable adjustments']
+tags: ['autism', 'neurodiversity', 'profile', 'resources', 'occupational health', 'workplace assessment', 'disability', 'reasonable adjustments']
 date: 7 August 2020
 image: WorkplaceAssessmentBlog.png
 thumbnail: WorkplaceAssessmentBlog.jpg
@@ -158,5 +158,4 @@ So to conclude, **what should you consider when choosing which organisation to c
 
 For Aspiedent, the answer to all these questions is a resounding YES!
 
-You can read more about [Aspiedent's Autism Workplace Assessments
-here](workplace assessment).
+You can read more about [Aspiedent's Autism Workplace Assessments here](/blog/workplace-assessment/1).

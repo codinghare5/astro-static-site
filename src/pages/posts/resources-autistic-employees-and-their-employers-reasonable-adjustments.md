@@ -169,5 +169,3 @@ just not be suited to the job.
 
 Needless to say, I have now changed my LinkedIn tagline to something a
 bit different!
-
-**If you need some advice regarding reasonable adjustments in the workplace for autism or neurodiversity, please contact myself, Jen, on <j.blacow@aspiedent.com> or 07717 404846.**

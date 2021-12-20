@@ -251,6 +251,3 @@ just be providing a listening ear and or/solving a problem for them
 which is easy for you, but hard for them. That is why it is also
 important to seek out other businesses who you are confident that they
 do what they say they do who you can trust.
-
-If you would like to know more about how we could help
-you be self-employed despite autism or neurodiversity, **[please get in touch](/contact)**.

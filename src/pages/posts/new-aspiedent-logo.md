@@ -204,6 +204,3 @@ fruition in every autistic and neurodiverse person and employer or
 business that we help. 
 
 Thanks for reading.
-
-Get in touch here, email me <j.blacow@aspiedent.com> or call us at 07717
-404846.

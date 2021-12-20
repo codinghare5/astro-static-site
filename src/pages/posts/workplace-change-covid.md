@@ -70,5 +70,3 @@ The latter will want to come to work because it separates work and home.
 In summary, anyone who dislikes change (which is most people) will struggle
 
 The points made in this article are no way near exhaustive.
-
-**But if you would like to know more about what you can do to look after the mental health of your employees as best as you can, including employees on the autistic spectrum (you may have many and you will likely have some), [get in touch](/contact) and we will be happy to discuss how we can help.**

@@ -152,5 +152,3 @@ on the underlying difficulties rather than the 'symptoms'?
 However in order to do this, there needs to be adequate funding and
 support for all children, regardless of any diagnosis, as they progress
 through the stages of their development and education.
-
-**If you have any questions about this article or would like to get in touch, we would love to hear from you. Call us on 07717 404846, e-mail us at [info\@aspiedent.com](mailto:info@aspiedent.com) or use the [contact us form here](/contact)**

@@ -173,5 +173,4 @@ perfectly fine as they are. Many autistic people do not go along with
 this.
 
 We are always open to sensible and respectful debate, therefore if you
-would like to get in touch, please do so. We can be contacted on 07717
-404846 or at <info@aspiedent.com>
+would like to get in touch, please do so.

@@ -79,5 +79,3 @@ So, apart from the occasional Zoom fatigue and the lack of emotional
 interaction, I am currently trying to make the most out of Zoom calls.
 However, I will be one of the first people to turn up to a face to face
 meeting or accept an invite to somebody else's office in person!
-
-**If you would like a face to face (or virtual) meeting with me, please get in touch vie email at j.blacow@aspiedent.com, telephone on 07717 404846, or through our [contact us](/contact) form.**

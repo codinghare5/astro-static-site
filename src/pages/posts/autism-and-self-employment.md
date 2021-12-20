@@ -216,7 +216,3 @@ Ultimately, the support network around self-employed people is of utmost
 importance. Running your own business when you are autistic can be done,
 aided by lots of self-motivation, skill in what you do, and the correct
 input where you are weakest.
-
-If you would like some support in working out how to
-be self-employed despite neurodiversity, please contact us at
-<info\@aspiedent.com> or on 07717 404846.

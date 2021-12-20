@@ -63,5 +63,3 @@ Hence the withdrawal of the autistic person from the world, which eventually lea
 So far, nobody has really worked out how to help people who have fallen into the World Reject Hole. If they have not fallen in too far, we can help them out by helping them to understand themselves and the world around them. It also helps when we help the world around them understand the individual autistic person.
 
 Prevention is much better than cure. A better understanding of why autistic people interact in the way they do is key to avoiding the misunderstandings that lead to someone falling into the world reject hole and being unable to find a way out.
-
-If you like to know more about how we might be able to help yourself or your loved one with autism, please email Jen at <j.blacow@aspiedent.com>.

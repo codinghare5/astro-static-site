@@ -126,5 +126,3 @@ rather than be lured in by 'victimhood'. I will also continue to try and
 support individuals and businesses who do the same.
 
 Are you with me?
-
-**To chat to us further about this topic please [get in touch](/contact).**
