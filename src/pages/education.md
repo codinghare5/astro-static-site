@@ -9,7 +9,8 @@ heroSubtitle: Problems at school? Want to get back on track? Let's get started!
 benefitsHeading: Benefits of Autism Profile
 sampleProfileHeading: Want to try a sample neurodiversity profile?
 segmentColor: red
-segment: education
+segments: ['education']
+segmentReasons: ['autism profile','neurodiversity profile','help with an EHCP','help with EOTAS']
 picture: jumping-kids.png
 FAQ: {
     'What is a neurodiversity profile?' : 'A neurodiversity profile is how a child thinks about, feels, and perceives the world. It is unique to them. It explains an individual’s experiences, traits, strengths, and difficulties and makes recommendations based on the child’s fundamental ways of being, that are tailored specifically to help them and their environment. It is not a personality test or a behavioural assessment and the neurodiversity profiling tool is not a personality profiling tool.',

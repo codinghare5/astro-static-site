@@ -11,6 +11,7 @@ benefitsHeading: Benefits of Autism Profile
 sampleProfileHeading: Want to try a sample neurodiversity profile?
 segmentColor: green
 segment: careers
+segments: ['diagnosis', 'careers', 'employers', 'education']
 picture: profiles.png
 ---
 **Are you interested in utilising our Profiling Tool or would like to enquire about one of our services?**

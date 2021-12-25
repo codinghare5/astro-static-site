@@ -1,13 +1,15 @@
 ---
 # comment - we need - title, description, permalink, segmentColor, herotitle, heroImage
-layout: ../layouts/FAQ.astro
+layout: ../../layouts/FAQ.astro
 title: FAQ
 description: Enhancing lives through Neurodiversity Profiling, Training & Consultancy
 permalink: https://aspiedent.com/faq
 heroTitle: Frequently Asked Questions
 heroSubtitle: 
 heroImage: faq.jpg
-segmentColor: purple
+segments: ['diagnosis', 'careers', 'employers', 'education']
+segmentReasons: ['neurodiversity profile', 'sample diversity profile']
+segmentColor: purple  #TODO: use segment's name as segment; segment: education;
 creditURL: https://pixabay.com/users/worldinmyeyes-14497112/
 creditText: Image by WorldInMyEyes
 FAQ: {

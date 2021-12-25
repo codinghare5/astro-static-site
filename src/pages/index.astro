@@ -15,6 +15,7 @@ const welcomeMessage = `Our support, training and Neurodiversity Profiling servi
                         helped people to understand themselves better, cope with transitions, 
                         find opportunities, develop themselves and derive maximum benefit through understanding.`
 const heroSubtitle = 'Enhancing lives through Neurodiversity Profiling, Training & Consultancy'
+const segmentReasons = ['autism profile','neurodiversity profile','help and advice regarding employment','help and advice around appropriate careers','help and advice around study choices']
 ---
 <Default title={title} description={description} permalink={permalink}>
     <Hero herotitle={herotitle}>
@@ -24,5 +25,5 @@ const heroSubtitle = 'Enhancing lives through Neurodiversity Profiling, Training
         {welcomeMessage}
     </Benefits>
     <Streams/>
-    <ContactSection/>
+    <ContactSection segment="From home page" segmentReasons={segmentReasons}/>
 </Default>

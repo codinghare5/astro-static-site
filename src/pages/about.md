@@ -10,6 +10,7 @@ heroImage: hands.png
 benefitsHeading: Benefits of Autism Profile
 sampleProfileHeading: Want to try a sample neurodiversity profile?
 segmentColor: blue
+segments: ['diagnosis', 'careers', 'employers', 'education']
 ---
 ## Helping you improve profitability, productivity and working lives through good diversity management.
 

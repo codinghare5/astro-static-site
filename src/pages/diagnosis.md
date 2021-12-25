@@ -9,7 +9,8 @@ heroSubtitle: Challenges during employment? Want to get hired? We can help!
 benefitsHeading: Benefits of Autism Profile
 sampleProfileHeading: Want to try a sample neurodiversity profile?
 segmentColor: blue
-segment: diagnosis
+segments: ['diagnosis']
+segmentReasons: ['neurodiversity profile','help and advice regarding employment','help and advice around appropriate careers','help and advice around study choices']
 picture: profiles.png
 FAQ: {
     'What is a neurodiversity profile?': 'A neurodiversity profile is how an individual thinks about, feels, and perceives the world, and it is unique to them. It explains an individual’s experiences, strengths, difficulties, and more and makes recommendations based on that particular person’s fundamental ways of being. It is not a personality test, and the Neurodiversity Profiling tool is not a personality profiling tool.',

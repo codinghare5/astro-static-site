@@ -2,10 +2,21 @@
 import Default from './Default.astro';
 import HeroImage from '../components/HeroImage.astro';
 import ContactSection from '../components/ContactSection.astro';
-import ContactForm from '../components/ContactForm.astro';
 
 const { content } = Astro.props;
 const {title, description, permalink} = content;
+// const segments = ['diagnosis', 'careers', 'employers', 'education']
+
+const segmentReasons = ['autism profile',
+									'neurodiversity profile',
+									'help and advice regarding employment',
+									'help and advice around appropriate careers',
+									'help and advice around study choices',
+									'help with an EHCP',
+									'help with EOTAS',
+									'workplace assessements',
+									'autism and or neurodiversity training or consultancy',
+									'best practice recruitment for autism or neurodiversity']
 ---
 <style>
 section.post {
@@ -28,6 +39,5 @@ ul, ol { padding-inline: 1rem !important; }
 			<slot />
 		</section>
 	</article>
-    <ContactForm/>
-	<ContactSection/>
+	<ContactSection segments={content.segments}/>
 </Default>

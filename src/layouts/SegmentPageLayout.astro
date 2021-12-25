@@ -1,6 +1,10 @@
 ---
 import Default from '../layouts/Default.astro'
-import SegmentLayout from '../layouts/SegmentLayout.astro'
+import Segment from '../components/Segment.astro'
+import Benefits from '../components/Benefits.astro'
+import Faq from '../components/Faq.astro'
+import SampleProfile from '../components/SampleProfile.astro'
+import ContactSection from '../components/ContactSection.astro'
 
 const { content } = Astro.props; // this is the content between --- --- from md file
 
@@ -63,15 +67,13 @@ button.action:focus, button.action:hover {
 }
 </style>
 <Default title={title} description={description} permalink={permalink} segment={content.segment}>
-    <SegmentLayout 
-        heroTitle={content.heroTitle} 
-        heroSubtitle={content.heroSubtitle} 
-        benefitsHeading={content.benefitsHeading} 
-        sampleProfileHeading={content.sampleProfileHeading}
-        segmentColor={content.segmentColor}
-        picture={content.picture}
-        faq={content.FAQ}
-    >
+    <Segment herotitle={content.heroTitle} bgcolor={content.segmentColor}>
+	    { content.heroSubtitle }
+    </Segment>
+    <Benefits heading={content.benefitsHeading} picture={content.picture}>
         <slot />
-    </SegmentLayout>
+    </Benefits>
+    <SampleProfile sampleProfileHeading={content.sampleProfileHeading} segmentColor={content.segmentColor}/>
+    <Faq data={content.FAQ}/>
+    <ContactSection segments={content.segments} />
 </Default>
