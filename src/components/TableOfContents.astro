@@ -1,3 +1,21 @@
 ---
-
+export interface Props {
+    headers: string[];
+    tags: string[];
+}
+const { content } = Astro.props
+const { headers, tags } = Astro.props
 ---
+<style>
+.less-visible {
+    color: var(--segment-blue-200);
+}
+</style>
+<article class="flex justify-center">
+    <section class="post max-w-screen-sm mx-3 p-3 less-visible">
+        <b>Tags: </b>
+        {
+            tags.map(tag => `<a href='/blog/${tag.replace(/\s+/g, "-")}/1'>${tag},</a>\t`)
+        }
+    </section>
+</article>

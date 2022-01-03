@@ -1,6 +1,7 @@
 ---
 import Author from './Author.astro';
 import ContactSection from './ContactSection.astro';
+import TableOfContents from './TableOfContents.astro';
 
 export interface Props {
 	post: any;
@@ -69,6 +70,7 @@ article div header img.hero-image {
 					<p class="publish-date">{post.date}</p>
 				</div>
 			</header>
+            <TableOfContents headers={post.headers} tags={post.tags}/>
 			<main class="content tilted flex justify-center" style={segmentBgStyle}>
 				<slot />
 			</main>
