@@ -14,7 +14,6 @@ segment: careers
 segments: ['diagnosis', 'careers', 'employers', 'education']
 picture: profiles.png
 ---
-**Are you interested in utilising our Profiling Tool or would like to enquire about one of our services?**
-**Please get in touch via our contact form below!**
+**Are you interested in utilising our Profiling Tool or would like to enquire about one of our services? Please get in touch via our contact form below!**
 
 If you have any questions about our services or our profiling tool please check our FAQ.
