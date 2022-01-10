@@ -13,6 +13,19 @@ const contactHiddenInputSegmentsString = segments.join(' ')
 	background-color: var(--segment-blue-100);
 	border-radius: 5px;
 }
+.custom-select{
+	/* wrapper style */
+	position: relative;
+	display:block;
+	max-width: 100%;
+	min-width: 180px;
+}
+select {
+	margin:0;
+	display:block;
+	width: 100%;
+	cursor: pointer;
+}
 </style>
 <script>
 	function toggleField(hideObj,showObj){
@@ -45,13 +58,11 @@ const contactHiddenInputSegmentsString = segments.join(' ')
 				<input class="border rounded-lg focus:shadow-outline" id="contact-phone" name="contact-phone" type="tel"/>
 			</div>
 		</fieldset>
-		<fieldset class="flex md:flex-row mobile:flex-col gap-x-4">
-			<div class="flex flex-col flex-grow">
-				<label for="contact-reason">I am contacting you about:</label>
+		<fieldset class="flex md:flex-row mobile:flex-col md:gap-x-4">
+			<label class="custom-select flex flex-col flex-grow" for="contact-reason">I am contacting you about:
 				<select class="border rounded-lg focus:shadow-outline" 
 							onchange="if(this.options[this.selectedIndex].id=='other-reason'){
 										toggleField(this,this.nextSibling);
-										this.selectedIndex='0';
 									}"
 							name="contact-reason" id="contact-reason">
 					{segmentReasons.map(reason => <option value={reasonToDashValue(reason)}>{reason}</option> )}
@@ -60,7 +71,7 @@ const contactHiddenInputSegmentsString = segments.join(' ')
 				<input class="border rounded-lg focus:shadow-outline" id="contact-reason-other"
 							name="contact-reason" style="display:none;" disabled="disabled" 
 							onblur="if(this.value==''){toggleField(this,this.previousSibling);}" type="text">
-			</div>
+			</label>
 		</fieldset>
 		<fieldset class="flex md:flex-row mobile:flex-col gap-x-4">
 			<div class="flex flex-col flex-grow">
