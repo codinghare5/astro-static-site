@@ -1,0 +1,84 @@
+---
+// Component Imports
+import Default from '../../layouts/Default.astro';
+import BlogPostPreview from '../../components/BlogPostPreview.astro';
+import Hero from '../../components/Hero.astro';
+
+let title = 'Example autism profiles';
+let description = 'See example profiles and contact us for more info.';
+
+export function getStaticPaths({ paginate }) {
+	let allProfiles = Astro.fetchContent('./profiles/*.md');
+	allProfiles = allProfiles.sort((a, b) => new Date(b.date).valueOf() - new Date(a.date).valueOf());
+	
+	return paginate(allProfiles, { pageSize: 10 });
+}
+const { page } = Astro.props;
+const permalink = page.currentPage;
+const pages = Array.from(Array(page.lastPage), (e,i)=>i+1)
+---
+<style>
+.blog-header {
+	border-bottom: 1px solid var(--accent-gold-400);
+}
+.alice-font {
+	font-family: Alice;
+}
+.mono {
+	font-family: 'Ubuntu mono';
+}
+.pagination {
+	border: 1px solid var(--accent-gold-400);
+	border-radius: 999px;
+	padding: 1rem;
+}
+:global(section div a:hover, section div a:focus) {
+	display: inline-block;
+	font-weight: bolder;
+	background-color: var(--segment-purple-100) !important;
+	border: 1px solid var(--segment-purple-100);
+	border-radius: 999px;
+}
+</style>
+
+<Default title={title} description={description} permalink={permalink}>
+	<Hero herotitle={title}>
+		{description}
+	</Hero>
+	<article>
+		<section class="m-4">
+			<p>
+				Each person's autism is different. Autism symptoms, for example, difficulty with change or an inability to understand jokes or sarcasm, can be caused by a wide range of different underlying issues.
+			</p>
+			<p>
+				Below are some autism profiles of real people on the autism spectrum Aspiedent have profiled. However, they have been standardised so they can be used as examples. These illustrate just how varied autism spectrum disorders can be.
+			</p>
+			<p>
+				The diagnostic criteria for autism are set out in a manual that health professionals use to diagnose autism spectrum disorder, called the DSM-5.
+			</p>
+			<p>
+				In each case we relate the underlying issues back to the diagnostic criteria. This demonstrates that Aspiedent’s profiling tool explains an individual's autism in a way that satisfies the diagnostic criteria.
+			</p>
+			<p>
+				A full autism profile includes background information, and recommendations. If appropriate we include a section on other difficulties, which are commonly found in autism or aspergers.
+			</p>
+		</section>
+	</article>
+	<article>
+		<section>
+			{page.data.map(p => <BlogPostPreview post={p} />)}
+		</section>
+	</article>
+	{ page.lastPage > 1 ? 
+		<section class="flex justify-center items-center">
+			<div class="flex pagination">
+				<a class="sm:px-4 mobile:px-2" href={page.url.prev === 'undefined' ? '#' : page.url.prev}>Previous</a>
+				{
+					pages.map(p =>`<a class="${page.currentPage === p ? 'underline ' : ''}sm:px-4 mobile:px-3" href="/blog/${ p === 1 ? '' : p}">${p}</a>`)
+				}
+				<a class="sm:px-4 mobile:px-3" href={page.url.next === 'undefined' ? '#' : page.url.next}>Next</a>
+			</div>
+		</section>
+		: ''
+	}
+</Default>
