@@ -1,14 +1,11 @@
 ---
-layout: ../../../layouts/BlogPost.astro
+layout: ../../../layouts/CaseStudy.astro
 title: "IT manager: Paul"
 tags: ['workplace assessment', 'neurodiversity']
-date: 15 December 2020
 image: Cliff.jpg
 thumbnail: Cliff.jpg
 metaTitle: Case study of an IT manager
 metaDescription: Paul’s company were on the verge of losing a very valuable member of staff due to unexplained stress. See how they turned this around and ended up with a better outcome in terms of work satisfaction and efficiency for all their staff.
-author: [Jen Blacow]
-authorImage: [jen]
 description: Paul’s company were on the verge of losing a very valuable member of staff due to unexplained stress. See how they turned this around and ended up with a better outcome in terms of work satisfaction and efficiency for all their staff.
 segments: [education, employers, diagnosis, careers]
 creditURL: https://pixabay.com/users/sasint-3639875/

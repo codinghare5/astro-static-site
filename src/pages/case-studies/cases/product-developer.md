@@ -1,14 +1,11 @@
 ---
-layout: ../../../layouts/BlogPost.astro
+layout: ../../../layouts/CaseStudy.astro
 title: "Product Developer: Lucas"
 tags: ['product developer', 'reasonable adjustments']
-date: 15 June 2020
 image: Creative.jpg
 thumbnail: Creative.jpg
 metaTitle: Case Study of a Product Developer
 metaDescription: A seemingly impossible situation solved by introducing simple reasonable adjustments. Lucas’s story is not an uncommon one.
-author: [Jen Blacow]
-authorImage: [jen]
 description: A seemingly impossible situation solved by introducing simple reasonable adjustments. Lucas’s story is not an uncommon one.
 segments: [education, employers, diagnosis, careers]
 creditURL: https://pixabay.com/users/cdd20-1193381/

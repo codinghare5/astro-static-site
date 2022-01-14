@@ -1,0 +1,27 @@
+---
+import Default from './Default.astro';
+import CaseStudy from '../components/CaseStudy.astro';
+
+const { content } = Astro.props;
+const {title, description, permalink} = content;
+---
+<style>
+section.post {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    justify-content: center;
+    background-color: white;
+}
+li { 
+    display: flex;
+}
+ul, ol { padding-inline: 1rem !important; }
+</style>
+<Default title={title} description={description} permalink={permalink}>
+	<CaseStudy post={content}>
+		<section class="post max-w-screen-sm mx-3 p-3">
+			<slot />
+		</section>
+	</CaseStudy>
+</Default>

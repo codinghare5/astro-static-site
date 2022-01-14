@@ -1,0 +1,63 @@
+---
+import Author from './Author.astro';
+import ContactSection from './ContactSection.astro';
+import TableOfContents from './TableOfContents.astro';
+
+export interface Props {
+	post: any;
+}
+const { post } = Astro.props;
+// const { title, author, authorImage, date, image, alt, segmentColor } = Astro.props;
+const segmentToColor = {'diagnosis' : 'blue', 'careers' : 'green', 'education': 'red', 'employers' : 'purple'}
+const segmentBgStyle = post.segments.length && post.segments.length > 1
+						? `background-image: linear-gradient(to bottom, ${post.segments.map(segment => `var(--segment-${segmentToColor[segment]}-100)`)});` 
+						: `background-color: var(--segment-${segmentToColor[post.segments]}-100)`;
+						
+---
+<style>
+header {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+article div header img.hero-image {
+	width: 100%;
+	height: auto;
+	border-radius: 0.375rem;
+}
+.authors-container {
+	position: relative;
+	width: fit-content;
+}
+.publish-date {
+	font-family: 'Ubuntu mono';
+	font-size: small;
+}
+
+:global(.content a) {
+    font-weight: 700;
+    text-decoration: underline;
+}
+</style>
+
+<div>
+	<article>
+		<div>
+			<header>
+				{post.image && <figure class="flex mobile:flex-col-reverse sm:flex-col">
+					<img class="hero-image" loading="lazy" src={`/assets/blog/${post.image}`} alt={post.alt} />
+					<a href={post.creditURL}><figcaption class="z-10 px-3 italic text-sm">{post.creditText}</figcaption></a>
+				</figure>}
+				<div class="authors-container pointer-events-none px-3">
+					<h1 class="title text-4xl font-semibold m-8">{post.title}</h1>
+				</div>
+			</header>
+            <TableOfContents headers={post.headers} tags={post.tags}/>
+			<main class="content tilted flex justify-center" style={segmentBgStyle}>
+				<slot />
+			</main>
+		</div>
+	</article>
+	<ContactSection segments={post.segments}/>
+</div>

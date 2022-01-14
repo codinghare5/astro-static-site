@@ -1,14 +1,11 @@
 ---
-layout: ../../../layouts/BlogPost.astro
+layout: ../../../layouts/CaseStudy.astro
 title: "Scientist: Kulvinder"
 tags: ['autism', 'neurodiversity', 'profile']
-date: 15 March 2020
 image: Crosby.jpg
 thumbnail: Crosby.jpg
 metaTitle: Case Study of Scientist
 metaDescription: A vital lesson learned by one large organisation which now informs their good practice in managing autism in the workplace.
-author: [Jen Blacow]
-authorImage: [jen]
 description: A vital lesson learned by one large organisation which now informs their good practice in managing autism in the workplace.
 segments: [education, employers, diagnosis, careers]
 creditURL: https://pixabay.com/users/timhill-5727184/

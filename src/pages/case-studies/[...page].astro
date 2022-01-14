@@ -1,7 +1,7 @@
 ---
 // Component Imports
 import Default from '../../layouts/Default.astro';
-import BlogPostPreview from '../../components/BlogPostPreview.astro';
+import CaseStudyPreview from '../../components/CaseStudyPreview.astro';
 import Hero from '../../components/Hero.astro';
 
 let title = 'Case studies';
@@ -46,7 +46,7 @@ const pages = Array.from(Array(page.lastPage), (e,i)=>i+1)
 	</Hero>
 	<article>
 		<section>
-			{page.data.map(p => <BlogPostPreview post={p} />)}
+			{page.data.map(p => <CaseStudyPreview post={p} />)}
 		</section>
 	</article>
 	{ page.lastPage > 1 ? 

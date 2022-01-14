@@ -1,0 +1,93 @@
+---
+export interface Props {
+	post: any;
+}
+
+const { post } = Astro.props;
+const segmentToColor = {'diagnosis' : 'blue', 'careers' : 'green', 'education': 'red', 'employers' : 'purple'}
+const segmentBgStyle = post.segments.length && post.segments.length > 1
+						? `background-image: linear-gradient(to right, ${post.segments.map(segment => `var(--segment-${segmentToColor[segment]}-100)`)});` 
+						: `background-color: var(--segment-${segmentToColor[post.segments]}-100)`;
+---
+<style>
+.up {
+	clip-path: url(#mask);
+	object-fit: cover;
+	width: 100%;
+	min-height: 160px;
+	height: fit-content;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: contain;
+}
+
+.content :global(main > * + *) {
+	margin-top: 1rem;
+}
+
+.post-preview {
+	position: relative;
+	z-index: 0;
+	height: fit-content;
+}
+
+.post-preview:first-of-type {
+	margin-top: 3rem;
+}
+
+.title,
+.author,
+.publish-date {
+ 	margin: 0;
+}
+
+.publish-date,
+.author {
+	font-size: 1rem;
+}
+
+.author {
+	color: var(--segment-purple-400);
+}
+
+.publish-date {
+	font-family: 'Ubuntu mono', monospace;
+}
+
+.title {
+	font-size: 1.5rem;
+	line-height: 1.5rem;
+	font-weight: 700;
+	color: var(--segment-purple-400);
+}
+
+article a div img {
+	border-radius: 3px;
+	border: 3px solid white;
+}
+
+path {
+	transform: rotate(180deg);
+	transform-origin: 50% 50%;
+}
+</style>
+<article class="post-preview">
+	<a href={post.url}>
+		<div class="up md:py-3 sm:py-6 mobile:pt-10 mobile:pb-16" style={segmentBgStyle}>
+			<img class="sm:float-left sm:mt-3 sm:mx-3 sm:mb-0 mobile:mx-auto" src={`/assets/blog/thumbnails/${post.thumbnail}`} />
+			<header class="py-3 mobile:mx-3">
+				<h1 class="title">{post.title}</h1>
+			</header>
+			<main class="mx-3">
+				<p>{post.description}</p>
+			</main>
+		</div>
+		<svg width="0" height="0" viewBox="0 0 1 1">
+			<defs>
+				<clipPath id="mask" clipPathUnits="objectBoundingBox">
+					<path d="M1,0.015 C1,0.011,0.999,0.007,0.998,0.005 C0.997,0.002,0.995,0.001,0.994,0.001 C0.936,0.011,0.5,0.083,0.5,0.083 C0.5,0.083,0.064,0.011,0.006,0.001 C0.005,0.001,0.003,0.002,0.002,0.005 C0.001,0.007,0,0.011,0,0.015 C0,0.124,0,0.803,0,0.906 C0,0.913,0.002,0.919,0.005,0.919 C0.06,0.928,0.5,1,0.5,1 C0.5,1,0.94,0.928,0.995,0.919 C0.998,0.919,1,0.913,1,0.906 C1,0.803,1,0.124,1,0.015" fill="white"/>
+				</clipPath>
+			</defs>
+		</svg>
+	</a>
+</article>
