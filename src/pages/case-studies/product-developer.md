@@ -1,5 +1,5 @@
 ---
-layout: ../../../layouts/CaseStudy.astro
+layout: ../../layouts/CaseStudy.astro
 title: "Product Developer: Lucas"
 tags: ['product developer', 'reasonable adjustments']
 image: Creative.jpg

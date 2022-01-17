@@ -1,5 +1,4 @@
 ---
-import Author from './Author.astro';
 import ContactSection from './ContactSection.astro';
 import TableOfContents from './TableOfContents.astro';
 
@@ -46,7 +45,7 @@ article div header img.hero-image {
 		<div>
 			<header>
 				{post.image && <figure class="flex mobile:flex-col-reverse sm:flex-col">
-					<img class="hero-image" loading="lazy" src={`/assets/blog/${post.image}`} alt={post.alt} />
+					<img class="hero-image" loading="lazy" src={`/assets/case-studies/${post.image}`} alt={post.alt} />
 					<a href={post.creditURL}><figcaption class="z-10 px-3 italic text-sm">{post.creditText}</figcaption></a>
 				</figure>}
 				<div class="authors-container pointer-events-none px-3">

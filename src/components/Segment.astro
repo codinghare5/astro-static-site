@@ -2,21 +2,21 @@
 const heroImage = '/social.jpg'
 
 export interface Props {
-  herotitle: string;
-  bgcolor: string;
+	herotitle: string;
+	bgcolor: string;
 }
 const { herotitle, bgcolor } = Astro.props;
 ---
 <style>
 .hero {
-    color: var(--segment-purple-500);
+	color: var(--segment-purple-500);
 }
 </style>
 <article class="hero flex flex-col justify-center items-center h-96 rounded-md" style={`background-image: linear-gradient(to right, var(--segment-${bgcolor}-200), var(--segment-${bgcolor}-100) 40% 60%, var(--segment-${bgcolor}-200));`}>
-    <section class="flex mx-3 flex-col justify-center items-center">
-        <h1 class="text-4xl font-bold">{ herotitle }</h1>
-        <p class="py-3">
-            <slot/>
-        </p>
-    </section>
+	<section class="flex mx-3 flex-col justify-center items-center">
+		<h1 class="text-4xl font-bold">{ herotitle }</h1>
+		<p class="py-3">
+			<slot/>
+		</p>
+	</section>
 </article>

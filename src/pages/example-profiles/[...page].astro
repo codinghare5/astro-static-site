@@ -1,16 +1,15 @@
 ---
 // Component Imports
 import Default from '../../layouts/Default.astro';
-import BlogPostPreview from '../../components/BlogPostPreview.astro';
+import ExampleProfilePreview from '../../components/ExampleProfilePreview.astro';
 import Hero from '../../components/Hero.astro';
 
 let title = 'Example autism profiles';
 let description = 'See example profiles and contact us for more info.';
 
 export function getStaticPaths({ paginate }) {
-	let allProfiles = Astro.fetchContent('./profiles/*.md');
-	allProfiles = allProfiles.sort((a, b) => new Date(b.date).valueOf() - new Date(a.date).valueOf());
-	
+	let allProfiles = Astro.fetchContent('./*.md');
+
 	return paginate(allProfiles, { pageSize: 10 });
 }
 const { page } = Astro.props;
@@ -39,6 +38,10 @@ const pages = Array.from(Array(page.lastPage), (e,i)=>i+1)
 	border: 1px solid var(--segment-purple-100);
 	border-radius: 999px;
 }
+:global(h2) {
+    font-weight: 800 !important;
+    font-size: 1.75rem !important;
+}
 </style>
 
 <Default title={title} description={description} permalink={permalink}>
@@ -66,7 +69,7 @@ const pages = Array.from(Array(page.lastPage), (e,i)=>i+1)
 	</article>
 	<article>
 		<section>
-			{page.data.map(p => <BlogPostPreview post={p} />)}
+			{page.data.map(p => <ExampleProfilePreview post={p} />)}
 		</section>
 	</article>
 	{ page.lastPage > 1 ? 

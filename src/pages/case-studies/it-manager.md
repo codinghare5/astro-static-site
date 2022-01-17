@@ -1,5 +1,5 @@
 ---
-layout: ../../../layouts/CaseStudy.astro
+layout: ../../layouts/CaseStudy.astro
 title: "IT manager: Paul"
 tags: ['workplace assessment', 'neurodiversity']
 image: Cliff.jpg

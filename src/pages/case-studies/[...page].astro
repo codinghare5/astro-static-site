@@ -8,8 +8,7 @@ let title = 'Case studies';
 let description = 'See case studies and feel free to contact us.';
 
 export function getStaticPaths({paginate}) {
-	let allCases = Astro.fetchContent('./cases/*.md');
-	allCases = allCases.sort((a, b) => new Date(b.date).valueOf() - new Date(a.date).valueOf());
+	const allCases = Astro.fetchContent('./*.md');
 	
 	return paginate(allCases, { pageSize: 10 });
 }

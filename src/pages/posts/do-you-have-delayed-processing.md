@@ -18,13 +18,14 @@ Two weeks ago, we [posted an article](what-slow-processing-autism-neurodiversity
 
 But what’s the difference between slow processing and delayed processing of incoming information?
 
+## Slow Processing
 Slow processing of incoming information means that it takes longer for you to take in information (e.g. via the senses). So for example when you are in a training session, you may take in the information being given to you (or at least parts of it) more slowly than average. 
 
 Because you are slow at taking in the incoming information, you may fall behind and miss information being given to you further into the session as you are either too busy processing the information you were given earlier in the session or struggling to deal with an overload of information (sensory overload). Thus, you likely lose a lot of the information that is being given to you. The brain throws it away!
 
  
 
-### Delayed Processing 
+## Delayed Processing 
 Delayed processing of incoming information is different. Often, this is when you are recording events as they happen (for example a meeting). But instead of this information being processed at the time, or even slowly, the information from the meeting is just stored somewhere (this includes the sound, video, and emotion of said meeting). 
 
 Then suddenly, when the brain is ready, or it has some spare capacity, BAM, it will process the information there and then. This could be hours, weeks, months, or even years after the event! Events could also be processed when the processing load on the brain is much lower. For example, during downtime, when the person is on holiday, or even in the middle of the night while they are asleep!

@@ -1,14 +1,11 @@
 ---
-layout: ../../../layouts/BlogPost.astro
+layout: ../../layouts/CaseStudy.astro
 title: "Architect: Michael"
 tags: ['case studies', 'employee', 'understanding', 'difference', 'workplace assessment']
-date: 15 September 2020
 image: Building.jpg
 thumbnail: Building.jpg
 metaTitle: Case Study of an architect
 metaDescription: Sometimes you need a helping hand facilitating all your employees understanding and acceptance of difference.
-author: [Jen Blacow]
-authorImage: [jen]
 description: Sometimes you need a helping hand facilitating all your employees understanding and acceptance of difference.
 segments: [education, employers, diagnosis, careers]
 creditURL: https://pixabay.com/users/13452116-13452116/

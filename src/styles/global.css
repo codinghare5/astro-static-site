@@ -4,44 +4,50 @@
 
 @layer base {
 	header {
-	  @apply lg:container sm:container mobile:container mx-auto;
+		@apply lg:container sm:container mobile:container mx-auto;
 	}
 	article {
 		@apply lg:container sm:container mobile:container mx-auto;
 	}
+	h2 {
+		@apply text-2xl font-bold;
+	}
+	h3 {
+		@apply text-xl font-bold;
+	}
 }
 
 @layer components {
-    .post > ul, .down ul {
-        list-style: disc;
-        padding-inline: 2rem;
-        padding-block: 1rem;
-    }
-    .post > ol, .down ol {
-        list-style: decimal;
-        padding-inline: 2rem;
-        padding-block-end: 1rem;
-    }
-    .post h1, h2, h3, h4, h5, h6 {
-        font-weight: bold;
-    }
-    blockquote {
-        font-style: italic;
-    }
+	.post > ul, .down ul {
+		list-style: disc;
+		padding-inline: 2rem;
+		padding-block: 1rem;
+	}
+	.post > ol, .down ol {
+		list-style: decimal;
+		padding-inline: 2rem;
+		padding-block-end: 1rem;
+	}
+	.post h1, h2, h3, h4, h5, h6 {
+		font-weight: bold;
+	}
+	blockquote {
+		font-style: italic;
+	}
 
-    button.action2 {
-        color: var(--accent-gold-100);
-        font-weight: 500;
-        background-color: var(--segment-purple-500);
-        border: 1px solid var(--accent-gold-100);
-        border-radius: 3px;
-        padding: 0.5rem;
-    }
-    
-    button.action2:focus, button.action2:hover {
-        color: var(--accent-gold-400);
-        background-color: white;
-        border: 1px solid var(--accent-gold-400);
-        transform: scale(1.01618);
-    }
+	button.action2 {
+		color: var(--accent-gold-100);
+		font-weight: 500;
+		background-color: var(--segment-purple-500);
+		border: 1px solid var(--accent-gold-100);
+		border-radius: 3px;
+		padding: 0.5rem;
+	}
+	
+	button.action2:focus, button.action2:hover {
+		color: var(--accent-gold-400);
+		background-color: white;
+		border: 1px solid var(--accent-gold-400);
+		transform: scale(1.01618);
+	}
 }

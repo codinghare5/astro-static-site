@@ -1,5 +1,5 @@
 ---
-layout: ../../../layouts/CaseStudy.astro
+layout: ../../layouts/CaseStudy.astro
 title: "Scientist: Kulvinder"
 tags: ['autism', 'neurodiversity', 'profile']
 image: Crosby.jpg
