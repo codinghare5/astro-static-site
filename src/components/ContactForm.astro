@@ -26,6 +26,10 @@ select {
 	width: 100%;
 	cursor: pointer;
 }
+input[type='text'] {
+    margin:0;
+    width: 100%;
+ }
 </style>
 <script>
 	function toggleField(hideObj,showObj){
@@ -70,7 +74,11 @@ select {
 				</select>
 				<input class="border rounded-lg focus:shadow-outline" id="contact-reason-other"
 							name="contact-reason" style="display:none;" disabled="disabled" 
-							onblur="if(this.value==''){toggleField(this,this.previousSibling);}" type="text">
+							onblur="if(this.value==''){
+                                toggleField(this,this.previousSibling);
+                                this.previousSibling.selectedIndex =0;
+                            }" 
+                            type="text">
 			</label>
 		</fieldset>
 		<fieldset class="flex md:flex-row mobile:flex-col gap-x-4">
